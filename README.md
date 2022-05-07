@@ -11,7 +11,7 @@ _Attention: This site is under construction while learning how to use Github pag
 
 ## Menu:
 
-- [Profile]("/contents/menu.md")  
+- [Profile](/contents/menu.md)  
 - [Publications]("https://www.google.com")  
 - [Research tools]("https://www.google.com")  
 - [Teaching]("https://www.google.com")  
