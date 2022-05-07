@@ -12,7 +12,7 @@ MK316 is:
 ### This site is under construction while learning how to use Github pages
 
 ---  
-Menu:
+## Menu:
 
 - [Profile]("https://www.google.com")  
 - [Publications]("https://www.google.com")  
@@ -21,7 +21,7 @@ Menu:
 
 
 
-## Weblinks  
+## Weblinks:  
 [GNU]("https://www.gnu.ac.kr")  
 [Google]("https://www.google.com")  
 [LMS GNU]("https://rec.ac.kr/gnu")  
