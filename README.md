@@ -2,7 +2,9 @@
 
 [Goto Github account]("https://github.com/MK316/")
 ```
-I'm a researcher in phonetics & phonology, and currently working as an educator in a college.
+MK316 is:  
+'\-' a researcher in phonetics & phonology  
+currently working as an educator in a college.
 ```
 
 ![Image](https://github.com/MK316/mkfiles/blob/main/porfile.JPG)
