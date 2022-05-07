@@ -1,19 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to MK316's Weblog
 
-You can use the [editor on GitHub](https://github.com/MK316/MK316.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a researcher in phonetics & phonology, and currently working as an educator in a college.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### This site is under construction while learning how to use Github pages
 
-### Markdown
+This page will include
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```Python
+```R
+```Basic stats
+```Praat
+```& other tools for language research
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -21,9 +19,9 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Menu** and _GNU_ 
 
-[Link](url) and ![Image](src)
+![Image](https://github.com/MK316/mkfiles/blob/main/porfile.JPG)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
@@ -32,6 +30,5 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MK316/MK316.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+MK3one6@gmail.com
