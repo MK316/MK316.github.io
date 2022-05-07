@@ -1,6 +1,6 @@
 ## Welcome to MK316's Weblog
 
-[My Github account]("https://github.com/MK316/")
+[Goto Github account]("https://github.com/MK316/")
 ```
 I'm a researcher in phonetics & phonology, and currently working as an educator in a college.
 ```
@@ -15,11 +15,12 @@ Menu:
 - [Profile]("https://www.google.com")
 - Research topics
 - Research tools
+- Teaching
 
 
 
 
-
+[GNU]("https://www.gnu.ac.kr")
 [Google]("https://www.google.com")
 
 
