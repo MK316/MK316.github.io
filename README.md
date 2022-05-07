@@ -1,4 +1,4 @@
-#✨ Welcome to _MK316's_ Weblog
+# Welcome to _MK316's_ Weblog
 
 ↳[Goto github]("https://github.com/MK316/")
 ```
@@ -28,5 +28,5 @@ _Attention: This site is under construction while learning how to use Github pag
 
 
 
-### Contact
+### Contact ✉
 _MK3one6@gmail.com_
