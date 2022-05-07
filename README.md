@@ -15,9 +15,9 @@ MK316 is:
 Menu:
 
 - [Profile]("https://www.google.com")
-- Research topics
-- Research tools
-- Teaching
+- [Publications]
+- [Research tools]
+- [Teaching]
 
 
 
