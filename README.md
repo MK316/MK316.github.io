@@ -2,7 +2,7 @@
 
 ↳[Goto github]("https://github.com/MK316/")
 ```
-MK316 is:  
+### ℳҜ316 is:  
 - a researcher in phonetics & phonology (Ph.D. in Linguistics)  
 - currently working as an educator at GNU
 ```
