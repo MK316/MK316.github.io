@@ -11,18 +11,14 @@ I'm a researcher in phonetics & phonology, and currently working as an educator 
 
 ---  
 ```
-This page will include:
+Menu:
 
-```Python
-```R
-```Basic stats
-```Praat
-```& other tools for language research
-```
-
-- Profile
+- [Profile]("https://www.google.com")
 - Research topics
 - Research tools
+```
+
+
 
 
 
