@@ -1,6 +1,6 @@
 ## Welcome to MK316's Weblog
 
-[Go to Github("https://github.com/MK316/")]
+[Go to Github("https://github.com/MK316/")
 
 
 I'm a researcher in phonetics & phonology, and currently working as an educator in a college.
