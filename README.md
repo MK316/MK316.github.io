@@ -1,6 +1,6 @@
 ## Welcome to MK316's Weblog
 
-[Goto Github account]("https://github.com/MK316/")
+[Goto github]("https://github.com/MK316/")
 ```
 MK316 is:  
 - a researcher in phonetics & phonology (Ph.D. in Linguistics)  
