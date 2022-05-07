@@ -19,7 +19,7 @@ _Attention: This site is under construction while learning how to use Github pag
 
 
 ## Weblinks:  
-[GNU]("https://www.gnu.ac.kr")  
+[GNU](https://www.gnu.ac.kr)  
 [Google]("https://www.google.com")  
 [LMS GNU]("https://rec.ac.kr/gnu")  
 
