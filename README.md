@@ -3,8 +3,8 @@
 [Goto Github account]("https://github.com/MK316/")
 ```
 MK316 is:  
-'\-' a researcher in phonetics & phonology  
-currently working as an educator in a college.
+- a researcher in phonetics & phonology (Ph.D. in Linguistics)  
+- currently working as an educator at GNU
 ```
 
 ![Image](https://github.com/MK316/mkfiles/blob/main/porfile.JPG)
