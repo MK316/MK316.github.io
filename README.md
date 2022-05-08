@@ -2,7 +2,7 @@
 
 
 ↳ [MK3one6@gmail.com](mailto: MK3one6@gmail.com)  
-↳ [Google Colab]("https://colab.research.google.com/")
+↳ [Google Colab](https://colab.research.google.com/)
 ```
 What's NEW:  
 - This page is under construction. 
