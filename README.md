@@ -1,6 +1,6 @@
 # Welcome.
 
-↳[Goto github]("https://github.com/MK316/")
+↳[Goto GNU]("https://www.gnu.ac.kr")
 ```
 Notes:  
 - This page is under construction. 
