@@ -1,6 +1,6 @@
 # Welcome.
 
-↳[Goto Google Colab]("https://colab.research.google.com/")
+↳[Google Colab]("https://colab.research.google.com/")
 ```
 What's NEW:  
 - This page is under construction. 
