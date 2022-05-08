@@ -2,9 +2,9 @@
 
 ↳[Goto github]("https://github.com/MK316/")
 ```
-Ҝ316 is:  
-- a researcher in phonetics & phonology (Ph.D. in Linguistics)  
-- currently working as an educator at GNU
+Notes:  
+- This page is under construction. 
+- I'm currently learning how to use github pages.
 ```
 
 _Attention: This site is under construction while learning how to use Github pages_
