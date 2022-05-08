@@ -17,11 +17,4 @@ _Mylinks: [GNU]("https://www.gnu.ac.kr"), [Google]("https://www.gogle.com"),[LMS
 - [Teaching]("https://www.google.com")  
 
 
-
-## Weblinks:  
-
-
-
-
-
-Email: MK3one6@gmail.com
+MK3one6@gmail.com
