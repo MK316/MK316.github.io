@@ -1,30 +1,27 @@
 # Welcome.
 
-↳[Goto GNU]("https://www.gnu.ac.kr")
+↳[Goto Google Colab]("https://colab.research.google.com/")
 ```
-Notes:  
+What's NEW:  
 - This page is under construction. 
 - I'm currently learning how to use github pages.
 ```
 
-_Attention: This site is under construction while learning how to use Github pages_
+_Mylinks: [GNU]("https://www.gnu.ac.kr"), [Google]("https://www.gogle.com"),[LMS]("https://rec.ac.kr/gnu")
 
 ## Menu:
 
 - [Profile](/contents/menu.md)  
 - [Publications]("https://www.google.com")  
-- [Research tools]("https://www.google.com")  
+- [Research tools]("https://www.google.com") Python, R, Basic stats, Praat  
 - [Teaching]("https://www.google.com")  
 
 
 
 ## Weblinks:  
-[GNU](https://www.gnu.ac.kr)  
-[Google]("https://www.google.com")  
-[LMS GNU]("https://rec.ac.kr/gnu")  
 
 
 
 
-### Contact ✉
-_MK3one6@gmail.com_
+
+Email: MK3one6@gmail.com
