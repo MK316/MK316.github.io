@@ -17,4 +17,4 @@
 2012.3 ~ 2.16.2.28  Lecturer,  
 ```  
 
-### [BACK to HOME](../readme.md)
+### [BACK to HOME](../README.md)
