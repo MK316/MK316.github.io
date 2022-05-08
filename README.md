@@ -18,5 +18,3 @@ Mylinks: [GNU]("https://www.gnu.ac.kr"), [Google]("https://www.gogle.com"), [LMS
 §[Research tools]("https://www.google.com") Python, R, Basic stats, Praat  
 §[Teaching]("https://www.google.com")  
 
-
-
