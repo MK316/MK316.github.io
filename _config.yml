@@ -1,10 +1,6 @@
 title: MK316.github.io (Weblog)
 logo: /images/snow.jpg
 description: I'm a researcher specialized in Phonetics & Phonology.
+email: MK3one6@gmail.com
 show_downloads: true
-theme: jekyll-theme-minimal
-
-# Footer Links
-footer_links:
-  - title: Miran Kim
-    email: MK3one6@gmail.com
+theme: jekyll-theme-minimal  
