@@ -9,7 +9,7 @@ What's NEW:
 - I'm currently learning how to use github pages.
 ```
 
-Mylinks: [GNU]("https://www.gnu.ac.kr"), [Google]("https://www.gogle.com"), [LMS]("https://rec.ac.kr/gnu")
+Mylinks: <li>[GNU]<a href = https://www.gnu.ac.kr"></a></li>, [Google]("https://www.gogle.com"), [LMS]("https://rec.ac.kr/gnu")
 
 ## Menu:
 
