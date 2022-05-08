@@ -2,5 +2,5 @@
 
 Parents' Day
 
-![Miss you, mom](/images/050822.png). 
+![Miss you, mom](/images/05082022.png). 
 
