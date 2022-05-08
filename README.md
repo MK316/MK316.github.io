@@ -14,7 +14,8 @@ Mylinks: [GNU]("https://www.gnu.ac.kr"), [Google]("https://www.gogle.com"), [LMS
 ## Menu:
 
 § [Profile](/contents/menu.md)  
-§ [Publications]("https://www.google.com")  
-§ [Research tools]("https://www.google.com") Python, R, Basic stats, Praat  
-§ [Teaching]("https://www.google.com")  
+§ [Publications](/publications.md)  
+§ [Research tools](/contents/tools.md) Python, R, Basic stats, Praat  
+§ [Teaching](/contents/teaching.md)  
+§ [Blog](/blog/readme.md)
 
