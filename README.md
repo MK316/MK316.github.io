@@ -7,7 +7,7 @@ What's NEW:
 - I'm currently learning how to use github pages.
 ```
 
-_Mylinks: [GNU]("https://www.gnu.ac.kr"), [Google]("https://www.gogle.com"),[LMS]("https://rec.ac.kr/gnu")
+Mylinks: [GNU]("https://www.gnu.ac.kr"),  [Google]("https://www.gogle.com"),  [LMS]("https://rec.ac.kr/gnu")
 
 ## Menu:
 
