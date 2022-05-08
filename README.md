@@ -2,7 +2,6 @@
 
 
 ↳ MK3one6@gmail.com  
-
 ↳ [Google Colab]("https://colab.research.google.com/")
 ```
 What's NEW:  
