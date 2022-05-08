@@ -1,4 +1,4 @@
-# Welcome to _MK316's_ Weblog
+# Welcome.
 
 ↳[Goto github]("https://github.com/MK316/")
 ```
