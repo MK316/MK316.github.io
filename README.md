@@ -13,11 +13,11 @@ What's NEW:
 ↳ [Praat](https://www.fon.hum.uva.nl/praat/)   
 ↳ [Dept. of English Education at GNU](https://www.gnu.ac.kr**), ↳ [LMS](https://rec.ac.kr/gnu),  
 
-**Go to ...**
 
-➺ [Profile](/contents/profile.md)  
-➺ [Publications](/publications.md)  
-➺ [Research tools](/contents/tools.md) Python, R, Basic stats, Praat  
-➺ [Teaching](/contents/teaching.md)  
+**Go to ...**
+➺ [Research tools](/contents/tools.md): Python, R, Basic stats, Praat  
+➺ [Publications](/publications.md) 
+➺ [Teaching](/contents/teaching.md)
+➺ [Profile](/contents/profile.md) 
 ➺ [Blog](/blog/blogmain.md)
 
