@@ -14,10 +14,10 @@ What's NEW:
 ↳ [Dept. of English Education at GNU](https://www.gnu.ac.kr**), ↳ [LMS](https://rec.ac.kr/gnu),  
 
 
-**Go to ...**
+**Go to ...**  
 ➺ [Research tools](/contents/tools.md): Python, R, Basic stats, Praat  
 ➺ [Publications](/publications.md) 
-➺ [Teaching](/contents/teaching.md)
-➺ [Profile](/contents/profile.md) 
-➺ [Blog](/blog/blogmain.md)
+➺ [Teaching](/contents/teaching.md)  
+➺ [Profile](/contents/profile.md)  
+➺ [Blog](/blog/blogmain.md)  
 
