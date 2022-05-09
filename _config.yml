@@ -3,6 +3,4 @@ logo: /images/logo.png
 description: I'm a researcher specialized in Phonetics & Phonology.
 email: MK3one6@gmail.com
 show_downloads: true
-kramdown:
-  input: Kramdown
 theme: jekyll-theme-minimal  
