@@ -12,7 +12,7 @@ _The followings are small applications that I've been working on for my reserach
 ↳ [Getting a frequency wordlist](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Creating_wordlist.ipynb): including wordcloud   
 ↳ [Text tagging](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Tagging_CorpusToolKit.ipynb): using Corpus Toolkit (by [Kristopher Kyle](https://kristopherkyle.github.io/professional-webpage/))    
 ↳ [Condordance](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/concordance.ipynb): for a given text.  
-↳ Basic stats  
+↳ Basic stats: [Descriptive stats](https://github.com/MK316/statistics/blob/3c50a8393e54cc4819f2ded818ed5b3d19a4f65d/Descriptive_stat.ipynb)  
 ↳ [Doing R in Colab](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/01_How_to_do_R_in_colab.ipynb)  
 ↳ [Lexical diversity (e.g., TTR) by Kristopher Kyle](https://github.com/kristopherkyle/lexical_diversity)  
 
