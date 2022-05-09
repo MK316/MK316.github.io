@@ -21,9 +21,7 @@ _The followings are small applications that I've been working on for my reserach
 
 **Go to ...**  
 ↳ [Research tools](/contents/tools.md): Python, R, Basic stats, Praat  
-↳ [Publications](/publications.md)  
 ↳ [Teaching](/contents/teaching.md)  
-↳ [Profile](/contents/profile.md)  
 ↳ [Blog](/blog/blogmain.md)  
 
 **Mylinks:**  
