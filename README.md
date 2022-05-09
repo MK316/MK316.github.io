@@ -17,9 +17,11 @@ What's NEW:
 **Python coding and language research and/or teaching  
 _These are small applications that I've been creating while learning Python coding._
 - [Getting a frequency wordlist](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Creating_wordlist.ipynb): including wordcloud   
-- [Tagging a text](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Tagging_CorpusToolKit.ipynb): using Corpus Toolkit (by [Kristopher Kyle](https://kristopherkyle.github.io/professional-webpage/))    
+- [Text tagging](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Tagging_CorpusToolKit.ipynb): using Corpus Toolkit (by [Kristopher Kyle](https://kristopherkyle.github.io/professional-webpage/))    
 - [Condordance](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/concordance.ipynb): for a given text.  
+- Lexical diversity (e.g., TTR) [by Kristopher Kyle](https://github.com/kristopherkyle/lexical_diversity)
 - Basic stats  
+- Doing R in Colab  
 
 
 **Mylinks:**  
