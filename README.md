@@ -7,13 +7,6 @@ What's NEW:
 - I'm currently learning how to use github pages.
 ```
 
-**Go to ...**  
-➺ [Research tools](/contents/tools.md): Python, R, Basic stats, Praat  
-➺ [Publications](/publications.md)  
-➺ [Teaching](/contents/teaching.md)  
-➺ [Profile](/contents/profile.md)  
-➺ [Blog](/blog/blogmain.md)  
-
 **Python coding and language research and/or teaching**  
 _These are small applications that I've been creating while learning Python coding._
 - [Getting a frequency wordlist](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Creating_wordlist.ipynb): including wordcloud   
@@ -23,6 +16,12 @@ _These are small applications that I've been creating while learning Python codi
 - Basic stats  
 - Doing R in Colab  
 
+**Go to ...**  
+↳ [Research tools](/contents/tools.md): Python, R, Basic stats, Praat  
+↳ [Publications](/publications.md)  
+↳ [Teaching](/contents/teaching.md)  
+↳ [Profile](/contents/profile.md)  
+↳ [Blog](/blog/blogmain.md)  
 
 **Mylinks:**  
 ↳ [Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/)  
