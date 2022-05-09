@@ -1,5 +1,5 @@
 # Welcome.  
-📧 [Email: MK3one6@gmail.com](mailto: MK3one6@gmail.com)  
+✉ [Email: MK3one6@gmail.com](mailto: MK3one6@gmail.com)  
 
 ```
 What's NEW:  
