@@ -9,7 +9,7 @@ What's NEW:
 - I'm currently learning how to use github pages.
 ```
 
-Mylinks:  
+**Mylinks:**  
 ↳ [Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/)  
 ↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/), 
 ↳ [Praat: Doing Phonetics by computer](https://www.fon.hum.uva.nl/praat/)   
