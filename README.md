@@ -14,7 +14,7 @@ What's NEW:
 ➺ [Profile](/contents/profile.md)  
 ➺ [Blog](/blog/blogmain.md)  
 
-**Python coding and language research and/or teaching  
+**Python coding and language research and/or teaching**  
 _These are small applications that I've been creating while learning Python coding._
 - [Getting a frequency wordlist](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Creating_wordlist.ipynb): including wordcloud   
 - [Text tagging](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Tagging_CorpusToolKit.ipynb): using Corpus Toolkit (by [Kristopher Kyle](https://kristopherkyle.github.io/professional-webpage/))    
