@@ -1,6 +1,6 @@
-# Miran Kim (Ph.D. in Linguistics)
+## Miran Kim (Ph.D. in Linguistics)
 
-## Academic Background:
+### Academic Background:
 
 ```  
 2011 Ph.D. in Linguistics at State University of New York (Stonybrook), NY, USA  
@@ -8,7 +8,7 @@
 2000 M.A. in Linguistics at Korea University, Seoul, South Korea  
 1998 B.A. in Linguistics at Korea University, Seoul, South Korea  
 ```  
-## Academic Career 
+### Academic Career 
 
 ```  
 2016.3 ~ Present    Associate professor, the Dept. of English Education at Gyeongsang National University, South Korea   
@@ -17,4 +17,4 @@
 2012.3 ~ 2.16.2.28  Lecturer,  
 ```  
 
-### [BACK to HOME](../README.md)
+_[BACK to HOME](../README.md)
