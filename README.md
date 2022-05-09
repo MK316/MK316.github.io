@@ -5,7 +5,7 @@
 What's NEW:  - This page is under construction. 
 ```
 
-**Python coding and language research and/or teaching**  
+**Python coding and language research and/or teaching:**  
 
 _I'm currently learning Python coding from [Dr. Nam](https://github.com/hsnam95)_ ↳ [Youtube lectures NAMZ](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured).  👥 (Collaborators: Dr.Lee & Dr. Son)  
 ```   
@@ -19,7 +19,7 @@ _The followings are small applications that I've been working on for my reserach
 ↳ [Doing R in Colab](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/01_How_to_do_R_in_colab.ipynb)  
 ↳ [Lexical diversity (e.g., TTR) by Kristopher Kyle](https://github.com/kristopherkyle/lexical_diversity)  
 
-**Go to ...**  
+**Go to:**  
 ↳ [Research tools](/contents/tools.md): Python, R, Basic stats, Praat  
 ↳ [Teaching](/contents/teaching.md)  
 ↳ [Blog](/blog/blogmain.md)  
