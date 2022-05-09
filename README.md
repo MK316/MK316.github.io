@@ -1,6 +1,4 @@
-# Welcome.
-
-
+# Welcome.  
 ↳ [Email: MK3one6@gmail.com](mailto: MK3one6@gmail.com)  
 
 ```
@@ -15,7 +13,7 @@ What's NEW:
 ↳ [Praat: Doing Phonetics by computer](https://www.fon.hum.uva.nl/praat/)   
 ↳ [Dept. of English Education at GNU](https://www.gnu.ac.kr**), ↳ [LMS](https://rec.ac.kr/gnu),  
 
-## Menu:
+**Go to ...**
 
 § [Profile](/contents/profile.md)  
 § [Publications](/publications.md)  
