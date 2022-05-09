@@ -2,8 +2,7 @@
 ✉ [Email: MK3one6@gmail.com](mailto: MK3one6@gmail.com)  
 
 ```
-What's NEW:  
-- This page is under construction. 
+What's NEW:  - This page is under construction. 
 ```
 
 **Python coding and language research and/or teaching**  
