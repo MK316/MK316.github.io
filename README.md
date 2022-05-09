@@ -15,9 +15,9 @@ What's NEW:
 
 **Go to ...**
 
-§ [Profile](/contents/profile.md)  
-§ [Publications](/publications.md)  
-§ [Research tools](/contents/tools.md) Python, R, Basic stats, Praat  
-§ [Teaching](/contents/teaching.md)  
-§ [Blog](/blog/blogmain.md)
+➺ [Profile](/contents/profile.md)  
+➺ [Publications](/publications.md)  
+➺ [Research tools](/contents/tools.md) Python, R, Basic stats, Praat  
+➺ [Teaching](/contents/teaching.md)  
+➺ [Blog](/blog/blogmain.md)
 
