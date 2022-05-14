@@ -28,5 +28,5 @@ What's NEW:  - This page is under construction. The followings are small applica
 **◩ Mylinks:**  
 ↳ [Praat](https://www.fon.hum.uva.nl/praat/)   
 ↳ [Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/)  
-↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/), 
-↳ [Dept. of English Education at GNU](https://www.gnu.ac.kr**), ↳ [LMS](https://rec.ac.kr/gnu),  
+↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/),  
+↳ [Dept. of English Education at GNU](https://englishedu.gnu.ac.kr), ↳ [LMS](https://rec.ac.kr/gnu),  
