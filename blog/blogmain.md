@@ -4,10 +4,9 @@ Teachers' Day
 
 "Your worst enemy is your best teacher." _-Buddha-_  
 
+![Noddig. Agreed.](https://www.cartoonstock.com/cartoon?searchID=CX305249)
 
-Agreed.
-
-
+_[BACK to HOME](../README.md)_
 
 
 ### Sunday 05/08/2022  
@@ -15,5 +14,6 @@ Agreed.
 Parents' Day
 
 ![Miss you, mom](/images/05082022.png). 
+
 
 _[BACK to HOME](../README.md)_
