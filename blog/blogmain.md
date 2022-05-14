@@ -1,3 +1,15 @@
+### Sunday 05/15/2022 
+
+Teachers' Day
+
+"Your worst enemy is your best teacher." _-Buddha-_  
+
+
+Agreed.
+
+
+
+
 ### Sunday 05/08/2022  
 
 Parents' Day
