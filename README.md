@@ -16,7 +16,7 @@ _I'm currently learning Python coding from Dr. Nam following his lectures on you
 ↳ [Condordance](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/concordance.ipynb): finding concordance in a given text.  
 ↳ Basic stats: [Descriptive stats](https://github.com/MK316/statistics/blob/3c50a8393e54cc4819f2ded818ed5b3d19a4f65d/Descriptive_stat.ipynb), [Linear Regression](https://github.com/MK316/statistics/blob/main/lineaRegression.ipynb), [Hclust](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/Hclust.ipynb), [PCA](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/PCA.ipynb), [Basic Rplot](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/R_BasicPlots.ipynb)    
 ↳ [Doing R in Colab](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/01_How_to_do_R_in_colab.ipynb)  
-↳ [Lexical diversity](https://github.com/kristopherkyle/lexical_diversity)(e.g., 9 metrics including TTR, LogTTR, RootTTR, etc.): See also [Core LD indices (MTLD, HDD, MASS)](https://github.com/MK316/applications/blob/main/LD_mtld_hdd_mass.ipynb)
+↳ [Lexical diversity](https://github.com/kristopherkyle/lexical_diversity) (e.g., 9 metrics including TTR, LogTTR, RootTTR, etc.): See also [Core LD indices (MTLD, HDD, MASS)](https://github.com/MK316/applications/blob/main/LD_mtld_hdd_mass.ipynb)
 
 **◩-- Speech Processing**  
 ↳ [Simple TTS (Text-to-Speech) using {gTTS}](https://github.com/MK316/applications/blob/main/Speech_gTTS.ipynb): (_Note: Try Accent comparison here_ - Kor, Fr, Sp)  
