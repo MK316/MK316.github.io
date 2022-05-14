@@ -1,7 +1,6 @@
 ## _Welcome to my weblog!_  
 : Python coding and language research and/or teaching  
-_I'm currently learning Python coding from [Dr. Nam](https://github.com/hsnam95)_  
-↳ Youtube channel: [NAMZ](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured)  
+_I'm currently learning Python coding from [Dr. Nam](https://github.com/hsnam95)_ Checkout _Python lectures on youtube [NAMZ channel](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured)_   
 ↳ 👥 Collaborators: [Dr. Nam](https://github.com/hsnam95), Dr.Lee & Dr. Son  
 
 ✉ [Email: MK3one6@gmail.com](mailto: MK3one6@gmail.com)  
