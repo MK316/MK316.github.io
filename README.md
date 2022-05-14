@@ -1,5 +1,4 @@
-## _Welcome to my weblog!_  
-: Python coding and language research and/or teaching  
+## _Python coding for language research and teaching_  
 _I'm currently learning Python coding from [Dr. Nam](https://github.com/hsnam95) taking his Python lectures on [youtube NAMZ channel](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured)_   
 ↳ 👥 Collaborators: [Dr. Nam](https://github.com/hsnam95), Dr.Lee & Dr. Son  
 
