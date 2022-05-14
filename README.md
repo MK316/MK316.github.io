@@ -8,7 +8,7 @@ _I'm currently learning Python coding from [Dr. Nam](https://github.com/hsnam95)
 ✉ [Email: MK3one6@gmail.com](mailto: MK3one6@gmail.com)  
  
 ~~~
-What's NEW:  - This page is under construction. The followings are small applications that I've been working on for my reserach and/or classes. The original tutorial or applications are cited inside the code file_  
+!pip install What's NEW? -- This page is under construction. The followings are small applications that I've been working on for my reserach and/or classes. The original tutorial or applications are cited inside the code file_  
 ~~~
 **◩--- N L P(Natural Language Processing)**  
 ↳ [Getting a frequency wordlist](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Creating_wordlist.ipynb): including [wordcloud](https://github.com/MK316/applications/blob/main/wordcloud.ipynb)   
@@ -19,7 +19,7 @@ What's NEW:  - This page is under construction. The followings are small applica
 ↳ [Lexical diversity](https://github.com/kristopherkyle/lexical_diversity)(e.g., 9 metrics including TTR, LogTTR, RootTTR, etc.): See also [Core indices (LD, MTLD, HDD, MASS)](https://github.com/MK316/applications/blob/main/LD_mtld_hdd_mass.ipynb)
 
 **◩--- Speech Processing**  
-↳ [Simple TTS (Text-to-Speech) using {gTTS}](https://github.com/MK316/applications/blob/main/Speech_gTTS.ipynb): Create audio files from English text (_Note:_Try Accent comparison here_ - Kor, Fr, Sp)
+↳ [Simple TTS (Text-to-Speech) using {gTTS}](https://github.com/MK316/applications/blob/main/Speech_gTTS.ipynb): (_Note: Try Accent comparison here_ - Kor, Fr, Sp)
 
 **◩--- Go to:**  
 ↳ [Research tools](/contents/tools.md): Python, R, Basic stats, Praat  
