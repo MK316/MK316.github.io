@@ -1,4 +1,4 @@
-## _Python coding for language research and teaching_  
+### _Python coding for language research and teaching_  
 _I'm currently learning Python coding from [Dr. Nam](https://github.com/hsnam95) taking his Python lectures on [youtube NAMZ channel](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured)_   
 ↳ 👥 Collaborators: [Dr. Nam](https://github.com/hsnam95), Dr.Lee & Dr. Son  
 
@@ -16,7 +16,7 @@ What's NEW:  - This page is under construction. The followings are small applica
 ↳ [Lexical diversity](https://github.com/kristopherkyle/lexical_diversity)(e.g., 9 metrics including TTR, LogTTR, RootTTR, etc.): See also [Core indices (LD, MTLD, HDD, MASS)](https://github.com/MK316/applications/blob/main/LD_mtld_hdd_mass.ipynb)
 
 **◩ Speech Processing**  
-↳ [TTS (Text-to-Speech)](https://github.com/MK316/applications/blob/main/Speech_gTTS.ipynb): Create audio files from English text (**_Note:_Try Accent comparison here_** - Kor, Fr, Sp)
+↳ [TTS (Text-to-Speech)](https://github.com/MK316/applications/blob/main/Speech_gTTS.ipynb): Create audio files from English text (_Note:_Try Accent comparison here_ - Kor, Fr, Sp)
 
 **◩ Go to:**  
 ↳ [Research tools](/contents/tools.md): Python, R, Basic stats, Praat  
