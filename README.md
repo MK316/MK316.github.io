@@ -33,4 +33,7 @@ _I'm currently learning Python coding from [Dr. Nam](https://github.com/hsnam95)
 ↳ [Dept. of English Education at GNU](https://englishedu.gnu.ac.kr), ↳ [LMS](https://rec.ac.kr/gnu)  
 
 
+
+
+
 _🅷🅾🅼🅴 This page is created using github pages._
