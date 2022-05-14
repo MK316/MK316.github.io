@@ -1,5 +1,6 @@
-### Weblog: Research tools for Language and teaching
 ࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐
+
+### Weblog: Research tools for Language and teaching
 ---  
 
 _I'm currently learning Python coding from [Dr. Nam](https://github.com/hsnam95) taking his Python lectures on [youtube NAMZ channel](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured)_   
