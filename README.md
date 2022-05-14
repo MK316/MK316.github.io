@@ -1,4 +1,4 @@
-࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐
+࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐ _Last updated: May 22, 2022
 ### Weblog: Research tools for Language and teaching
 ---  
 
@@ -34,10 +34,6 @@ _I'm currently learning Python coding from Dr. Nam following his lectures on you
 ↳ [Dept. of English Education at GNU](https://englishedu.gnu.ac.kr), ↳ [LMS](https://rec.ac.kr/gnu)  
 .  
 .  
-.  
-.  
-.  
-.  
-_(Last updated: May 15, 2022)_  
 
+---
 🅃🄷🄸🅂 🄿🄰🄶🄴 🄸🅂 🄲🅁🄴🄰🅃🄴🄳 🅄🅂🄸🄽🄶 🄶🄸🅃🄷🅄🄱 🄿🄰🄶🄴🅂.  
