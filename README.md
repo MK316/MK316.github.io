@@ -36,5 +36,7 @@ _I'm currently learning Python coding from [Dr. Nam](https://github.com/hsnam95)
 
 
 
+
+_(Last updated: May 15, 2022)_  
+
 🅃🄷🄸🅂 🄿🄰🄶🄴 🄸🅂 🄲🅁🄴🄰🅃🄴🄳 🅄🅂🄸🄽🄶 🄶🄸🅃🄷🅄🄱 🄿🄰🄶🄴🅂.  
-_(Last updated: May 15, 2022)_
