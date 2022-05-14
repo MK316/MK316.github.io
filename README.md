@@ -1,4 +1,4 @@
-### ࿐*ೃ Weblog: _Python for language research/teaching_ ˋ°•*⁀➷W  
+### ࿐*ೃ Weblog: _Python for language research/teaching_ ೃ*࿐
 
 _I'm currently learning Python coding from [Dr. Nam](https://github.com/hsnam95) taking his Python lectures on [youtube NAMZ channel](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured)_   
 ↳ 👥 Collaborators: [Dr. Nam](https://github.com/hsnam95), Dr.Lee & Dr. Son  
