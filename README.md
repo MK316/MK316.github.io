@@ -19,7 +19,8 @@ _I'm currently learning Python coding from [Dr. Nam](https://github.com/hsnam95)
 ↳ [Lexical diversity](https://github.com/kristopherkyle/lexical_diversity)(e.g., 9 metrics including TTR, LogTTR, RootTTR, etc.): See also [Core LD indices (MTLD, HDD, MASS)](https://github.com/MK316/applications/blob/main/LD_mtld_hdd_mass.ipynb)
 
 **◩-- Speech Processing**  
-↳ [Simple TTS (Text-to-Speech) using {gTTS}](https://github.com/MK316/applications/blob/main/Speech_gTTS.ipynb): (_Note: Try Accent comparison here_ - Kor, Fr, Sp)
+↳ [Simple TTS (Text-to-Speech) using {gTTS}](https://github.com/MK316/applications/blob/main/Speech_gTTS.ipynb): (_Note: Try Accent comparison here_ - Kor, Fr, Sp)  
+↳ [Rhyming words](https://github.com/MK316/applications/blob/main/Searching_ryhmingwords.ipynb) - using CMU pronounciation dictioinary  
 
 **◩-- Goto menus:**  
 ↳ [Research tools](/contents/tools.md): Python, R, Basic stats, Praat  
