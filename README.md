@@ -10,7 +10,7 @@ _I'm currently learning Python coding from [Dr. Nam](https://github.com/hsnam95)
 ~~~
 What's NEW:  - This page is under construction. The followings are small applications that I've been working on for my reserach and/or classes. The original tutorial or applications are cited inside the code file_  
 ~~~
-**◩ N L P(Natural Language Processing)**  
+**◩ N L P(Natural Language Processing)**---  
 ↳ [Getting a frequency wordlist](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Creating_wordlist.ipynb): including [wordcloud](https://github.com/MK316/applications/blob/main/wordcloud.ipynb)   
 ↳ [Text tagging](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Tagging_CorpusToolKit.ipynb): using Corpus Toolkit (by [Kristopher Kyle](https://kristopherkyle.github.io/professional-webpage/))    
 ↳ [Condordance](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/concordance.ipynb): finding concordance in a given text.  
@@ -32,4 +32,3 @@ What's NEW:  - This page is under construction. The followings are small applica
 ↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/),  
 ↳ [Dept. of English Education at GNU](https://englishedu.gnu.ac.kr), ↳ [LMS](https://rec.ac.kr/gnu)  
 
-𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒.
