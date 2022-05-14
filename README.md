@@ -1,4 +1,4 @@
-࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐ _Last updated: May 22, 2022
+࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐  
 ### Weblog: Research tools for Language and teaching
 ---  
 
@@ -32,8 +32,9 @@ What's NEW? -- This page is under construction. The followings are small applica
 ↳ [Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/)  
 ↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/),  
 ↳ [Dept. of English Education at GNU](https://englishedu.gnu.ac.kr), ↳ [LMS](https://rec.ac.kr/gnu)  
+    
   
   
-
 ---
+_Last updated: May 22, 2022_
 𝚃𝚑𝚒𝚜 𝚙𝚊𝚐𝚎 𝚒𝚜 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚞𝚜𝚒𝚗𝚐 [𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚊𝚐𝚎𝚜](https://pages.github.com).
