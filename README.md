@@ -1,9 +1,9 @@
-## _Welcome!_  
-✉ [Email: MK3one6@gmail.com](mailto: MK3one6@gmail.com)  
+## _Welcome to my weblog!_  
+: Python coding and language research and/or teaching  
+- _I'm currently learning Python coding from [Dr. Nam](https://github.com/hsnam95)_ ↳ [Youtube lectures NAMZ](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured).  👥 (Collaborators: Dr.Lee & Dr. Son)  
 
-**◩ Python coding and language research and/or teaching:**  
-_I'm currently learning Python coding from [Dr. Nam](https://github.com/hsnam95)_ ↳ [Youtube lectures NAMZ](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured).  👥 (Collaborators: Dr.Lee & Dr. Son)  
-  
+✉ [Email: MK3one6@gmail.com](mailto: MK3one6@gmail.com)  
+ 
 ~~~
 What's NEW:  - This page is under construction. The followings are small applications that I've been working on for my reserach and/or classes. The original tutorial or applications are cited inside the code file_  
 ~~~
