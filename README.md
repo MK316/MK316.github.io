@@ -31,12 +31,12 @@ _I'm currently learning Python coding from [Dr. Nam](https://github.com/hsnam95)
 ↳ [Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/)  
 ↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/),  
 ↳ [Dept. of English Education at GNU](https://englishedu.gnu.ac.kr), ↳ [LMS](https://rec.ac.kr/gnu)  
-
-
-
-
-
-
+.  
+.  
+.  
+.  
+.  
+.  
 _(Last updated: May 15, 2022)_  
 
 🅃🄷🄸🅂 🄿🄰🄶🄴 🄸🅂 🄲🅁🄴🄰🅃🄴🄳 🅄🅂🄸🄽🄶 🄶🄸🅃🄷🅄🄱 🄿🄰🄶🄴🅂.  
