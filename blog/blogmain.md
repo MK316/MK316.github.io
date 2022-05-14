@@ -4,7 +4,7 @@ Teachers' Day
 
 "Your worst enemy is your best teacher." _-Buddha-_  
 
-![Noddig. Agreed.](https://www.cartoonstock.com/cartoon?searchID=CX305249)
+![Noddig. Agreed.](/images/051522.png)
 
 _[BACK to HOME](../README.md)_
 
