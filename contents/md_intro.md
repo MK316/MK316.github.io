@@ -12,7 +12,7 @@
 
 "Colab has two types of cells: text and code. Text cells are formatted using a simple markup language called Markdown."
 
-1. We put "#@markup" instead of "#" for commentary. That's it!  The codes can be hidden while running it.
+1. We put "#@markup" instead of "#" for commentary. That's it!  The codes can be hidden while running the cell codes. Instead the cell has "show codes" with commentary only.
 
 ```
 #@markdown Install packages
