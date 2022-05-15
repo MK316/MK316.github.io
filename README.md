@@ -13,8 +13,6 @@
 
 **◩-- NLP** (Natural Language Processing): _Links are open in_ [Github](https://github.com)     
 
----  
-
 ↳ **Frequency Analysis:** 
 [{Frequency word list}](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Creating_wordlist.ipynb), [{Wordcloud}](https://github.com/MK316/applications/blob/main/wordcloud.ipynb)      
 ↳ **Tagging:** [POS tagging & wordlist](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Tagging_CorpusToolKit.ipynb)  using Corpus Toolkit (by [Kristopher Kyle](https://kristopherkyle.github.io/professional-webpage/))    
@@ -25,23 +23,17 @@
 
 **◩-- Speech Processing**   
 
----   
-
 ↳ **TTS (Text-To-Speech):** [Simple TTS using {gTTS}](https://github.com/MK316/applications/blob/main/Speech_gTTS.ipynb): (_Note: Also found Foreign Accented speech_ - Kor, Fr, Sp)  
 ↳ **Pronunciation dictionary:** [Rhyming words](https://github.com/MK316/applications/blob/main/Searching_ryhmingwords.ipynb) - using CMU pronounciation dictioinary  
 ↳ Listenability  
 
 **◩-- Goto menus:**   
-
----   
-
+  
 ↳ [Research tools](/contents/tools.md): Python, R, Basic stats, Praat  
 ↳ [Teaching](/contents/teaching.md)  
 ↳ [Blog](/blog/blogmain.md)  
 
 **◩-- Mylinks:**  
-
----   
 
 ↳ [Praat](https://www.fon.hum.uva.nl/praat/)   
 ↳ [Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/)  
