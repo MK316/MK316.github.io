@@ -38,7 +38,10 @@
 ↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/),  
 ↳ [Dept. of English Education at GNU](https://englishedu.gnu.ac.kr), ↳ [LMS](https://rec.ac.kr/gnu)  
     
-  
+<ul>
+<li>Line 1</li>
+<li>Line 2</li>
+</ul>  
   
 ---
 _May 22, 2022 (Last updated)_   
