@@ -9,7 +9,8 @@ _For quantitative data study._
 * R for statistics
 * Praat for speech analysis
 
-## By Research Topics:
+
+## 💦 By Research Topics:
 * Speech recognition online: [speechnotes]("httpes://speechnotes.co")  
 * 
 
