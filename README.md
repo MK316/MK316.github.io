@@ -30,7 +30,7 @@
 **◩-- GO TO MENUs:**   
   
 ↳ [Research tools](../main/tools.md): Python, R, Basic stats, Praat  
-↳ [Teaching](../main/teaching.md)  
+↳ [Teaching](https://github.com/MK316/MK316.github.io/blob/main/teaching.md)  
 ↳ [Blog](/blog/blogmain.md)  
 
 **◩-- OTHER WEBLINKS:**  
