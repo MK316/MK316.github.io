@@ -36,5 +36,5 @@ What's NEW? -- This page is under construction. The followings are small applica
   
   
 ---
-_Last updated: May 22, 2022_  
+_May 22, 2022 (Last updated)_   
 𝚃𝚑𝚒𝚜 𝚙𝚊𝚐𝚎 𝚒𝚜 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚞𝚜𝚒𝚗𝚐 [𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚊𝚐𝚎𝚜](https://pages.github.com).
