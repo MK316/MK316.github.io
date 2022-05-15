@@ -7,7 +7,8 @@
 ↳ ✉ _Contact_: [Email](mailto: MK3one6@gmail.com)  
  
 ~~~
-What's NEW? -- This page is under construction. The followings are small applications that I've been working on for my reserach and/or classes. The original tutorial or applications are cited inside the code file  
+>> What's NEW? -- This page is under construction. 
+>> The followings are small applications that I've been working on for my reserach and/or classes. The original tutorial or applications are cited inside the code file  
 ~~~
 **◩-- NLP** (Natural Language Processing): _Links are open in [Github](https://github.com)_   
 ---   
