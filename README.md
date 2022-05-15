@@ -23,7 +23,7 @@
 
 **◩-- SPEECH PROCESSING**   
 
-↳ **TTS (Text-To-Speech):** [Simple TTS using {gTTS}](https://github.com/MK316/applications/blob/main/Speech_gTTS.ipynb): (_Note: Also found Foreign Accented speech_ - Kor, Fr, Sp)  
+↳ **TTS (Text-To-Speech):** [Simple TTS using {gTTS}](https://github.com/MK316/applications/blob/main/Speech_gTTS.ipynb) (_LANGUAGE: English, Korean, French, Spanish)  
 ↳ **Pronunciation dictionary:** [Rhyming words](https://github.com/MK316/applications/blob/main/Searching_ryhmingwords.ipynb) - using CMU pronounciation dictioinary  
 ↳ Listenability  
 
