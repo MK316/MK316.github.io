@@ -30,7 +30,7 @@
 **◩-- GO TO MENUs:**   
   
 ↳ [Research tools](../main/tools.md): Python, R, Basic stats, Praat  
-↳ [Teaching](../contents/teaching.md)  
+↳ [Teaching](../main/teaching.md)  
 ↳ [Blog](/blog/blogmain.md)  
 
 **◩-- OTHER WEBLINKS:**  
