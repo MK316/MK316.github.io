@@ -29,7 +29,7 @@
 
 **◩-- GO TO MENUs:**   
   
-↳ [Research tools](../main/tools.md): Python, R, Basic stats, Praat  
+↳ [Research tools](/tools.md): Python, R, Basic stats, Praat  
 ↳ [Teaching](https://github.com/MK316/MK316.github.io/blob/main/teaching.md)  
 ↳ [Personal Blog](/blog/blogmain.md)  
 
