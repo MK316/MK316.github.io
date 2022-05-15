@@ -12,7 +12,19 @@
 
 "Colab has two types of cells: text and code. Text cells are formatted using a simple markup language called Markdown."
 
+1. We put "#@markup" instead of "#" for commentary. That's it!  The codes can be hidden while running it.
+
 ```
 #@markdown Install packages
 !pip install nlkt
 ```
+
+2. When you want to hide the processing of a cell (especially for installation or very long processing with multiple files), "%%capture" is a way. (Note: if coding involves interactive process such as getting input() and use it as a variable in the same cell, it will show failure message. In this case, separate codes into different cells.
+
+```
+%%capture
+!pip install nltk
+```
+(THe process is not visible.)  
+
+
