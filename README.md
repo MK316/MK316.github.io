@@ -1,5 +1,5 @@
 ࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐  
-### u"\U0001F34E" Weblog: Research tools for Language and teaching
+### Weblog: _Research tools for Language and teaching_
 ---  
 
 ↳ 📚 _I'm currently learning Python coding from Dr. Nam following his lectures on youtube [NAMZ channel](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured)_   
