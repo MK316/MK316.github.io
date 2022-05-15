@@ -15,7 +15,7 @@
 1. We put "#@markup" instead of "#" for commentary. That's it!  The codes can be hidden while running the cell codes. Instead the cell has "show codes" with commentary only.
 
 ```
-#@markdown Install packages
+#@markdown install packages:
 !pip install nlkt
 ```
 
