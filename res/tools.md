@@ -11,7 +11,15 @@ _For quantitative data study._
 
 
 ## 💦 By Research Topics:
+* Listenability   
+* Foreign accents and intellibility
+* Pronunciation Evaluation using speech applications  
+
+
+
+## 💦 Useful sites:
 * Speech recognition online: [speechnotes]("httpes://speechnotes.co")  
 * 
+
 
 [_back to MAIN_](../README.md)  
