@@ -11,9 +11,10 @@ _For quantitative data study._
 
 
 ## 💦 By Research Topics:
-* Listenability   
+* TTS (Text-to-Speech): [CA01](https://github.com/MK316/applications/blob/main/Speech_gTTS.ipynb)
+* Readability & listenability   
 * Foreign accents and intellibility
-* Pronunciation Evaluation using speech applications  
+* Application assisted speech evaluation   
 
 
 
