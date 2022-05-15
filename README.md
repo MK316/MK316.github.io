@@ -10,7 +10,7 @@ _I'm currently learning Python coding from Dr. Nam following his lectures on you
 ~~~
 What's NEW? -- This page is under construction. The followings are small applications that I've been working on for my reserach and/or classes. The original tutorial or applications are cited inside the code file  
 ~~~
-###◩-- N L P (Natural Language Processing)**: _Links will be open in [Github](https://github.com)_  
+### ◩-- N L P (Natural Language Processing): _Links will be open in [Github](https://github.com)_  
 ---
 ↳ **Frequency Analysis:** [{Frequency word list}](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Creating_wordlist.ipynb), [{Wordcloud}](https://github.com/MK316/applications/blob/main/wordcloud.ipynb)   
 ↳ **Tagging:** [POS tagging & wordlist](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Tagging_CorpusToolKit.ipynb): using Corpus Toolkit (by [Kristopher Kyle](https://kristopherkyle.github.io/professional-webpage/))    
