@@ -12,13 +12,10 @@
 ~~~
 
 **◩-- NLP** (Natural Language Processing): _Links are open in_ [Github](https://github.com)     
+  
 ---   
-
 ↳ **Frequency Analysis:** 
-<ul>   
-<li>[{Frequency word list}](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Creating_wordlist.ipynb)</li>  
-<li>[{Wordcloud}](https://github.com/MK316/applications/blob/main/wordcloud.ipynb)</li>
-</ul>       
+[{Frequency word list}](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Creating_wordlist.ipynb), [{Wordcloud}](https://github.com/MK316/applications/blob/main/wordcloud.ipynb)      
 ↳ **Tagging:** [POS tagging & wordlist](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Tagging_CorpusToolKit.ipynb)  using Corpus Toolkit (by [Kristopher Kyle](https://kristopherkyle.github.io/professional-webpage/))    
 ↳ **Words in Contexts:** (quantitative approach): [{Condordance}](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/concordance.ipynb), {Collocation}, {N-gram}  
 ↳ **Lexical Diversity:** [10 LD measures](https://github.com/kristopherkyle/lexical_diversity) (e.g., TTR, LogTTR, RootTTR, etc.), [Core LD indices](https://github.com/MK316/applications/blob/main/LD_mtld_hdd_mass.ipynb) (MTLD, HDD, MASS measures - less sensitive to text length),    
