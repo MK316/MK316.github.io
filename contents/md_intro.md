@@ -8,6 +8,11 @@
 * Sample page - [my github page](MK316.github.io). 
 
 
-## [Google Colab Markdown guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
+## [Google Colab Markdown guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb)  
 
-* 
+"Colab has two types of cells: text and code. Text cells are formatted using a simple markup language called Markdown."
+
+```
+#@markdown Install packages
+!pip install nlkt
+```
