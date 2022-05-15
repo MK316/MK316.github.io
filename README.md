@@ -11,7 +11,7 @@
 >> The followings are small applications that I've been working on for my reserach and/or classes. The original tutorial or applications are cited inside the code file  
 ~~~
 
-**◩-- NLP** (Natural Language Processing): _Links are open in_ [Github](https://github.com)     
+**◩-- NATURAL LANGUAGE PROCESSING:** _Links are open in_ [Github](https://github.com)     
 
 ↳ **Frequency Analysis:** 
 [{Frequency word list}](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Creating_wordlist.ipynb), [{Wordcloud}](https://github.com/MK316/applications/blob/main/wordcloud.ipynb)      
