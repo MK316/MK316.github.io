@@ -4,7 +4,7 @@
 
 ↳ 📚 _I'm currently learning Python coding from Dr. Nam following his lectures on_ [NAMZ channel](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured) (youtube)   
 ↳ 👥 _Collaborators_: [Dr. Nam](https://github.com/hsnam95), Dr. Lee & Dr. Son  
-↳ ✉ _Contact_: [Email](mailto: MK3one6@gmail.com)  
+↳ ✉ _Email: [MK3one6@gmail.com](mailto: MK3one6@gmail.com)_  
  
 ~~~
 >> What's NEW? -- This page is under construction. 
