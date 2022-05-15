@@ -1,6 +1,6 @@
 # Teaching
 
-| Semester | Subject | Python codes |
+| Semester | Subject | Python apps |
 |---|---|---|
 | Spring 22 | Engpro | links |
 | Spring 22 | Engling | links |
