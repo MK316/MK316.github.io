@@ -12,7 +12,7 @@ What's NEW? -- This page is under construction. The followings are small applica
 ~~~
 **◩-- N L P (Natural Language Processing)**: _Links will be open in [Github](https://github.com)_  
 ↳ [Getting a frequency wordlist](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Creating_wordlist.ipynb): including [wordcloud](https://github.com/MK316/applications/blob/main/wordcloud.ipynb)   
-↳ [Text tagging](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Tagging_CorpusToolKit.ipynb): using Corpus Toolkit (by [Kristopher Kyle](https://kristopherkyle.github.io/professional-webpage/))    
+↳ [Text POS tagging](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Tagging_CorpusToolKit.ipynb): using Corpus Toolkit (by [Kristopher Kyle](https://kristopherkyle.github.io/professional-webpage/))    
 ↳ [Condordance](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/concordance.ipynb): finding concordance in a given text.  
 ↳ Basic stats: [Descriptive stats](https://github.com/MK316/statistics/blob/3c50a8393e54cc4819f2ded818ed5b3d19a4f65d/Descriptive_stat.ipynb), [Linear Regression](https://github.com/MK316/statistics/blob/main/lineaRegression.ipynb), [Hclust](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/Hclust.ipynb), [PCA](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/PCA.ipynb), [Basic Rplot](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/R_BasicPlots.ipynb)    
 ↳ [Doing R in Colab](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/01_How_to_do_R_in_colab.ipynb)  
