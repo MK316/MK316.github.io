@@ -31,7 +31,7 @@
   
 ↳ [Research tools](../main/tools.md): Python, R, Basic stats, Praat  
 ↳ [Teaching](https://github.com/MK316/MK316.github.io/blob/main/teaching.md)  
-↳ [Blog](/blog/blogmain.md)  
+↳ [Personal Blog](/blog/blogmain.md)  
 
 **◩-- OTHER WEBLINKS:**  
 
