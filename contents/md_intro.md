@@ -25,6 +25,6 @@
 %%capture
 !pip install nltk
 ```
-(The process is not visible in the output cell.)  
+_(The process is not visible in the output cell.)_  
 
 
