@@ -9,7 +9,7 @@
 ~~~
 What's NEW? -- This page is under construction. The followings are small applications that I've been working on for my reserach and/or classes. The original tutorial or applications are cited inside the code file  
 ~~~
-**◩-- N L P** (Natural Language Processing): _Links are open in [Github](https://github.com)_   
+**◩-- NLP** (Natural Language Processing): _Links are open in [Github](https://github.com)_   
 ---
 ↳ **Frequency Analysis:** [{Frequency word list}](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Creating_wordlist.ipynb), [{Wordcloud}](https://github.com/MK316/applications/blob/main/wordcloud.ipynb)   
 ↳ **Tagging:** [POS tagging & wordlist](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Tagging_CorpusToolKit.ipynb): using Corpus Toolkit (by [Kristopher Kyle](https://kristopherkyle.github.io/professional-webpage/))    
@@ -22,6 +22,7 @@ What's NEW? -- This page is under construction. The followings are small applica
 ---
 ↳ **TTS (Text-To-Speech):** [Simple TTS using {gTTS}](https://github.com/MK316/applications/blob/main/Speech_gTTS.ipynb): (_Note: Also found Foreign Accented speech_ - Kor, Fr, Sp)  
 ↳ **Pronunciation dictionary:** [Rhyming words](https://github.com/MK316/applications/blob/main/Searching_ryhmingwords.ipynb) - using CMU pronounciation dictioinary  
+↳ Listenability  
 
 **◩-- Goto menus:**  
 ---
