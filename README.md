@@ -12,8 +12,8 @@
 ~~~
 
 **◩-- NLP** (Natural Language Processing): _Links are open in_ [Github](https://github.com)     
- 
----   
+---  
+
 ↳ **Frequency Analysis:** 
 [{Frequency word list}](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Creating_wordlist.ipynb), [{Wordcloud}](https://github.com/MK316/applications/blob/main/wordcloud.ipynb)      
 ↳ **Tagging:** [POS tagging & wordlist](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Tagging_CorpusToolKit.ipynb)  using Corpus Toolkit (by [Kristopher Kyle](https://kristopherkyle.github.io/professional-webpage/))    
@@ -23,6 +23,7 @@
 ↳ **Basic Stats using R and Python:** [{Descriptive stats}](https://github.com/MK316/statistics/blob/3c50a8393e54cc4819f2ded818ed5b3d19a4f65d/Descriptive_stat.ipynb), [{Linear Regression}](https://github.com/MK316/statistics/blob/main/lineaRegression.ipynb), [{Hclust}](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/Hclust.ipynb), [{PCA}](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/PCA.ipynb), [{Basic Rplot}](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/R_BasicPlots.ipynb)   
 
 **◩-- Speech Processing**   
+
 ---   
 
 ↳ **TTS (Text-To-Speech):** [Simple TTS using {gTTS}](https://github.com/MK316/applications/blob/main/Speech_gTTS.ipynb): (_Note: Also found Foreign Accented speech_ - Kor, Fr, Sp)  
@@ -30,6 +31,7 @@
 ↳ Listenability  
 
 **◩-- Goto menus:**   
+
 ---   
 
 ↳ [Research tools](/contents/tools.md): Python, R, Basic stats, Praat  
@@ -37,6 +39,7 @@
 ↳ [Blog](/blog/blogmain.md)  
 
 **◩-- Mylinks:**  
+
 ---   
 
 ↳ [Praat](https://www.fon.hum.uva.nl/praat/)   
