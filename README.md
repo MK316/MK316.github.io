@@ -20,6 +20,7 @@ What's NEW? -- This page is under construction. The followings are small applica
 ↳ **Basic Stats using R and Python:** [{Descriptive stats}](https://github.com/MK316/statistics/blob/3c50a8393e54cc4819f2ded818ed5b3d19a4f65d/Descriptive_stat.ipynb), [{Linear Regression}](https://github.com/MK316/statistics/blob/main/lineaRegression.ipynb), [{Hclust}](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/Hclust.ipynb), [{PCA}](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/PCA.ipynb), [{Basic Rplot}](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/R_BasicPlots.ipynb)   
 
 **◩-- Speech Processing**  
+---
 ↳ **TTS (Text-To-Speech):** [Simple TTS using {gTTS}](https://github.com/MK316/applications/blob/main/Speech_gTTS.ipynb): (_Note: Also found Foreign Accented speech_ - Kor, Fr, Sp)  
 ↳ **Pronunciation dictionary:** [Rhyming words](https://github.com/MK316/applications/blob/main/Searching_ryhmingwords.ipynb) - using CMU pronounciation dictioinary  
 
