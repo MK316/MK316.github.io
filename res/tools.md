@@ -10,7 +10,7 @@ _For quantitative data study._
 * Praat for speech analysis
 
 ## By Research Topics:
-Speech recognition online: [speechnotes]("httpes://speechnotes.co")  
+* Speech recognition online: [speechnotes]("httpes://speechnotes.co")  
 * 
 
 [_back to MAIN_](../README.md)  
