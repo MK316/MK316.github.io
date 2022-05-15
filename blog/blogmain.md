@@ -11,7 +11,7 @@ Teachers' Day
 ![Noddig. Agreed.](/images/051522.png)
 _image source: [link](https://www.pinterest.com/pin/395261304800608453/?mt=login)_
 
-
+---  
 
 ### Sunday 05/08/2022  
 
