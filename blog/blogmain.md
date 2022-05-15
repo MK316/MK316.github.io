@@ -10,7 +10,7 @@ Teachers' Day
 
 _Noddig. Agreed._
 
-![image](/images/051522.png)
+![image](/images/051522.png)  
 _© image source: [link](https://www.pinterest.com/pin/395261304800608453/?mt=login)_
 
 ---  
