@@ -1,16 +1,15 @@
 # ◳ Research tools
-For quantitative data study.  
+_For quantitative data study._  
 
-
+~~~
 (Under construction)
+~~~
 
+* Python 
+* R for statistics
+* Praat for speech analysis
 
-<ul>
-  <li>Python</li>
-  <li>R</li>
-  <li>Basic statistics</li>
-  <li>Praat</li>
-</ul> 
+## By Research Topics:
 
 ---
 [_back to MAIN_](../README.md)  
