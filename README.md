@@ -2,10 +2,9 @@
 ### Weblog: Research tools for Language and teaching
 ---  
 
-_I'm currently learning Python coding from Dr. Nam following his lectures on youtube [NAMZ channel](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured)_   
+↳ _I'm currently learning Python coding from Dr. Nam following his lectures on youtube [NAMZ channel](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured)_   
 ↳ 👥 Collaborators: [Dr. Nam](https://github.com/hsnam95), Dr.Lee & Dr. Son  
-
-✉ [Email: MK3one6@gmail.com](mailto: MK3one6@gmail.com)  
+↳ ✉ [Email: MK3one6@gmail.com](mailto: MK3one6@gmail.com)  
  
 ~~~
 What's NEW? -- This page is under construction. The followings are small applications that I've been working on for my reserach and/or classes. The original tutorial or applications are cited inside the code file  
