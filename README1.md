@@ -3,7 +3,6 @@
 ---  
 ↳ _I'm currently learning Python coding from Dr. Nam 📚 following his lectures posted on_ [NAMZ channel](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured) _(👍 highly recommended)_   
 ↳ _Collaborators_: 👥 [Dr. Nam (KU)](https://github.com/hsnam95), [Dr. Lee (Hufs)](https://github.com/junkyuhufs) & [Dr. Son (HNU)](https://github.com/ms624atyale)  
-↳ _Email: ✉ [MK3one6@gmail.com](mailto: MK3one6@gmail.com)_  
  
 ~~~
 >> What's NEW? -- This page is under construction. 
