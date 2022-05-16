@@ -5,7 +5,7 @@
 | YEAR | Program | Affiliation |
 |------|---------|-------------|
 | 2011 | Ph.D. in Linguistics| State University of New York (Stonybrook), NY, USA|  
-|(2000 ~ 2002)| Ph.D course work| (interrupted) in Linguistics at Korea University, Seoul, South Korea|  
+|2000 ~ 2002| Ph.D course work| (interrupted) in Linguistics at Korea University, Seoul, South Korea|  
 |2000 | M.A.| Linguistics | Korea University, Seoul, South Korea  |
 |1998 | B.A.| Linguistics | Korea University, Seoul, South Korea  |
   
