@@ -1,4 +1,4 @@
-##🎓 M. KIM (Ph.D. in Linguistics)
+## 🎒M. KIM (Ph.D. in Linguistics)
 
 ### ◲ Academic Background:
 
