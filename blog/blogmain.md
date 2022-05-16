@@ -30,7 +30,7 @@ Mom's birthday
 
 One day in January of 2020, my mom sent me a photo of this scene. She was so happy to enjoy the snow. It covered the whole mountain in white. The photo was really beautiful but I just texted her back with a short message, "Mom, it's very beautiful." Then I went back to my work; I thought I had more important things to do, than actually to call her asking how she feels.
 
-In the same year, she passed away in October. It was a beautiful autumn day and the world seemed stop like that.
+In the same year, she passed away in October. It was a beautiful autumn day and the world seemed to cease to smile.
 
 Winter came back that year. And one day I found the same scenery when I woke up. It was so quiet and I could only hear one bird singing around. I thought it must be her. She wanted to keep a bird but she thought birds are noisy... to keep inside the house where she was living.
 
