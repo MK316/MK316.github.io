@@ -18,21 +18,21 @@
 ↳ **Lexical Diversity:** 10 mostly used LD measures including TTR, LogTTR, RootTTR, etc. A tool with 3 main LD indices is also provided (MTLD, HDD, MASS). These are known less influenced by the length of texts.   
  
  
-**🔗 [Goto - SPEECH PROCESSING tools](/res/sp_tools.md):**  🔎 _This link includes the following tools_   
+**▶️ [Goto - SPEECH PROCESSING tools](/res/sp_tools.md):**  🔎 _This link includes the following tools_   
 ↳ **Basic Stats using R and Python:** Descriptive statistics (getting mean, SD, median, quartiles), Linear Regression, Hierarchical Clustering (Hclust analysis), Principal Component Analysis (PCA), and basic plots including barchart, piechart, scatter plot.   
 
 
-**🔗 [Goto - Statistics tools](/res/stat1.md):**  🔎_This link includes the following tools_   
+**▶️ [Goto - Statistics tools](/res/stat1.md):**  🔎_This link includes the following tools_   
 ↳ **TTS (Text-To-Speech):** TTS
 
 ---  
-**🔗 More MENUs**   
+**▶️ More MENUs**   
 ↳ **[Research tools](/res/tools.md):** Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/01_How_to_do_R_in_colab.ipynb) Basic stats, Praat.  
 ↳ **[Teaching](/res/teaching.md):** Applying python based tools to classes (Spring 2022).  
 ↳ **[Personal Blog](/blog/blogmain.md):**  Moments with the sound of silence.  
 
 
-**🔗 OTHER WEBLINKS **  
+**▶️ OTHER WEBLINKS **  
 ↳ [Praat](https://www.fon.hum.uva.nl/praat/)   
 ↳ [Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/)  
 ↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/),  
