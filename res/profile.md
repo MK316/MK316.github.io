@@ -18,8 +18,14 @@
 |2014 ~ 2015 | Lab manager | Speech Clinic Lab at City University of Seoul  |
 |2012.3 ~ 2.16.2.28 | Lecturer | in multiple universities (Korea University, Hanyang University, City University of Seoul, Hankook University of Foreign Studies, Sungshin Women's University, Sookmyeong Women's University) | 
  
+### ◲ Invisted talks/lectures at Academic Workshops 
 
-
-(To be updated)
+| TIME | Topic | Hosted by (Location)|
+|------|-------|-----------|
+| | Special Topics in English linguistics (Dept. of English Education at Hufs) |
+| | R workshop | RILI at Korea University |
+| | R workshop | RILI at Korea University |
+| | Speech perception experiment | KASS |
+| | (To be updated) |
 
 _[BACK to MAIN](../README.md)_
