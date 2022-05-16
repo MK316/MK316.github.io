@@ -1,4 +1,4 @@
- ⛺ [_Goto HOME_]("https://MK316.github.io")
+ ⛺ [_Goto HOME_](../README.md)
 
 # Natural Language Processing 
 
