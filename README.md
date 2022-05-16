@@ -7,7 +7,7 @@
  
 ~~~
 >> What's NEW? -- This page is under construction. 
->> The followings are small applications that I've been working on for my reserach and/or classes. The original tutorial or applications are cited inside the code file  
+>> The followings are small applications while I'm learning Python coding. I've been using some of them as learning tools in my classroom. The original tutorial or applications are cited inside each code file.  
 ~~~
 🔸 **Tools using Python coding**   
 
