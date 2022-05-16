@@ -12,7 +12,7 @@
 🔸 **Tools using Python coding**   
 | ⏩ _Go to_... | _Contents (tools using Python coding are ready to use)_|
 |--|--|
-| ⏩ [**NLP**](/res/nlt_tools.md) | Corpus, Text processing, word frequency, POS tagging, etc.|
+| [⏩ **NLP**](/res/nlt_tools.md) | Corpus, Text processing, word frequency, POS tagging, etc.|
 | ⏩ [**SP**](/res/sp_tools.md)  | Speech processing, Text-to-Speech, Pronunciation, etc.|
 | ⏩  [**Stats**](/res/stats1.md) | Basic statistics with R and Python, bar graph, scatter plot, etc. |
 
