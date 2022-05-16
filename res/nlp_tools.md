@@ -1,8 +1,8 @@
 # Natural Language Processing 
 
 
-NLP tools ready to use: (asof May 16, 2022)
-Each tool will open in github.
+**NLP tools ready to use:** (asof May 16, 2022)  
+_Each tool will open in github._  
 
 | | Main topic | {Applications} Coding |
 |--|------------| ------------|  
