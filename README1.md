@@ -11,37 +11,20 @@
 >> The followings are small applications that I've been working on for my reserach and/or classes. The original tutorial or applications are cited inside the code file  
 ~~~
 
-**◩-- NATURAL LANGUAGE PROCESSING:** _Links will open in [Github](https://github.com)_     
+**◩-- [Goto - NATURAL LANGUAGE PROCESSING:** ](/res/nlp_tools.md)  
+_This link includes the following tools_     
 
-| | Main topic | {Applications} Coding |
-|--|------------| ------------|  
-|↳ | Tagging |[POS tagging & wordlist](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Tagging_CorpusToolKit.ipynb) |
-|  |  |[{Wordcloud}](https://github.com/MK316/applications/blob/main/wordcloud.ipynb)|
-|↳ | Words in context | [{Condordance}](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/concordance.ipynb) |
-|  |                  | [{Collocation}, {N-gram}](https://github.com/MK316/applications/blob/main/N_gram.ipynb) |
-|↳ | Lexical Diversity |[10 LD measures](https://github.com/kristopherkyle/lexical_diversity) (e.g., TTR, LogTTR, RootTTR, etc.) |
-|  |                  | [Core LD indices](https://github.com/MK316/applications/blob/main/LD_mtld_hdd_mass.ipynb) (MTLD, HDD, MASS measures)| 
-|↳ | Statistics | [{Descriptive stats}](https://github.com/MK316/statistics/blob/3c50a8393e54cc4819f2ded818ed5b3d19a4f65d/Descriptive_stat.ipynb) |
-|  |            | [{Linear Regression}](https://github.com/MK316/statistics/blob/main/lineaRegression.ipynb) |
-|  |            | [{Hclust}](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/Hclust.ipynb) |
-|  |            | [{PCA}](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/PCA.ipynb) |
-| | | [{Basic Rplot}](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/R_BasicPlots.ipynb)|
-|↳ | R on Colab | [Doing R in Colab](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/01_How_to_do_R_in_colab.ipynb)  |
+↳ **Frequency Analysis:** Creating Word Frequency list (csv file), creating Wordcloud with your text, 
+
+↳ **Tagging:** Auto text tagging (Part of Speech: POS tagging) and create a wordlist including frequency, words, POS tags; 
+  
+↳ **Words in Contexts:** Concordance (showing contexts where target words occur), Collocation (words occurring together), N-gram (N words occuring together. 
+↳ **Lexical Diversity:** 10 mostly used LD measures including TTR, LogTTR, RootTTR, etc. A tool with 3 main LD indices is also provided (MTLD, HDD, MASS). These are known less influenced by the length of texts.  
+
+↳ **Basic Stats using R and Python:** Descriptive statistics (getting mean, SD, median, quartiles), Linear Regression, Hierarchical Clustering (Hclust analysis), Principal Component Analysis (PCA), and basic plots including barchart, piechart, scatter plot. 
 
 
-
-
-
-
-↳ **Frequency Analysis:** 
-[{Frequency word list}](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Creating_wordlist.ipynb), [{Wordcloud}](https://github.com/MK316/applications/blob/main/wordcloud.ipynb)      
-↳ **Tagging:** [POS tagging & wordlist](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Tagging_CorpusToolKit.ipynb)  using Corpus Toolkit (by [Kristopher Kyle](https://kristopherkyle.github.io/professional-webpage/))    
-↳ **Words in Contexts:** (quantitative approach): [{Condordance}](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/concordance.ipynb), [{Collocation}, {N-gram}](https://github.com/MK316/applications/blob/main/N_gram.ipynb)  
-↳ **Lexical Diversity:** [10 LD measures](https://github.com/kristopherkyle/lexical_diversity) (e.g., TTR, LogTTR, RootTTR, etc.), [Core LD indices](https://github.com/MK316/applications/blob/main/LD_mtld_hdd_mass.ipynb) (MTLD, HDD, MASS measures - less sensitive to text length),    
-↳ **R for Statistics:** [Doing R in Colab](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/01_How_to_do_R_in_colab.ipynb)  
-↳ **Basic Stats using R and Python:** [{Descriptive stats}](https://github.com/MK316/statistics/blob/3c50a8393e54cc4819f2ded818ed5b3d19a4f65d/Descriptive_stat.ipynb), [{Linear Regression}](https://github.com/MK316/statistics/blob/main/lineaRegression.ipynb), [{Hclust}](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/Hclust.ipynb), [{PCA}](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/PCA.ipynb), [{Basic Rplot}](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/R_BasicPlots.ipynb)   
-
-**◩-- SPEECH PROCESSING**   
+**◩-- [Goto - SPEECH PROCESSING**](/res/sp_tools.md)   
 
 ↳ **TTS (Text-To-Speech):** [Simple TTS using {gTTS}](https://github.com/MK316/applications/blob/main/Speech_gTTS.ipynb) (_Languages - English, Korean, French, Spanish_)  
 ↳ **Pronunciation dictionary:** [Rhyming words](https://github.com/MK316/applications/blob/main/Searching_ryhmingwords.ipynb) - using CMU pronounciation dictioinary  
@@ -49,7 +32,7 @@
 
 **◩-- GO TO MENUs:**   
   
-↳ [Research tools](/res/tools.md): Python, R, Basic stats, Praat  
+↳ [Research tools](/res/tools.md): Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/01_How_to_do_R_in_colab.ipynb) Basic stats, Praat  
 ↳ [Teaching](/res/teaching.md)  
 ↳ [Personal Blog](/blog/blogmain.md)  
 
