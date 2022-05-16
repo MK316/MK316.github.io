@@ -12,6 +12,7 @@
 ### ◲ Academic Career 
 
 | Period | Position | Affiliation | 
+|--------|----------|-------------|
 |2016.3 ~ Present | Associate professor | Dept. of English Education at Gyeongsang National University, South Korea |  
 |2015.3 ~ 2016.2.28 | Assistant professor | (1 year contract), College of English Education at Hankook University of Foreign Studies |
 |2014 ~ 2015 | Speech Clinic Lab manager, at City University of Seoul  
