@@ -21,7 +21,7 @@ _This link includes the following tools_
 ↳ **Basic Stats using R and Python:** Descriptive statistics (getting mean, SD, median, quartiles), Linear Regression, Hierarchical Clustering (Hclust analysis), Principal Component Analysis (PCA), and basic plots including barchart, piechart, scatter plot.   
 
 
-**◩-- [Goto - SPEECH PROCESSING]** (/res/sp_tools.md)   
+**◩-- [Goto - SPEECH PROCESSING](/res/sp_tools.md)**      
 _This link includes the following tools_   
 
 ↳ **TTS (Text-To-Speech):** TTS (Text-to-Speech) in English, Korean, French, and Spanish.  
