@@ -13,7 +13,6 @@
 
 
 **◩--- [Goto - NATURAL LANGUAGE PROCESSING tools](/res/nlp_tools.md)**: 🔎_This link includes the following tools_     
-
 ↳ **Frequency Analysis:** Creating Word Frequency list (csv file), creating Wordcloud with your text.   
 ↳ **Tagging:** Auto text tagging (Part of Speech: POS tagging) and create a wordlist including frequency, words, POS tags.   
 ↳ **Words in Contexts:** Concordance (showing contexts where target words occur), Collocation (words occurring together), N-gram (N words occuring together.  
@@ -21,7 +20,6 @@
  
  
 **◩--- [Goto - SPEECH PROCESSING tools](/res/sp_tools.md):**  🔎_This link includes the following tools_   
-
 ↳ **Basic Stats using R and Python:** Descriptive statistics (getting mean, SD, median, quartiles), Linear Regression, Hierarchical Clustering (Hclust analysis), Principal Component Analysis (PCA), and basic plots including barchart, piechart, scatter plot.   
 
 
@@ -30,14 +28,12 @@
 
 
 **◩--- GO TO MENUs:**   
-  
 ↳ [Research tools](/res/tools.md): Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/01_How_to_do_R_in_colab.ipynb) Basic stats, Praat  
 ↳ [Teaching](/res/teaching.md)  
 ↳ [Personal Blog](/blog/blogmain.md)  
 
 
 **◩--- OTHER WEBLINKS:**  
-
 ↳ [Praat](https://www.fon.hum.uva.nl/praat/)   
 ↳ [Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/)  
 ↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/),  
