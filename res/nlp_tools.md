@@ -1,5 +1,3 @@
- ⛺ [_Goto HOME_](../README.md)
-
 ▶️ **NATURAL LANGUAGE PROCESSING tools)**:   
 🔎 _This link includes the following tools._     
 
@@ -25,3 +23,4 @@
 
 _To be updated..._
 
+ [_Back to MAIN_](../README.md)
