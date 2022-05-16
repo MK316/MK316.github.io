@@ -12,26 +12,10 @@
 
 | Go to | Topics |
 |--|--|
-| NLP | Text processing, word frequency, etc.|
-| SP  | Speech processing, coding for sound analysis|
-| Stats | Basic statistics with R and Python |
+| [**NLP**](/res/nlt_tools.md) | Corpus, Text processing, word frequency, POS tagging, etc.|
+| [**SP**](/res/sp_tools.md)  | Speech processing, Text-to-Speech, Pronunciation, etc.|
+| [**Stats**](/res/stats1.md) | Basic statistics with R and Python, bar graph, scatter plot, etc. |
 
-**▶️ [Goto - NATURAL LANGUAGE PROCESSING tools](/res/nlp_tools.md)**: 
-🔎 _This link includes the following tools._     
-↳ **Frequency Analysis:** Creating Word Frequency list (csv file), creating Wordcloud with your text.   
-↳ **Tagging:** Auto text tagging (Part of Speech: POS tagging) and create a wordlist including frequency, words, POS tags.   
-↳ **Words in Contexts:** Concordance (showing contexts where target words occur), Collocation (words occurring together), N-gram (N words occuring together.  
-↳ **Lexical Diversity:** 10 mostly used LD measures including TTR, LogTTR, RootTTR, etc. A tool with 3 main LD indices is also provided (MTLD, HDD, MASS). These are known less influenced by the length of texts.   
- 
- 
-**▶️ [Goto - SPEECH PROCESSING tools](/res/sp_tools.md):**  🔎   
-↳ **TTS (Text-To-Speech):** Type texts and you can create speech! (English, Korean, French, Spanish)   
-↳ **Rhyming words:** Find English rhyming words from a dictionary.
-
-**▶️ [Goto - Statistics tools](/res/stats1.md):**  🔎  
-↳ **Basic Stats using R and Python:** Descriptive statistics (getting mean, SD, median, quartiles), Linear Regression, Hierarchical Clustering (Hclust analysis), Principal Component Analysis (PCA), and basic plots including barchart, piechart, scatter plot.   
-
----  
 📒 **More MENUs**    
 ↳ **[Research tools](/res/tools.md):** Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/01_How_to_do_R_in_colab.ipynb) Basic stats, Praat.  
 ↳ **[Teaching](/res/teaching.md):** Applying python based tools to classes (Spring 2022).  
