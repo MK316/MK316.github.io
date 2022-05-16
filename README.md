@@ -2,7 +2,7 @@
 ### Weblog: _Research tools for Language and teaching_
 ---  
 ↳ _[📪 Email](mailto: MK3one6@gmail.com), [🏢 GNU](https://englishedu.gnu.ac.kr)_   
-↳ _I'm currently learning Python coding following [NAMZ channel](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured)(videos👍)   
+↳ _I'm currently learning Python coding following [NAMZ channel](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured) (videos👍)   
 ↳ _Collaborators_: 👥 [Dr. Nam (KU)](https://github.com/hsnam95), [Dr. Lee (Hufs)](https://github.com/junkyuhufs) & [Dr. Son (HNU)](https://github.com/ms624atyale)  
  
 ~~~
