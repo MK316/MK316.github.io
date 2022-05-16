@@ -23,7 +23,7 @@
 ↳ **[Personal Blog](/blog/blogmain.md):**  Moments with the sound of silence.  
 
 
-🔸 **Other WEBLINKS**   
+🔸 **Other WEBLINKs**   
 ↳ [Praat](https://www.fon.hum.uva.nl/praat/)   
 ↳ [Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/)  
 ↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/),  
