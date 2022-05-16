@@ -2,9 +2,9 @@
 
 
 **NLP tools ready to use:** (asof May 16, 2022)  
-_Each tool will open in github._  
+🌱_Each tool will open in github._  
 
-| | Main topic | {Applications} Coding |
+|💧 | Main topic | {Applications} Coding |
 |--|------------| ------------|  
 |↳ | Tagging |[POS tagging & wordlist](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Tagging_CorpusToolKit.ipynb) |
 |  |  |[{Wordcloud}](https://github.com/MK316/applications/blob/main/wordcloud.ipynb)|
