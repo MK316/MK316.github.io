@@ -1,4 +1,4 @@
-<p align="right") ⛺[_goto Main_]("https://MK316.github.io") </p>
+ ⛺[_goto Main_]("https://MK316.github.io")
 
 # Natural Language Processing 
 
