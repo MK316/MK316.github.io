@@ -11,8 +11,7 @@
 >> The followings are small applications that I've been working on for my reserach and/or classes. The original tutorial or applications are cited inside the code file  
 ~~~
 
-**◩--- [Goto - NATURAL LANGUAGE PROCESSING tools](/res/nlp_tools.md)**    
-_This link includes the following tools_     
+**◩--- [Goto - NATURAL LANGUAGE PROCESSING tools](/res/nlp_tools.md)**: 🔎_This link includes the following tools_     
 
 ↳ **Frequency Analysis:** Creating Word Frequency list (csv file), creating Wordcloud with your text.   
 ↳ **Tagging:** Auto text tagging (Part of Speech: POS tagging) and create a wordlist including frequency, words, POS tags.   
@@ -21,8 +20,7 @@ _This link includes the following tools_
 ↳ **Basic Stats using R and Python:** Descriptive statistics (getting mean, SD, median, quartiles), Linear Regression, Hierarchical Clustering (Hclust analysis), Principal Component Analysis (PCA), and basic plots including barchart, piechart, scatter plot.   
 
 
-**◩--- [Goto - SPEECH PROCESSING tools](/res/sp_tools.md)**      
-_This link includes the following tools_   
+**◩--- [Goto - SPEECH PROCESSING tools](/res/sp_tools.md):**  🔎_This link includes the following tools_   
 
 ↳ **TTS (Text-To-Speech):** TTS (Text-to-Speech) in English, Korean, French, and Spanish.  
 ↳ **Pronunciation dictionary:** Finding rhyming words in English from English dictionary (This uses CMU pronounciation dictioinary)  
