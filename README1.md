@@ -11,7 +11,7 @@
 >> The followings are small applications that I've been working on for my reserach and/or classes. The original tutorial or applications are cited inside the code file  
 ~~~
 
-**◩-- [Goto - NATURAL LANGUAGE PROCESSING tools](/res/nlp_tools.md)**    
+**◩--- [Goto - NATURAL LANGUAGE PROCESSING tools](/res/nlp_tools.md)**    
 _This link includes the following tools_     
 
 ↳ **Frequency Analysis:** Creating Word Frequency list (csv file), creating Wordcloud with your text.   
@@ -21,20 +21,20 @@ _This link includes the following tools_
 ↳ **Basic Stats using R and Python:** Descriptive statistics (getting mean, SD, median, quartiles), Linear Regression, Hierarchical Clustering (Hclust analysis), Principal Component Analysis (PCA), and basic plots including barchart, piechart, scatter plot.   
 
 
-**◩-- [Goto - SPEECH PROCESSING tools](/res/sp_tools.md)**      
+**◩--- [Goto - SPEECH PROCESSING tools](/res/sp_tools.md)**      
 _This link includes the following tools_   
 
 ↳ **TTS (Text-To-Speech):** TTS (Text-to-Speech) in English, Korean, French, and Spanish.  
 ↳ **Pronunciation dictionary:** Finding rhyming words in English from English dictionary (This uses CMU pronounciation dictioinary)  
 ↳ Listenability (in progress).  
 
-**◩-- GO TO MENUs:**   
+**◩--- GO TO MENUs:**   
   
 ↳ [Research tools](/res/tools.md): Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/01_How_to_do_R_in_colab.ipynb) Basic stats, Praat  
 ↳ [Teaching](/res/teaching.md)  
 ↳ [Personal Blog](/blog/blogmain.md)  
 
-**◩-- OTHER WEBLINKS:**  
+**◩--- OTHER WEBLINKS:**  
 
 ↳ [Praat](https://www.fon.hum.uva.nl/praat/)   
 ↳ [Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/)  
@@ -44,6 +44,6 @@ _This link includes the following tools_
 
   
 ---
-_May 22, 2022 (Last updated)_   
+_May 16, 2022 (Last updated)_   
 𝚃𝚑𝚒𝚜 𝚙𝚊𝚐𝚎 𝚒𝚜 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚞𝚜𝚒𝚗𝚐 [𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚊𝚐𝚎𝚜](https://pages.github.com).
 [test](/blog/test.md)
