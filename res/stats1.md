@@ -6,7 +6,7 @@
 
 ## Python coding for stats (These are ready to use):
 
-|  | Topics | Code link |
+|  | Topics | Code link (github > Colab) |
 |--|--|--|
 |1 | Descriptive statistics | [{Descriptive stats}](https://github.com/MK316/statistics/blob/3c50a8393e54cc4819f2ded818ed5b3d19a4f65d/Descriptive_stat.ipynb) |
 |2  | Linear Regression | [{Linear Regression}](https://github.com/MK316/statistics/blob/main/lineaRegression.ipynb) |
