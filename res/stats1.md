@@ -1,4 +1,4 @@
-##🐳 Basic Statistics: using R and Python
+🐳 **Basic Statistics:** using R and Python
 
 
 |  | Topics | Code link |
