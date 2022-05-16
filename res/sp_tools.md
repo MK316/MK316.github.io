@@ -4,7 +4,7 @@
 _Each link will open in github._   
 
 
-|  | Topic | Tools |  
+| 💦 | Topic | Tools |  
 |--|--|--|
 |↳ | TTS (Text-to-Speech) | [Simple TTS using {gTTS}](https://github.com/MK316/applications/blob/main/Speech_gTTS.ipynb) (_Languages - English, Korean, French, Spanish_)|
 |↳ | Pronunciation dictionary | [Find Rhyming words](https://github.com/MK316/applications/blob/main/Searching_ryhmingwords.ipynb) |
