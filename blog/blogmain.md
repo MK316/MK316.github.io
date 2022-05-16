@@ -21,6 +21,7 @@ Parents' Day
 
 ![Miss you, mom](/images/05082022.png). 
 
+She loved poppies. I planted new ones for her. I'm sure she is happy with them.  
 
 ---
 
