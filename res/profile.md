@@ -1,4 +1,4 @@
-## Miran Kim (Ph.D. in Linguistics)
+## M.R. KIM (Ph.D. in Linguistics)
 
 ### ◲ Academic Background:
 
