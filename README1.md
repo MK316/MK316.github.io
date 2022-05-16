@@ -11,18 +11,18 @@
 ~~~
 
 
-**▶️ [Goto - NATURAL LANGUAGE PROCESSING tools](/res/nlp_tools.md)**: 🔎 _This link includes the following tools_     
+**▶️ [Goto - NATURAL LANGUAGE PROCESSING tools](/res/nlp_tools.md)**: 🔎 _This link includes the following tools._     
 ↳ **Frequency Analysis:** Creating Word Frequency list (csv file), creating Wordcloud with your text.   
 ↳ **Tagging:** Auto text tagging (Part of Speech: POS tagging) and create a wordlist including frequency, words, POS tags.   
 ↳ **Words in Contexts:** Concordance (showing contexts where target words occur), Collocation (words occurring together), N-gram (N words occuring together.  
 ↳ **Lexical Diversity:** 10 mostly used LD measures including TTR, LogTTR, RootTTR, etc. A tool with 3 main LD indices is also provided (MTLD, HDD, MASS). These are known less influenced by the length of texts.   
  
  
-**▶️ [Goto - SPEECH PROCESSING tools](/res/sp_tools.md):**  🔎 _This link includes the following tools_   
+**▶️ [Goto - SPEECH PROCESSING tools](/res/sp_tools.md):**  🔎   
 ↳ **Basic Stats using R and Python:** Descriptive statistics (getting mean, SD, median, quartiles), Linear Regression, Hierarchical Clustering (Hclust analysis), Principal Component Analysis (PCA), and basic plots including barchart, piechart, scatter plot.   
 
 
-**▶️ [Goto - Statistics tools](/res/stat1.md):**  🔎_This link includes the following tools_   
+**▶️ [Goto - Statistics tools](/res/stat1.md):**  🔎  
 ↳ **TTS (Text-To-Speech):** TTS
 
 ---  
