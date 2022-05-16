@@ -11,7 +11,7 @@
 >> The followings are small applications that I've been working on for my reserach and/or classes. The original tutorial or applications are cited inside the code file  
 ~~~
 
-**◩-- [Goto - NATURAL LANGUAGE PROCESSING:]** (/res/nlp_tools.md)  
+**◩-- [Goto - NATURAL LANGUAGE PROCESSING](/res/nlp_tools.md)**    
 _This link includes the following tools_     
 
 ↳ **Frequency Analysis:** Creating Word Frequency list (csv file), creating Wordcloud with your text.   
