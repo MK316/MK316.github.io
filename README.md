@@ -22,7 +22,7 @@
 ↳ **TTS (Text-To-Speech):** Type texts and you can create speech! (English, Korean, French, Spanish)
 ↳ **Rhyming words:** Find English rhyming words from a dictionary.
 
-**▶️ [Goto - Statistics tools](/res/stat1.md):**  🔎  
+**▶️ [Goto - Statistics tools](/res/stats1.md):**  🔎  
 ↳ **Basic Stats using R and Python:** Descriptive statistics (getting mean, SD, median, quartiles), Linear Regression, Hierarchical Clustering (Hclust analysis), Principal Component Analysis (PCA), and basic plots including barchart, piechart, scatter plot.   
 
 ---  
