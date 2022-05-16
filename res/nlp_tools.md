@@ -1,8 +1,8 @@
  ⛺ [_Goto HOME_](../README.md)
 
 **▶️ NATURAL LANGUAGE PROCESSING tools)**: 
-
 🔎 _This link includes the following tools._     
+
 ↳ **Frequency Analysis:** Creating Word Frequency list (csv file), creating Wordcloud with your text.   
 ↳ **Tagging:** Auto text tagging (Part of Speech: POS tagging) and create a wordlist including frequency, words, POS tags.   
 ↳ **Words in Contexts:** Concordance (showing contexts where target words occur), Collocation (words occurring together), N-gram (N words occuring together.  
