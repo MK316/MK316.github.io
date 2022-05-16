@@ -1,4 +1,4 @@
-࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐        [📪 _Email_](mailto: MK3one6@gmail.com)    
+࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐        [📪 _Email_](mailto: MK3one6@gmail.com)_, [![image](/images/gnu.png)[GNU](https://englishedu.gnu.ac.kr)
 ### Weblog: _Research tools for Language and teaching_
 ---  
 ↳ _I'm currently learning Python coding from Dr. Nam 📚 following his lectures posted on_ [NAMZ channel](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured) _(👍 highly recommended)_   
