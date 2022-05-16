@@ -1,6 +1,6 @@
  ⛺ [_Goto HOME_](../README.md)
 
-▶️**NATURAL LANGUAGE PROCESSING tools)**:   
+▶️ **NATURAL LANGUAGE PROCESSING tools)**:   
 🔎 _This link includes the following tools._     
 
 ↳ **Frequency Analysis:** Creating Word Frequency list (csv file), creating Wordcloud with your text.   
@@ -8,7 +8,7 @@
 ↳ **Words in Contexts:** Concordance (showing contexts where target words occur), Collocation (words occurring together), N-gram (N words occuring together.  
 ↳ **Lexical Diversity:** 10 mostly used LD measures including TTR, LogTTR, RootTTR, etc. A tool with 3 main LD indices is also provided (MTLD, HDD, MASS). These are known less influenced by the length of texts.  
 
-▶️**NLP tools ready to use:** (asof May 16, 2022)  
+▶️ **NLP tools ready to use:** (asof May 16, 2022)  
 
 🌱 _Each tool will open in [github]("https://github.com)._  
 
