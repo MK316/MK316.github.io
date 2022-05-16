@@ -10,9 +10,9 @@
 >> The followings are small applications that I've been working on for my reserach and/or classes. The original tutorial or applications are cited inside the code file  
 ~~~
 🔸 **Tools using Python coding**   
-| ⏩ _Go to_... | _Contents (tools using Python coding are ready to use)_|
+| ⏩ _Go to_... | _Keywords (tools using Python coding are ready to use)_|
 |--|--|
-| [⏩ **NLP**](/res/nlt_tools.md) | Corpus, Text processing, word frequency, POS tagging, etc.|
+| [⏩ **NLP**](/res/nlt_tools.md) | Text processing, Corpus, word frequency, POS tagging, etc.|
 | [⏩ **SP**](/res/sp_tools.md)  | Speech processing, Text-to-Speech, Pronunciation, etc.|
 | [⏩ **Stats**](/res/stats1.md) | Basic statistics with R and Python, bar graph, scatter plot, etc. |
 
