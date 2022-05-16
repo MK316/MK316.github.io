@@ -1,5 +1,6 @@
-࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐        _[📪 Email](mailto: MK3one6@gmail.com), Affiliation[GNU](https://englishedu.gnu.ac.kr)_
+࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐        
 ### Weblog: _Research tools for Language and teaching_
+↳ _[📪 Email](mailto: MK3one6@gmail.com), [🏢 GNU](https://englishedu.gnu.ac.kr)_
 ---  
 ↳ _I'm currently learning Python coding from Dr. Nam 📚 following his lectures posted on_ [NAMZ channel](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured) _(👍 highly recommended)_   
 ↳ _Collaborators_: 👥 [Dr. Nam (KU)](https://github.com/hsnam95), [Dr. Lee (Hufs)](https://github.com/junkyuhufs) & [Dr. Son (HNU)](https://github.com/ms624atyale)  
