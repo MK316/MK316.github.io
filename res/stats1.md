@@ -1,7 +1,10 @@
  ⛺ [_Goto HOME_](../README.md)
 
 # 🐳 **Basic Statistics:** using R and Python
+🔎  
+↳ Descriptive statistics (getting mean, SD, median, quartiles), Linear Regression, Hierarchical Clustering (Hclust analysis), Principal Component Analysis (PCA), and basic plots including barchart, piechart, scatter plot.   
 
+## Python coding for stats (These are ready to use):
 
 |  | Topics | Code link |
 |--|--|--|
