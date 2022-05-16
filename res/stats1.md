@@ -1,10 +1,9 @@
- ⛺ [_Goto HOME_](../README.md)
-
-# 🐳 **Basic Statistics:** using R and Python
+🐳 **Basic Statistics:** using R and Python
 🔎  
 ↳ Descriptive statistics (getting mean, SD, median, quartiles), Linear Regression, Hierarchical Clustering (Hclust analysis), Principal Component Analysis (PCA), and basic plots including barchart, piechart, scatter plot.   
 
 ## Python coding for stats (These are ready to use):  
+
 🔎 _Each link will open in github. You can go to Colab from there to use the tool._   
 
 |  | Topics | Code link (github > Colab) |
@@ -19,3 +18,5 @@
 
 _Updates will continue..._
 
+
+ [_Back to MAIN_](../README.md)
