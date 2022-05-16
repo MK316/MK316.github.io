@@ -1,4 +1,4 @@
-࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐        
+࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐     _since 2022   
 ### Weblog: _Research tools for Language and teaching_
 ---  
 ↳ _[📪 Email](mailto: MK3one6@gmail.com), [🏢 GNU](https://englishedu.gnu.ac.kr)_   
@@ -6,7 +6,7 @@
 ↳ _Collaborators_: 👥 [Dr. Nam (KU)](https://github.com/hsnam95), [Dr. Lee (Hufs)](https://github.com/junkyuhufs) & [Dr. Son (HNU)](https://github.com/ms624atyale)  
  
 ~~~
->> What's NEW? -- This page is under construction. 
+>> What's NEW? -- This page is still under construction. 
 >> The followings are small applications while I'm learning Python coding. I've been using some of them as learning tools in my classroom. The original tutorial or applications are cited inside each code file.  
 ~~~
 🔸 **Tools using Python coding**   
