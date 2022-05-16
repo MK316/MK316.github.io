@@ -11,26 +11,30 @@
 >> The followings are small applications that I've been working on for my reserach and/or classes. The original tutorial or applications are cited inside the code file  
 ~~~
 
+
 **◩--- [Goto - NATURAL LANGUAGE PROCESSING tools](/res/nlp_tools.md)**: 🔎_This link includes the following tools_     
 
 ↳ **Frequency Analysis:** Creating Word Frequency list (csv file), creating Wordcloud with your text.   
 ↳ **Tagging:** Auto text tagging (Part of Speech: POS tagging) and create a wordlist including frequency, words, POS tags.   
 ↳ **Words in Contexts:** Concordance (showing contexts where target words occur), Collocation (words occurring together), N-gram (N words occuring together.  
 ↳ **Lexical Diversity:** 10 mostly used LD measures including TTR, LogTTR, RootTTR, etc. A tool with 3 main LD indices is also provided (MTLD, HDD, MASS). These are known less influenced by the length of texts.   
+ 
+ 
+**◩--- [Goto - SPEECH PROCESSING tools](/res/sp_tools.md):**  🔎_This link includes the following tools_   
+
 ↳ **Basic Stats using R and Python:** Descriptive statistics (getting mean, SD, median, quartiles), Linear Regression, Hierarchical Clustering (Hclust analysis), Principal Component Analysis (PCA), and basic plots including barchart, piechart, scatter plot.   
 
 
-**◩--- [Goto - SPEECH PROCESSING tools](/res/sp_tools.md):**  🔎_This link includes the following tools_   
+**◩--- [Goto - Statistics tools](/res/stat1.md):**  🔎_This link includes the following tools_   
+↳ **TTS (Text-To-Speech):** TTS
 
-↳ **TTS (Text-To-Speech):** TTS (Text-to-Speech) in English, Korean, French, and Spanish.  
-↳ **Pronunciation dictionary:** Finding rhyming words in English from English dictionary (This uses CMU pronounciation dictioinary)  
-↳ Listenability (in progress).  
 
 **◩--- GO TO MENUs:**   
   
-↳ [Research tools](/res/tools.md): [Statistics](/res/stat1.md), Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/01_How_to_do_R_in_colab.ipynb) Basic stats, Praat  
+↳ [Research tools](/res/tools.md): Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/01_How_to_do_R_in_colab.ipynb) Basic stats, Praat  
 ↳ [Teaching](/res/teaching.md)  
 ↳ [Personal Blog](/blog/blogmain.md)  
+
 
 **◩--- OTHER WEBLINKS:**  
 
