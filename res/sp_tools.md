@@ -1,6 +1,11 @@
  ⛺ [_Goto HOME_](../README.md)
 
-# Speech Processing
+#▶️ Speech Processing
+🔎   
+↳ **TTS (Text-To-Speech):** Type texts and you can create speech! (English, Korean, French, Spanish)   
+↳ **Rhyming words:** Find English rhyming words from a dictionary.
+
+---
 
 🌱 **Tools ready to use:** (asof May 16, 2022)  
 _Each link will open in github._   
