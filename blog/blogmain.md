@@ -32,12 +32,11 @@ One day in January of 2020, my mom sent me a photo of this scene. She was so hap
 
 In the same year, she passed away in October. It was a beautiful autumn day and the world seemed to cease to smile.
 
-Winter came back that year. And one day I found the same scenery when I woke up. It was so quiet and I could only hear one bird singing around. I thought it must be her. She wanted to keep a bird but she thought birds are noisy... to keep inside the house where she was living.
+Winter came back that year. And one day I found the same scenery when I woke up. It was so quiet and I could only hear one bird singing around. I thought it must be her. She wanted to keep a bird but one feels lonely. She wanted to have multiple birds, but worried that they are too noisy to keep inside the house where she was living (the city).
 
-In this place, birds can fly singing as free as they want. I want to keep the memory this way. 
+In this peaceful place (North of Gyeonggi-do), birds can fly, sing, play with other birds as free as they could be. I want to keep the memory this way: she is enjoying this scenery and I feel happy to see this photo hearing the one special bird singing. 
 
-And I took a photo of the same place and I can't tell the difference in the two photos.
-One from my mom and now from me. I hope we can talk about this beautiful moment together.
+So I took a photo of the same place (the one I have in the main page) and there's beautiful sound of silence. Now I can't tell the difference between the two photos: one from my mom and now from me. I hope we can talk about this beautiful moment together some day.
 
 May her soul stay in peace.
 
