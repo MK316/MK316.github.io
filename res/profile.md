@@ -22,10 +22,12 @@
 
 | TIME | Topic | Hosted by (Location)|
 |------|-------|-----------|
-| | Special Topics in English linguistics (Dept. of English Education at Hufs) |
+| | Special Topics in English linguistics | Dept. of English Education at Hufs |
+| | Special Topics in English linguistics | Dept. of English Education at Hanyang University |
+| | Worshop on Pronunciation teaching | Dept. of English Education at Chosun University |
 | | R workshop | RILI at Korea University |
 | | R workshop | RILI at Korea University |
-| | Speech perception experiment | KASS |
+| | Workshop on Speech perception experiment | KASS |
 | | (To be updated) |
 
 _[BACK to MAIN](../README.md)_
