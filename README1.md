@@ -11,7 +11,7 @@
 >> The followings are small applications that I've been working on for my reserach and/or classes. The original tutorial or applications are cited inside the code file  
 ~~~
 
-**◩-- [Goto - NATURAL LANGUAGE PROCESSING:** ](/res/nlp_tools.md)  
+**◩-- [Goto - NATURAL LANGUAGE PROCESSING:]** (/res/nlp_tools.md)  
 _This link includes the following tools_     
 
 ↳ **Frequency Analysis:** Creating Word Frequency list (csv file), creating Wordcloud with your text.   
@@ -21,7 +21,7 @@ _This link includes the following tools_
 ↳ **Basic Stats using R and Python:** Descriptive statistics (getting mean, SD, median, quartiles), Linear Regression, Hierarchical Clustering (Hclust analysis), Principal Component Analysis (PCA), and basic plots including barchart, piechart, scatter plot.   
 
 
-**◩-- [Goto - SPEECH PROCESSING**](/res/sp_tools.md)   
+**◩-- [Goto - SPEECH PROCESSING]** (/res/sp_tools.md)   
 _This link includes the following tools_   
 
 ↳ **TTS (Text-To-Speech):** TTS (Text-to-Speech) in English, Korean, French, and Spanish.  
