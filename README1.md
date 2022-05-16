@@ -26,7 +26,7 @@
 **◩--- [Goto - Statistics tools](/res/stat1.md):**  🔎_This link includes the following tools_   
 ↳ **TTS (Text-To-Speech):** TTS
 
-
+---  
 **🥚 More MENUs🥚**   
 ↳ **[Research tools](/res/tools.md):** Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/01_How_to_do_R_in_colab.ipynb) Basic stats, Praat.  
 ↳ **[Teaching](/res/teaching.md):** Applying python based tools to classes (Spring 2022).  
