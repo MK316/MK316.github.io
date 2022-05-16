@@ -14,7 +14,7 @@
 **◩-- NATURAL LANGUAGE PROCESSING:** _Links will open in [Github](https://github.com)_     
 
 | | Main topic | {Applications} Coding |
-|↳ |------------| ------------|
+|--|------------| ------------|  
 |↳ | Tagging |[POS tagging & wordlist](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/Tagging_CorpusToolKit.ipynb) |
 |  |  |[{Wordcloud}](https://github.com/MK316/applications/blob/main/wordcloud.ipynb)|
 |↳ | Words in context | [{Condordance}](https://github.com/MK316/applications/blob/e97cc8a0c51c8009a4a2a0b597cb3962c55dfaf2/concordance.ipynb) |
