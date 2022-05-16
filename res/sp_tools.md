@@ -1,6 +1,4 @@
- ⛺ [_Goto HOME_](../README.md)
-
-# ▶️ Speech Processing
+▶️ **Speech Processing**
 🔎   
 ↳ **TTS (Text-To-Speech):** Type texts and you can create speech! (English, Korean, French, Spanish)   
 ↳ **Rhyming words:** Find English rhyming words from a dictionary.
@@ -25,3 +23,6 @@ _Each link will open in github._
 - **TTS (Text-To-Speech):** Type words or sentences, and the tool create a speech file to play. You can also save the file. Interestingly, you can hear foreign - accents by changing languages. For example, English text with Korean language creates English speech with Korean accent! 
 - **Pronunciation dictionary:** This tool uses CMU prononunciation dictionary.  
 - Listenability: current/future project.
+
+
+ [_Back to MAIN_](../README.md)
