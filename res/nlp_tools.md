@@ -1,4 +1,5 @@
 ▶️ **NATURAL LANGUAGE PROCESSING tools)**:   
+
 🔎 _This link includes the following tools._     
 
 ↳ **Frequency Analysis:** Creating Word Frequency list (csv file), creating Wordcloud with your text.   
