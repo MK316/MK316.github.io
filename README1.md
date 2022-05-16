@@ -14,21 +14,19 @@
 **◩-- [Goto - NATURAL LANGUAGE PROCESSING:** ](/res/nlp_tools.md)  
 _This link includes the following tools_     
 
-↳ **Frequency Analysis:** Creating Word Frequency list (csv file), creating Wordcloud with your text, 
-
-↳ **Tagging:** Auto text tagging (Part of Speech: POS tagging) and create a wordlist including frequency, words, POS tags; 
-  
-↳ **Words in Contexts:** Concordance (showing contexts where target words occur), Collocation (words occurring together), N-gram (N words occuring together. 
-↳ **Lexical Diversity:** 10 mostly used LD measures including TTR, LogTTR, RootTTR, etc. A tool with 3 main LD indices is also provided (MTLD, HDD, MASS). These are known less influenced by the length of texts.  
-
-↳ **Basic Stats using R and Python:** Descriptive statistics (getting mean, SD, median, quartiles), Linear Regression, Hierarchical Clustering (Hclust analysis), Principal Component Analysis (PCA), and basic plots including barchart, piechart, scatter plot. 
+↳ **Frequency Analysis:** Creating Word Frequency list (csv file), creating Wordcloud with your text.   
+↳ **Tagging:** Auto text tagging (Part of Speech: POS tagging) and create a wordlist including frequency, words, POS tags.   
+↳ **Words in Contexts:** Concordance (showing contexts where target words occur), Collocation (words occurring together), N-gram (N words occuring together.  
+↳ **Lexical Diversity:** 10 mostly used LD measures including TTR, LogTTR, RootTTR, etc. A tool with 3 main LD indices is also provided (MTLD, HDD, MASS). These are known less influenced by the length of texts.   
+↳ **Basic Stats using R and Python:** Descriptive statistics (getting mean, SD, median, quartiles), Linear Regression, Hierarchical Clustering (Hclust analysis), Principal Component Analysis (PCA), and basic plots including barchart, piechart, scatter plot.   
 
 
 **◩-- [Goto - SPEECH PROCESSING**](/res/sp_tools.md)   
+_This link includes the following tools_   
 
-↳ **TTS (Text-To-Speech):** [Simple TTS using {gTTS}](https://github.com/MK316/applications/blob/main/Speech_gTTS.ipynb) (_Languages - English, Korean, French, Spanish_)  
-↳ **Pronunciation dictionary:** [Rhyming words](https://github.com/MK316/applications/blob/main/Searching_ryhmingwords.ipynb) - using CMU pronounciation dictioinary  
-↳ Listenability  
+↳ **TTS (Text-To-Speech):** TTS (Text-to-Speech) in English, Korean, French, and Spanish.  
+↳ **Pronunciation dictionary:** Finding rhyming words in English from English dictionary (This uses CMU pronounciation dictioinary)  
+↳ Listenability (in progress).  
 
 **◩-- GO TO MENUs:**   
   
