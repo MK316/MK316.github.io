@@ -15,7 +15,7 @@
 |---------------|-----------------|  
 | ⏩ **[NLP](/res/nlp_tools.md)** | Text processing, Corpus, word frequency, POS tagging, etc.|  
 | ⏩ **[SP](/res/sp_tools.md)**  | Speech processing, Text-to-Speech, Pronunciation, etc.|  
-| ⏩ **[Stats](/res/stats1.md)** | Basic statistics with R and Python, bar graph, scatter plot, etc. |   
+| ⏩ **[Statistics](/res/stats1.md)** | Basic statistics with R and Python, bar graph, scatter plot, etc. |   
 
 🔸 **More MENUs**    
 ↳ **[Research tools](/res/tools.md):** Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/01_How_to_do_R_in_colab.ipynb) Basic stats, Praat.  
