@@ -5,7 +5,7 @@ _For quantitative data study._
 (Still working on it. To be updated)
 ~~~
 
-## 💦 Script languages & software 
+## 💦 Programming languages & software 
 * **Python (in Google Colab)** for natural language processing and AI applications
 * **R (Software to install)** for statistics and plots
 * **Praat (Software to install)** for speech analysis and experiments
