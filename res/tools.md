@@ -2,7 +2,7 @@
 _For quantitative data study._  
 
 ~~~
-(Still working on it. To be updated)
+(Still working on the page. To be updated)
 ~~~
 
 ## 💦 Programming languages & software 
