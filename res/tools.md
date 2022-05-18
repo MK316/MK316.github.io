@@ -20,7 +20,7 @@ _For quantitative data study._
 
 
 ## 💦 Useful online applications:
-* Speech recognition online: [speechnotes]("httpes://speechnotes.co")  
+* Speech recognition online: [speechnotes]("https://speechnotes.co")  
 * 
 
 
