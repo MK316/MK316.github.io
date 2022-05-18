@@ -8,7 +8,7 @@ _For quantitative data study._
 ## 💦 Programming languages & software 
 * **Python (in Google Colab)** for natural language processing and AI applications
 * **R (Software to install)** for statistics and plots
-* **Praat (Software to install)** for speech analysis and [Perception experiment using Praat]("https://fon.hum.uva.nl/praat/manual/ExperimentMFC.html")   
+* **Praat (Software to install)** for speech analysis and [Perception experiment using Praat](https://fon.hum.uva.nl/praat/manual/ExperimentMFC.html)   
 
 
 ## 💦 By Research Topics:
@@ -20,7 +20,7 @@ _For quantitative data study._
 
 
 ## 💦 Useful online applications:
-* Speech recognition online: [speechnotes]("https://speechnotes.co")  
+* Speech recognition online: [speechnotes](https://speechnotes.co)  
 * 
 
 
