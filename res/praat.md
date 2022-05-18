@@ -1,6 +1,6 @@
 ![image](/images/praaticon.png)  
 
-# 💎 Praat: Doing phonetics by computer  
+# Praat: Doing phonetics by computer  
 
    
 
