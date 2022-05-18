@@ -2,12 +2,15 @@
 _For quantitative data study._  
 
 ~~~
-(Under construction)
+(Still working on it. To be updated)
 ~~~
 
-* Python 
-* R for statistics
-* Praat for speech analysis
+## 💦
+* **Python (in Google Colab)** for natural language processing and AI applications
+* **R (Software to install)** for statistics and plots
+* **Praat (Software to install)** for speech analysis and experiments
+
+💎 [Perception experiment using Praat](/res/praat.md)
 
 
 ## 💦 By Research Topics:
