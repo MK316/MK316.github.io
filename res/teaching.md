@@ -17,6 +17,7 @@
 
 
 For example, 3K words are listed with ID numbers:
+
 | ID | WORD |
 |---|---|
 | 1 | the |
