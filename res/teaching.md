@@ -10,4 +10,4 @@
 <Tools for students>
 
 1. [Oxford 3K wordlist with sounds](https://github.com/MK316/applications/blob/main/Oxford3K.ipynb)
-2. [Short story reading]()
+2. [Short story reading](https://github.com/MK316/applications/blob/main/Bedtimestory_tts.ipynb)
