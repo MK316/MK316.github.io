@@ -27,6 +27,6 @@ For example, 3K words are listed with ID numbers:
 | 2999 | short |
 | 3000 | essence |
 
-[sample audio](res/myaudio.mp4)
+[sample audio](/myaudio.mp4)
 
 
