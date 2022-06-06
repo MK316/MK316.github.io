@@ -28,6 +28,6 @@ For example, 3K words are listed with ID numbers:
 | 2999 | short |  
 | 3000 | essence |  
 
-🎧 [sample audio to download](/res/myaudio.mp4): in the following pate, click "view raw" to download the audio file.
+🎧 [sample audio to play/download](/res/myaudio.mp4): in the following pate, click "view raw" to download the audio file.
 
 
