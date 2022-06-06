@@ -11,5 +11,5 @@
 
 :octocat: **Tools ready to use: for students**
 
-1. [Oxford 3K wordlist with sounds](https://github.com/MK316/applications/blob/main/Oxford3K.ipynb)
+1. [Oxford Learners' vocabulary 3K with sounds](https://github.com/MK316/applications/blob/main/Oxford3K.ipynb): You can create audio files of words as you select (from number 1 to 3,000). 
 2. [Short story reading](https://github.com/MK316/applications/blob/main/Bedtimestory_tts.ipynb)
