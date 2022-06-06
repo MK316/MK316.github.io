@@ -18,16 +18,16 @@
 
 For example, 3K words are listed with ID numbers:
 
-| ID | WORD |  
-|---|---|  
-| 1 | the |  
-| 2 | of |  
-| 3 | and |  
-| ... | ... |  
-| 2998 | collapse |  
-| 2999 | short |  
-| 3000 | essence |  
+| ID | WORD |  🔈 [sample audio to play/download](/res/myaudio.mp4): in the following pate, click "view raw" to download the audio file. ]
+|---|---|---|    
+| 1 | the | |  
+| 2 | of | |  
+| 3 | and | |  
+| ... | ... | |  
+| 2998 | collapse | |  
+| 2999 | short | |  
+| 3000 | essence | |  
 
-🎧 [sample audio to play/download](/res/myaudio.mp4): in the following pate, click "view raw" to download the audio file.
+
 
 
