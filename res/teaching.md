@@ -16,9 +16,9 @@
 => See description [🔗 here](https://www.oxfordlearnersdictionaries.com/about/wordlists/oxford3000-5000)
 
 
-For example, 3K words are listed with ID numbers:
+For example, 3K words are listed with ID numbers and we'll create audio files using TTS (Text-to-Speech) tool:
 
-| ID | WORD |  🔈 [sample audio to play/download](/res/myaudio.mp4): in the following pate, click "view raw" to download the audio file. ]
+| ID | WORD |  🔈 [sample audio](/res/myaudio.mp4)]
 |---|---|---|    
 | 1 | the | |  
 | 2 | of | |  
@@ -27,7 +27,6 @@ For example, 3K words are listed with ID numbers:
 | 2998 | collapse | |  
 | 2999 | short | |  
 | 3000 | essence | |  
-
 
 
 
