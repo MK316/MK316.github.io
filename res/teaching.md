@@ -7,7 +7,8 @@
 | Spring 22 | Speech perception | links |
 | Spring 22 | Graduate English | [W07](https://github.com/MK316/Classroom/blob/main/Week07_Ch05.ipynb), [W08](https://github.com/MK316/Classroom/blob/main/Week08_Ch05.ipynb) |
 
-<Tools for students>
+
+##:octocat: **Tools for students**
 
 1. [Oxford 3K wordlist with sounds](https://github.com/MK316/applications/blob/main/Oxford3K.ipynb)
 2. [Short story reading](https://github.com/MK316/applications/blob/main/Bedtimestory_tts.ipynb)
