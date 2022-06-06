@@ -13,11 +13,13 @@
 
 1. [Short story reading application](https://github.com/MK316/applications/blob/main/Bedtimestory_tts.ipynb)
 2. [Oxford Learners' vocabulary 3K with sounds](https://github.com/MK316/applications/blob/main/Oxford3K.ipynb): You can create audio files of words as you select (from number 1 to 3,000), and download them for your purpose. (e.g., learn frequently used 3K words and learn how to pronounce those words.)
+=> See description [here](https://www.oxfordlearnersdictionaries.com/about/wordlists/oxford3000-5000)
+
 
 For example, 3K words are listed with ID numbers:
 | ID | WORD |
 |---|---|
-| 1 | The |
+| 1 | the |
 | 2 | of |
 | 3 | and |
 | ...| ...|
