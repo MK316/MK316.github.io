@@ -8,7 +8,7 @@ Teachers' Day
 
 "Your worst enemy is your best teacher." _-Buddha-_  
 
-_Noddig. Agreed._
+Me:_(Nodding) Agreed._
 
 ![image](/images/051522.png)  
 _© image source: [link](https://www.pinterest.com/pin/395261304800608453/?mt=login)_
