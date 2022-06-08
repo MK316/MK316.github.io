@@ -1,4 +1,6 @@
 ࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐     _since May 15, 2022_   
+![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet&label=Visit+COUNT)
+
 ### Weblog: _Research tools for Language and teaching_
 ---  
 ↳ _[📪 Email](mailto: MK3one6@gmail.com), [🏢 GNU](https://englishedu.gnu.ac.kr)_   
@@ -30,8 +32,6 @@
 ↳ [Dept. of English Education at GNU](https://englishedu.gnu.ac.kr), ↳ [LMS](https://rec.ac.kr/gnu)  
     
 
-![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&label=VISIT+COUNT)
 ---
 _June 7, 2022 (Last updated)_   
