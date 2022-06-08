@@ -1,5 +1,5 @@
-࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐     _since May 15, 2022_   
-![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet&label=Visit+COUNT)
+࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐ ![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet&label=Visit+COUNT)_since May 15, 2022_   
+
 
 ### Weblog: _Research tools for Language and teaching_
 ---  
