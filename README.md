@@ -1,8 +1,9 @@
-࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐_since May 15, 2022_  ![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet&label=Visit+COUNT)  
+࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐_Since May 15, 2022_  
 
 
 ### Weblog: _Research tools for Language and teaching_
----  
+--- 
+![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet&label=Visit+COUNT)   
 ↳ _[📪 Email](mailto: MK3one6@gmail.com), [🏢 GNU](https://englishedu.gnu.ac.kr)_   
 ↳ _I'm currently learning Python coding following_ [_NAMZ channel_](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured) (videos👍)   
 ↳ _Collaborators_: 👥 _[Dr. Nam (KU)](https://github.com/hsnam95), [Dr. Lee (Hufs)](https://github.com/junkyuhufs) & [Dr. Son (HNU)](https://github.com/ms624atyale)_     
