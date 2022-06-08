@@ -30,6 +30,8 @@
 ↳ [Dept. of English Education at GNU](https://englishedu.gnu.ac.kr), ↳ [LMS](https://rec.ac.kr/gnu)  
     
 
-  
+![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet)
+
+![](https://komarev.com/ghpvc/?username=your-github-username&label=VISIT+COUNT)
 ---
 _June 7, 2022 (Last updated)_   
