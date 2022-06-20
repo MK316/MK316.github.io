@@ -5,7 +5,7 @@
 | Spring 22 | Engpro | [Pronouncing words](https://github.com/MK316/workshop22/blob/main/class02_voca.ipynb), [Rhyming](https://github.com/MK316/workshop22/blob/main/class03_pronunciation.ipynb) |
 | Spring 22 | Engling | links |
 | Spring 22 | Speech perception | links |
-| Spring 22 | Graduate English | [W07](https://github.com/MK316/Classroom/blob/main/Week07_Ch05.ipynb), [W08](https://github.com/MK316/Classroom/blob/main/Week08_Ch05.ipynb), [W09](https://github.com/MK316/Class_Spring2022/blob/main/Week09.ipynb) |
+| Spring 22 | Graduate English | [W07](https://github.com/MK316/Classroom/blob/main/Week07_Ch05.ipynb), [W08](https://github.com/MK316/Classroom/blob/main/Week08_Ch05.ipynb), [W09](https://github.com/MK316/Class_Spring2022/blob/main/Week09.ipynb), [W10](https://github.com/MK316/Class_Spring2022/blob/main/Week10.ipynb),[W11](https://github.com/MK316/Class_Spring2022/blob/main/Week11.ipynb) |
 
 
 
