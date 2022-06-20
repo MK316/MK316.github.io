@@ -21,7 +21,7 @@
 | ⏩ **[Stats](/res/stats1.md)** | Basic statistics with R and Python, bar graph, scatter plot, etc. |   
 
 🔸 **More MENUs**    
-↳ **[Research tools](/res/tools.md):** Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/01_How_to_do_R_in_colab.ipynb) Basic stats, Praat.  
+↳ **[Research tools](/res/tools.md):** Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/eaa0a0dc0738be31d6bd5958bab88beade1b90cd/01_How_to_do_R_in_colab.ipynb), Basic stats, Praat.  
 ↳ **[Teaching](/res/teaching.md):** Applying python codes to classes, aiming for building application assisted class materials. (Since Spring 2022).  
 ↳ **Personal:** [Profile](/res/profile.md), [Publications](/res/publications.md), [blog](/blog/blogmain.md).  
 
