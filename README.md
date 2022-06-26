@@ -33,7 +33,7 @@
 ↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/),  
 ↳ [Dept. of English Education at GNU](https://englishedu.gnu.ac.kr), ↳ [LMS](https://rec.ac.kr/gnu)  
     
-💜💙**[Coding in progress](/res/inprogress.md)**  
+**💜💙[Coding in progress](/res/inprogress.md)**  
 
 ---
 _June 26, 2022 (Last updated)_   
