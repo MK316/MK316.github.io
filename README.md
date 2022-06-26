@@ -18,11 +18,12 @@
 |---------------|-----------------|  
 | ⏩ **[NLP](/res/nlp_tools.md)** | Text processing, Corpus, word frequency, POS tagging, etc.|  
 | ⏩ **[SP](/res/sp_tools.md)**  | Speech processing, Text-to-Speech, Pronunciation, etc.|  
-| ⏩ **[Stats](/res/stats1.md)** | Basic statistics with R and Python, bar graph, scatter plot, etc. |   
+| ⏩ **[Stats](/res/stats1.md)** | Basic statistics with R and Python, bar graph, scatter plot, etc. | 
 
 🔸 **More MENUs**    
 ↳ **[Research tools](/res/tools.md):** Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/main/01_How_to_do_R_in_colab.ipynb), Basic stats, Praat.  
 ↳ **[Teaching](/res/teaching.md):** Applying python codes to classes, aiming for building application assisted class materials. (Since Spring 2022).  
+**Markdown language:** [Learning guides](https://github.com/MK316/markdown/blob/main/README.md)
 ↳ **Personal:** [Profile](/res/profile.md), [Publications](/res/publications.md), [blog](/blog/blogmain.md).  
 
 
