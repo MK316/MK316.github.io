@@ -4,7 +4,7 @@ Goto...
 
 |Year | Semester |  
 |:---:|:---:|  
-|2022|Fall|  
+|2022|[Fall](/F2022.md)|  
 |2022|[Spring](/S2022.md)|  
 
 
