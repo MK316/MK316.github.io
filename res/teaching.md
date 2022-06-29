@@ -1,10 +1,11 @@
 # 📗 Teaching
 
 Goto...  
-|Year | Semester |
-|:---:|:---:|
-|2022|Fall|
-|2022|[Spring](/S2022.md|
+
+|Year | Semester |  
+|:---:|:---:|  
+|2022|Fall|  
+|2022|[Spring](/S2022.md)|  
 
 
 
