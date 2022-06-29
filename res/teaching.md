@@ -4,7 +4,7 @@ Goto...
 
 |Year | Semester |  
 |:---:|:---:|  
-|2022|[Fall](/F2022.md)|  
+|2022|[Fall]([/F2022.md)](https://github.com/MK316/Fall2022/blob/main/README.md)|  
 |2022|[Spring](/S2022.md)|  
 
 
