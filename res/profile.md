@@ -24,6 +24,7 @@
 | Date | Topic | Hosted by (Location)|
 |------|-------|-----------|
 | | Special Topics in English linguistics | Dept. of English Education at Hufs |
+| | R workshop | PKETA |  
 | | Special Topics in English linguistics | Dept. of English Education at Hanyang University |
 | | Worshop on Pronunciation teaching | Dept. of English Education at Chosun University |
 | | R workshop 2| RILI at Korea University |
