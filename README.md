@@ -23,7 +23,8 @@
 🔸 **More MENUs**    
 ↳ **[Research tools](/res/tools.md):** Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/main/01_How_to_do_R_in_colab.ipynb), Basic stats, Praat.  
 ↳ **[Teaching](/res/teaching.md):** Applying python codes to classes, aiming for building application assisted class materials. (Since Spring 2022).  
-↳ **Markdown language:** [Intro with examples](https://github.com/MK316/markdown/blob/main/README.md) (_creating formatted text using a plain-text editor_)  ↳ **Personal:** [Profile](/res/profile.md), [Publications](/res/publications.md), [blog](/blog/blogmain.md).  
+↳ **Markdown language:** [Intro with examples](https://github.com/MK316/markdown/blob/main/README.md) (_creating formatted text using a plain-text editor_)
+↳ **Personal:** [Profile](/res/profile.md), [Publications](/res/publications.md), [blog](/blog/blogmain.md).  
 
 
 🔸 **Other WEBLINKs**   
