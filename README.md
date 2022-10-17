@@ -23,16 +23,15 @@
 🔸 **More MENUs**    
 ↳ **[Research tools](/res/tools.md):** Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/main/01_How_to_do_R_in_colab.ipynb), Basic stats, Praat.  
 ↳ **[Teaching](/res/teaching.md):** Applying python codes to classes, aiming for building application assisted class materials. (Since Spring 2022).  
-↳ **Markdown language:** [Intro with examples](https://github.com/MK316/markdown/blob/main/README.md) (_creating formatted text using a plain-text editor_)  
-↳ **Personal:** [Profile](/res/profile.md), [Publications](/res/publications.md), [blog](/blog/blogmain.md).  
+↳ **Markdown language:** [Intro with examples](https://github.com/MK316/markdown/blob/main/README.md) (_creating formatted text using a plain-text editor_)  ↳ **Personal:** [Profile](/res/profile.md), [Publications](/res/publications.md), [blog](/blog/blogmain.md).  
 
 
 🔸 **Other WEBLINKs**   
 ↳ [Praat](https://www.fon.hum.uva.nl/praat/)   
-↳ :octocat: [Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/)  
+↳ :octocat:[Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/)  
 ↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/),  
 ↳ [Dept. of English Education at GNU](https://englishedu.gnu.ac.kr), ↳ [LMS](https://rec.ac.kr/gnu)  
-↳ [PKETA22 Special session](https://github.com/MK316/pketa22/blob/main/README.md)
+↳ [PKETA22 Special session](https://github.com/MK316/pketa22/blob/main/README.md)  
     
 **💜💙[Coding in progress](/res/inprogress.md)**  
 
