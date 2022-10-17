@@ -32,6 +32,7 @@
 ↳ :octocat: [Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/)  
 ↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/),  
 ↳ [Dept. of English Education at GNU](https://englishedu.gnu.ac.kr), ↳ [LMS](https://rec.ac.kr/gnu)  
+↳ [PKETA22 Special session](https://github.com/MK316/pketa22/blob/main/README.md)
     
 **💜💙[Coding in progress](/res/inprogress.md)**  
 
