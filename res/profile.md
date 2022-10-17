@@ -21,7 +21,7 @@
  
 ### ◲ Invisted talks/lectures at Academic Workshops 
 
-| TIME | Topic | Hosted by (Location)|
+| Date | Topic | Hosted by (Location)|
 |------|-------|-----------|
 | | Special Topics in English linguistics | Dept. of English Education at Hufs |
 | | Special Topics in English linguistics | Dept. of English Education at Hanyang University |
