@@ -29,7 +29,7 @@
 | | Worshop on Pronunciation teaching | Dept. of English Education at Chosun University |
 | | R workshop 2| RILI at Korea University |
 | | R workshop 1 | RILI at Korea University |
-| | Workshop on Speech perception experiment | KASS |
+| | Workshop on Speech perception experiment | The Korean Society of Phonetic Sciences and Speech |
 | | (To be updated) |
 
 _[BACK to MAIN](../README.md)_
