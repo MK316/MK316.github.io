@@ -9,7 +9,7 @@
 |2019 | |
 |문재현·김미란.(2018a). 탈어휘 동사 get의 구문과 의미 유형별 빈도: 교과서 듣기지문과 구어자료 비교. _언어와정보사회 34_59~86.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002372663)|
 |김미란. (2018b). 구어 강연 자료에서의 {-ly}형 부사 + 형용사 사용 빈도 연구. _외국어교육연구 32(1)_, 109~138.||
-|김미란 외. (2018c). 접속형 담화표지어 사용의 빈도 분포적 특성:구어 강연 자료를 중심으로. _언어정보 27_45~68. |[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002394793)|
+|김미란 외. (2018c). 접속형 담화표지어 사용의 빈도 분포적 특성:구어 강연 자료를 중심으로. _언어정보 27_ 45~68. |[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002394793)|
 |이은정·김미란. (2017). 테드(TED) 강연의 명사화 사용 빈도 특성. _외국어교육연구 32(1)_, 59~85.||
 |김미란. (2016a). 발표문 텍스트의 어휘사용 특성: TED-LIUM과 BNC코퍼스 비교. _언어와정보사회 29_, 93~121.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002169726)|
 |Yu-an Lu & Miran Kim. (2016b). Prosody transfer in second language acquisition: Tonal alignment in the production of English pitch accent by Mandarin Native speakers. _Tsing Hua Journal of Chinese Studies 46(4)_, 786-816.||
