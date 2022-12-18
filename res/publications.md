@@ -4,7 +4,7 @@
 
 | YEAR | Title|Journal|pdf|
 |---|---|---|---|
-| 김미란(2022)  |대학수학능력시험 영어 독해지문의 어휘다양성 및 가독성 분석  | _외국어교육연구 36(4),_ 71-90  | [link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002898744#none)|  
+| 김미란(2022)  대학수학능력시험 영어 독해지문의 어휘다양성 및 가독성 분석  | _외국어교육연구 36(4),_ 71-90  | [link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002898744#none)|  
 |2019 | | |
 |김미란(2018)|구어 강연 자료에서의 {-ly}형 부사 + 형용사 사용 빈도 연구|외국어교육연구 32(1), 109~138|[link]|
 |이은정·김미란(2017)|테드(TED) 강연의 명사화 사용 빈도 특성|_외국어교육연구 32(1)_, 59~85|[ㅣlink]|
