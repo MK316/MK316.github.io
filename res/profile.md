@@ -23,6 +23,7 @@
 
 | Date | Topic | Hosted by (Location)|
 |------|-------|-----------|
+|2023. 10| Python & R for language research and teaching| PKETA |
 | | Special Topics in English linguistics | Dept. of English Education at Hufs |
 | | R workshop | PKETA |  
 | | Special Topics in English linguistics | Dept. of English Education at Hanyang University |
