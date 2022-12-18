@@ -10,7 +10,7 @@
 |김미란. (2018). 구어 강연 자료에서의 {-ly}형 부사 + 형용사 사용 빈도 연구. _외국어교육연구 32(1)_, 109~138.|[link]|
 |이은정·김미란. (2017). 테드(TED) 강연의 명사화 사용 빈도 특성. _외국어교육연구 32(1)_, 59~85.|[ㅣlink]|
 |김미란. (2016a). 발표문 텍스트의 어휘사용 특성: TED-LIUM과 BNC코퍼스 비교. _언어와 정보사회 29_, 93~121.|[link]|
-|Lu, Yu-an & Miran Kim. (2016b). Prosody transfer in second language acquisition: Tonal alignment in the production of English pitch accent by Mandarin Native speakers. _Tsing Hua Journal of Chinese Studies 46(4)_, 786-816.||
+|Yu-an Lu & Miran Kim. (2016b). Prosody transfer in second language acquisition: Tonal alignment in the production of English pitch accent by Mandarin Native speakers. _Tsing Hua Journal of Chinese Studies 46(4)_, 786-816.||
 |Kim, Miran. (2015a). Focus-driven prosodic restructuring patterns: A unified OT account of deaccenting and dephrasing. _Studies in Phonetics, Phonology, and Morphology 21(1),_ 25-56.||
 |Kim, Miran. (2015b). Segmental interpretation of suprasegmental properties in non-native phoneme perception. _Phonetics & Speech Sciences 7(3),_ 117-128.||
 |김미란·최재웅·홍정하. (2014a). 한국어 초성-중성 결합의 분포적 특성 및 모음의 군집분석 연구. _음성,음운,형태론 연구 20(1)_, 23-49.||
