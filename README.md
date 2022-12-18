@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet&label=VISIT+count) _Since May 15, 2022_  
 
-### Weblog: _Research tools for Language and teaching_  
+### Weblog: _Research tools for language research and teaching_  
 --- 
    ࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐.  
    
