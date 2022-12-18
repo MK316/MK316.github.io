@@ -20,5 +20,5 @@
 |김미란·임창국. (2014c). 문중/문말 '-요'에 대한 음성적 특성 연구. _언어정보 18_, 27-50.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001859145)|
 |Miran Kim & Lori Repetti. (2013). Bitonal pitch accent and phonological alignment in Sardinian. _Probus 25(2)_, 267-300.|[link](https://www.sunysb.edu/commcms/linguistics/faculty/lori.repetti/files/Kim%20and%20Repetti%202013.pdf)|
 |김미란·남호성. (2012). 동시발화에 나타나는 발화 속도 변이 분석(Synchronous speech and speech rate). _말소리와 음성과학 4(4)_, 19-27.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001722548)|
-|Kim, Miran. (2011). The phonetics of stress manifestation:
+|Kim, Miran. (2011). The phonetics of stress manifestation\:
 Segmental variation, syllable constituency and rhythm. Ph.D. Dissertation. Dept. of Linguistics, Stony Brook University. |[link](https://www.stonybrook.edu/commcms/linguistics/_pdf/dissertation/Mi-ran_Kim_2011_dissertation.pdf)
