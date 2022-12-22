@@ -8,15 +8,16 @@
 ↳ _I'm currently learning Python coding following_ [_NAMZ channel_](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured) (videos👍)   
 ↳ _Collaborators_: 👥 _[Dr. Nam (KU)](https://github.com/hsnam95), [Dr. Lee (Hufs)](https://github.com/junkyuhufs) & [Dr. Son (HNU)](https://github.com/ms624atyale)_     
  
-~~~
->> What's NEW? -- This page is still under construction. 
->> The followings are research tools recently created while I've been learning Python coding. Some of them have been used as application assisted class material. The original tutorial or applications are cited inside each code file.  
-~~~
 🔸 _"Teaching is one of the best ways to learn!"_  
 
  ↳ **[Invited talks/Workshops](https://github.com/MK316/workshops/blob/main/README.md)**: Material links, Code pages, data, etc.  
  ↳ [2022 PKETA Special session](https://github.com/MK316/pketa22/blob/main/README.md): _"Python & R for Language Research and Education"_    
  ↳ [2023 ILIS (Yonsei Univ.) talk (In preparation)](https://github.com/MK316/workshops/blob/main/20230126_yonsei/readme.md): _"Leveraging the Potential of Spoken Data in the AI-Powered Digital Age"_    
+ 
+ ~~~
+>> What's NEW? -- This page is still under construction. 
+>> The followings are research tools recently created while I've been learning Python coding. Some of them have been used as application assisted class material. The original tutorial or applications are cited inside each code file.  
+~~~
  
 🔸 **Python coding for...**   
 
