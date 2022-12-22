@@ -33,4 +33,6 @@
 | | Workshop on Speech perception experiment | The Korean Society of Phonetic Sciences and Speech |
 | | (To be updated) |
 
+### [Publications](https://github.com/MK316/MK316.github.io/blob/main/res/publications.md)
+
 _[BACK to MAIN](../README.md)_
