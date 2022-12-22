@@ -21,12 +21,13 @@
 |2014 ~ 2015 | Lab manager | Speech Clinic Lab at City University of Seoul  |
 |2012.3 ~ 2.16.2.28 | Lecturer | at Korea University, Hanyang University, City University of Seoul, Hankook University of Foreign Studies, Sungshin Women's University, Sookmyeong Women's University | 
  
-### ◲ Invited talks/lectures at Academic Workshops (Before 2022)  
-🐳 [From 2022 to Present](https://github.com/MK316/workshops)  
+### ◲ Invited talks/lectures at Academic Workshops 
+
 
 | Date | Topic | Hosted by (Location)|
 |------|-------|-----------|
-| | Special Topics in English linguistics | Dept. of English Education at Hufs |
+| 🐳 [From 2022 to Present](https://github.com/MK316/workshops) | | |  
+| Before 2022| Special Topics in English linguistics | Dept. of English Education at Hufs |
 | | R workshop | PKETA |  
 | | Special Topics in English linguistics | Dept. of English Education at Hanyang University |
 | | Worshop on Pronunciation teaching | Dept. of English Education at Chosun University |
