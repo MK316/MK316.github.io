@@ -8,7 +8,7 @@
 ↳ _I'm currently learning Python coding following_ [_NAMZ channel_](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured) (videos👍)   
 ↳ _👥Collaborators_: _[Dr. Nam (KU)](https://github.com/hsnam95), [Dr. Lee (Hufs)](https://github.com/junkyuhufs) & [Dr. Son (HNU)](https://github.com/ms624atyale)_     
  
-🔸 _"Teaching is one of the best ways to learn!"_  
+♻️ _"Teaching is one of the best ways to learn!"_  
 
 **[1. Coding into Language Teaching](/res/teaching.md):** application assisted class materials. (Since Spring 2022).  
 **[2. Invited talks/Workshops](https://github.com/MK316/workshops/blob/main/README.md)**: Slides, Code pages, data source, etc.  
@@ -20,7 +20,7 @@
 >> The followings are research tools recently created while I've been learning Python coding. Some of them have been used as application assisted class material. The original tutorial or applications are cited inside each code file.  
 ~~~
  
-🔸 **Python coding for...**   
+♻️ **Python coding for...**   
 
 | ⬇️ _Goto_ | _Keywords_|   
 |---------------|-----------------|  
@@ -30,13 +30,13 @@
 | 📍 **[AI tools](https://github.com/MK316/OpenAI)** | [chatGPT](https://chat.openai.com/chat), [OpenAI](https://openai.com/)|
 | 📍 **Useful Tutorials**(to be updated)|. |. |
 
-🔸 **More MENUs**  
+♻️ **More MENUs**  
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ **[Research tools](/res/tools.md):** Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/main/01_How_to_do_R_in_colab.ipynb), Basic stats, Praat.  
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ **Markdown language:** [Intro with examples](https://github.com/MK316/markdown/blob/main/README.md) (_creating formatted text using a plain-text editor_)  
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ **Personal:** [Profile](/res/profile.md), [Publications](/res/publications.md), [blog](/blog/blogmain.md).  
 
 
-🔸 **Other WEBLINKs**   
+♻️ **Other WEBLINKs**   
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ [Praat](https://www.fon.hum.uva.nl/praat/) ↳ :octocat:[Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/) ↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/) 
 
     
