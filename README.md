@@ -2,7 +2,7 @@
 
 ### Weblog: _Research tools for language research and teaching_  
 --- 
-   ࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐.  
+ 
    
 ↳ _[📪 Email](mailto:MK3one6@gmail.com), [:octocat: Github](github.com/MK316), [🏢 Dept. of English Education, GNU](https://englishedu.gnu.ac.kr)_, [🎋 LMS](https://rec.ac.kr/gnu)    
 ↳ _I'm currently learning Python coding following_ [_NAMZ channel_](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured) (videos👍)   
@@ -41,4 +41,5 @@
 
 
 ---
+   ࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐. 
 _💜 Dec 23, 2022 (Last updated)_   
