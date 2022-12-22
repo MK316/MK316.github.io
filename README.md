@@ -23,7 +23,7 @@
 ♻️ **Python coding for...**   
 
 | ⬇️ _Goto_ | _Keywords_|   
-|---------------|-----------------|  
+|:---------------|-----------------|  
 | ⏩ **[NLP](/res/nlp_tools.md)** | Text processing, Corpus, word frequency, POS tagging, etc.|  
 | ⏩ **[SP](/res/sp_tools.md)**  | Speech processing, Text-to-Speech, Speech Recognition, Pronunciation, etc.|  
 | ⏩ **[Stats](/res/stats1.md)** | Basic statistics with R and Python, bar graph, scatter plot, etc.|  
@@ -39,8 +39,6 @@
 ♻️ **Other WEBLINKs**   
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ [Praat](https://www.fon.hum.uva.nl/praat/) ↳ :octocat:[Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/) ↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/) 
 
-    
-**💜💙[Coding in progress](/res/inprogress.md)**  
 
 ---
-_Dec 23, 2022 (Last updated)_   
+_💜 Dec 23, 2022 (Last updated)_   
