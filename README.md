@@ -21,8 +21,7 @@
 ~~~
  
 🔸 **Python coding for...**   
-
-| ⬇️ _Goto_ | _Keywords (tools using Python coding are ready to use)_|   
+  
 |---------------|-----------------|  
 | ⏩ **[NLP](/res/nlp_tools.md)** | Text processing, Corpus, word frequency, POS tagging, etc.|  
 | ⏩ **[SP](/res/sp_tools.md)**  | Speech processing, Text-to-Speech, Pronunciation, etc.|  
