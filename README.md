@@ -4,7 +4,7 @@
 --- 
    ࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐.  
    
-↳ _[📪 Email](mailto:MK3one6@gmail.com), [🏢 GNU](https://englishedu.gnu.ac.kr)_, [:octocat: Github](github.com/MK316)  
+↳ _[📪 Email](mailto:MK3one6@gmail.com), [:octocat: Github](github.com/MK316), [🏢 Dept. of English Education, GNU](https://englishedu.gnu.ac.kr)_,   
 ↳ _I'm currently learning Python coding following_ [_NAMZ channel_](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured) (videos👍)   
 ↳ _👥Collaborators_: _[Dr. Nam (KU)](https://github.com/hsnam95), [Dr. Lee (Hufs)](https://github.com/junkyuhufs) & [Dr. Son (HNU)](https://github.com/ms624atyale)_     
  
