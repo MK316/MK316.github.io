@@ -1,4 +1,4 @@
-## 💦 M. KIM (Ph.D. in Linguistics)
+## 🎓 M. KIM (Ph.D. in Linguistics)
 
 ### 💦 [Publications](https://github.com/MK316/MK316.github.io/blob/main/res/publications.md)
 
