@@ -26,7 +26,7 @@
 
 | Date | Topic | Hosted by (Location)|
 |------|-------|-----------|
-| 🐳 [From 2022 to Present](https://github.com/MK316/workshops) | | |  
+| 🐳 [From 2022 to Present](https://github.com/MK316/workshops) | Python coding, AI tools | |  
 | Before 2022| Special Topics in English linguistics | Dept. of English Education at Hufs |
 | | R workshop | PKETA |  
 | | Special Topics in English linguistics | Dept. of English Education at Hanyang University |
