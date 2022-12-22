@@ -4,7 +4,7 @@
 --- 
    ࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐.  
    
-↳ _[📪 Email](mailto:MK3one6@gmail.com), [:octocat: Github](github.com/MK316), [🏢 Dept. of English Education, GNU](https://englishedu.gnu.ac.kr)_,   
+↳ _[📪 Email](mailto:MK3one6@gmail.com), [:octocat: Github](github.com/MK316), [🏢 Dept. of English Education, GNU](https://englishedu.gnu.ac.kr)_, [🎋 LMS](https://rec.ac.kr/gnu)    
 ↳ _I'm currently learning Python coding following_ [_NAMZ channel_](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured) (videos👍)   
 ↳ _👥Collaborators_: _[Dr. Nam (KU)](https://github.com/hsnam95), [Dr. Lee (Hufs)](https://github.com/junkyuhufs) & [Dr. Son (HNU)](https://github.com/ms624atyale)_     
  
@@ -38,7 +38,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ [Praat](https://www.fon.hum.uva.nl/praat/)   
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ :octocat:[Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/)  
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/),  
-&nbsp;&nbsp;&nbsp;&nbsp; ↳ [Dept. of English Education at GNU](https://englishedu.gnu.ac.kr), ↳ [LMS](https://rec.ac.kr/gnu)  
 
     
 **💜💙[Coding in progress](/res/inprogress.md)**  
