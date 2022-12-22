@@ -2,7 +2,7 @@
 
 ### 💦 [Publications](https://github.com/MK316/MK316.github.io/blob/main/res/publications.md)
 
-### ◲ Academic Background:
+### 💦 Academic Background:
 
 | YEAR | Program | Affiliation |
 |------|---------|-------------|
