@@ -10,7 +10,7 @@
  
 🔸 _"Teaching is one of the best ways to learn!"_  
 
- **[Invited talks/Workshops](https://github.com/MK316/workshops/blob/main/README.md)**: Material links, Code pages, data, etc.  
+ **[Invited talks/Workshops](https://github.com/MK316/workshops/blob/main/README.md)**: Slides, Code pages, data source, etc.  
  ↳ [2022 PKETA Special session](https://github.com/MK316/pketa22/blob/main/README.md): _"Python & R for Language Research and Education"_    
  ↳ [2023 ILIS (Yonsei Univ.) talk (In preparation)](https://github.com/MK316/workshops/blob/main/20230126_yonsei/readme.md): _"Leveraging the Potential of Spoken Data in the AI-Powered Digital Age"_    
  
