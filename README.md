@@ -12,10 +12,11 @@
 >> What's NEW? -- This page is still under construction. 
 >> The followings are research tools recently created while I've been learning Python coding. Some of them have been used as application assisted class material. The original tutorial or applications are cited inside each code file.  
 ~~~
-🔸 _Teaching is one of the best ways to learn!_  
+🔸 _"Teaching is one of the best ways to learn!"_  
 
- **[Invited talks/Workshops](https://github.com/MK316/workshops/blob/main/README.md)**: Material links, Code pages, data, etc.  
- 
+ ↳ **[Invited talks/Workshops](https://github.com/MK316/workshops/blob/main/README.md)**: Material links, Code pages, data, etc.  
+ ↳ [2022 PKETA Special session](https://github.com/MK316/pketa22/blob/main/README.md)
+ ↳ [2023 ILIS(Yonsei Univ.) talk](in preparation)
 🔸 **Python coding for...**   
 
 | ⬇️ _Goto_ | _Keywords (tools using Python coding are ready to use)_|   
@@ -36,7 +37,7 @@
 ↳ :octocat:[Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/)  
 ↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/),  
 ↳ [Dept. of English Education at GNU](https://englishedu.gnu.ac.kr), ↳ [LMS](https://rec.ac.kr/gnu)  
-↳ [PKETA22 Special session](https://github.com/MK316/pketa22/blob/main/README.md)  
+
     
 **💜💙[Coding in progress](/res/inprogress.md)**  
 
