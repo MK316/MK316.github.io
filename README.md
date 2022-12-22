@@ -28,7 +28,7 @@
 | ⏩ **[SP](/res/sp_tools.md)**  | Speech processing, Text-to-Speech, Speech Recognition, Pronunciation, etc.|  
 | ⏩ **[Stats](/res/stats1.md)** | Basic statistics with R and Python, bar graph, scatter plot, etc.|  
 | 📍 **[AI tools](https://github.com/MK316/OpenAI)** | [chatGPT](https://chat.openai.com/chat), [OpenAI](https://openai.com/)|
-| 📍 **Useful Tutorials**(to be updated)|. |. |
+| 📍 **Useful Tutorials**|(to be updated) |  |
 
 ♻️ **More MENUs**  
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ **[Research tools](/res/tools.md):** Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/main/01_How_to_do_R_in_colab.ipynb), Basic stats, Praat.  
