@@ -3,7 +3,7 @@
 ### Weblog: _Research tools for language research and teaching_  
 --- 
  
-♻️ **MY**  [BIO](https://github.com/MK316/MK316.github.io/blob/main/res/profile.md)
+♻️ **MY** [BIO](https://github.com/MK316/MK316.github.io/blob/main/res/profile.md)  
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ _[📪 Email](mailto:MK3one6@gmail.com), [:octocat: Github](github.com/MK316), [🏢 Dept. of English Education, GNU](https://englishedu.gnu.ac.kr)_, [🎋 LMS](https://rec.ac.kr/gnu)    
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ _I'm currently learning Python coding following_ [_NAMZ channel_](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured) (videos👍)   
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ _👥Collaborators_: _[Dr. Nam (KU)](https://github.com/hsnam95), [Dr. Lee (Hufs)](https://github.com/junkyuhufs) & [Dr. Son (HNU)](https://github.com/ms624atyale)_     
