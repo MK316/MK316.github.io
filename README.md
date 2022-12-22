@@ -15,7 +15,7 @@
 🔸 _"Teaching is one of the best ways to learn!"_  
 
  ↳ **[Invited talks/Workshops](https://github.com/MK316/workshops/blob/main/README.md)**: Material links, Code pages, data, etc.  
- ↳ [2022 PKETA Special session](https://github.com/MK316/pketa22/blob/main/README.md)
+ ↳ [2022 PKETA Special session](https://github.com/MK316/pketa22/blob/main/README.md)  
  ↳ [2023 ILIS(Yonsei Univ.) talk](in preparation)
 🔸 **Python coding for...**   
 
