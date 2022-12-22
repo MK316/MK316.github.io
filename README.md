@@ -21,27 +21,27 @@
  
 🔸 **Python coding for...**   
 
-&nbsp;&nbsp;&nbsp;&nbsp; | ⬇️ _Goto_ | _Keywords (tools using Python coding are ready to use)_|   
-&nbsp;&nbsp;&nbsp;&nbsp; |---------------|-----------------|  
-&nbsp;&nbsp;&nbsp;&nbsp; | ⏩ **[NLP](/res/nlp_tools.md)** | Text processing, Corpus, word frequency, POS tagging, etc.|  
-&nbsp;&nbsp;&nbsp;&nbsp; | ⏩ **[SP](/res/sp_tools.md)**  | Speech processing, Text-to-Speech, Pronunciation, etc.|  
-&nbsp;&nbsp;&nbsp;&nbsp; | ⏩ **[Stats](/res/stats1.md)** | Basic statistics with R and Python, bar graph, scatter plot, etc. | 
+| ⬇️ _Goto_ | _Keywords (tools using Python coding are ready to use)_|   
+|---------------|-----------------|  
+| ⏩ **[NLP](/res/nlp_tools.md)** | Text processing, Corpus, word frequency, POS tagging, etc.|  
+| ⏩ **[SP](/res/sp_tools.md)**  | Speech processing, Text-to-Speech, Pronunciation, etc.|  
+| ⏩ **[Stats](/res/stats1.md)** | Basic statistics with R and Python, bar graph, scatter plot, etc. | 
 
 🔸 **More MENUs**  
-↳ **[Research tools](/res/tools.md):** Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/main/01_How_to_do_R_in_colab.ipynb), Basic stats, Praat.  
-↳ **[Teaching](/res/teaching.md):** Applying python codes to classes, aiming for building application assisted class materials. (Since Spring 2022).  
-↳ **Markdown language:** [Intro with examples](https://github.com/MK316/markdown/blob/main/README.md) (_creating formatted text using a plain-text editor_)  
-↳ **Personal:** [Profile](/res/profile.md), [Publications](/res/publications.md), [blog](/blog/blogmain.md).  
+&nbsp;&nbsp;&nbsp;&nbsp; ↳ **[Research tools](/res/tools.md):** Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/main/01_How_to_do_R_in_colab.ipynb), Basic stats, Praat.  
+&nbsp;&nbsp;&nbsp;&nbsp; ↳ **[Teaching](/res/teaching.md):** Applying python codes to classes, aiming for building application assisted class materials. (Since Spring 2022).  
+&nbsp;&nbsp;&nbsp;&nbsp; ↳ **Markdown language:** [Intro with examples](https://github.com/MK316/markdown/blob/main/README.md) (_creating formatted text using a plain-text editor_)  
+&nbsp;&nbsp;&nbsp;&nbsp; ↳ **Personal:** [Profile](/res/profile.md), [Publications](/res/publications.md), [blog](/blog/blogmain.md).  
 
 
 🔸 **Other WEBLINKs**   
-↳ [Praat](https://www.fon.hum.uva.nl/praat/)   
-↳ :octocat:[Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/)  
-↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/),  
-↳ [Dept. of English Education at GNU](https://englishedu.gnu.ac.kr), ↳ [LMS](https://rec.ac.kr/gnu)  
+&nbsp;&nbsp;&nbsp;&nbsp; ↳ [Praat](https://www.fon.hum.uva.nl/praat/)   
+&nbsp;&nbsp;&nbsp;&nbsp; ↳ :octocat:[Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/)  
+&nbsp;&nbsp;&nbsp;&nbsp; ↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/),  
+&nbsp;&nbsp;&nbsp;&nbsp; ↳ [Dept. of English Education at GNU](https://englishedu.gnu.ac.kr), ↳ [LMS](https://rec.ac.kr/gnu)  
 
     
 **💜💙[Coding in progress](/res/inprogress.md)**  
 
 ---
-_Oct 18, 2022 (Last updated)_   
+_Dec 23, 2022 (Last updated)_   
