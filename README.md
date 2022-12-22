@@ -10,7 +10,8 @@
  
 🔸 _"Teaching is one of the best ways to learn!"_  
 
-&nbsp;&nbsp;&nbsp;&nbsp;**[Invited talks/Workshops](https://github.com/MK316/workshops/blob/main/README.md)**: Slides, Code pages, data source, etc.  
+↳ **[1. Coding into Classroom](/res/teaching.md):** Applying python codes to classes, aiming for building application assisted class materials. (Since Spring 2022).  
+&nbsp;&nbsp;&nbsp;&nbsp;**[2. Invited talks/Workshops](https://github.com/MK316/workshops/blob/main/README.md)**: Slides, Code pages, data source, etc.  
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ [2022 PKETA Special session](https://github.com/MK316/pketa22/blob/main/README.md): _"Python & R for Language Research and Education"_    
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ [2023 ILIS (Yonsei Univ.) talk (In preparation)](https://github.com/MK316/workshops/blob/main/20230126_yonsei/readme.md): _"Leveraging the Potential of Spoken Data in the AI-Powered Digital Age"_    
  
@@ -29,7 +30,6 @@
 
 🔸 **More MENUs**  
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ **[Research tools](/res/tools.md):** Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/main/01_How_to_do_R_in_colab.ipynb), Basic stats, Praat.  
-&nbsp;&nbsp;&nbsp;&nbsp; ↳ **[Teaching](/res/teaching.md):** Applying python codes to classes, aiming for building application assisted class materials. (Since Spring 2022).  
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ **Markdown language:** [Intro with examples](https://github.com/MK316/markdown/blob/main/README.md) (_creating formatted text using a plain-text editor_)  
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ **Personal:** [Profile](/res/profile.md), [Publications](/res/publications.md), [blog](/blog/blogmain.md).  
 
