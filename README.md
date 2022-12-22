@@ -12,9 +12,9 @@
 >> What's NEW? -- This page is still under construction. 
 >> The followings are research tools recently created while I've been learning Python coding. Some of them have been used as application assisted class material. The original tutorial or applications are cited inside each code file.  
 ~~~
-🔸_Teaching is one of the best ways to learn!_  
+🔸 _Teaching is one of the best ways to learn!_  
 
- **[Workshops/Invited talks](https://github.com/MK316/workshops/blob/main/README.md)**  
+ **[Invited talks/Workshops](https://github.com/MK316/workshops/blob/main/README.md)**: Material links, Code pages, data, etc.  
  
 🔸 **Python coding for...**   
 
