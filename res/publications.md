@@ -4,7 +4,7 @@
 
 | Articles|pdf|
 |---|---|
-| 💧 김미란. (2022). 대학수학능력시험 영어 독해지문의 어휘다양성 및 가독성 분석. _외국어교육연구 36(4),_ 71-90.  | [link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002898744#none)|  
+| - 김미란. (2022). 대학수학능력시험 영어 독해지문의 어휘다양성 및 가독성 분석. _외국어교육연구 36(4),_ 71-90.  | [link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002898744#none)|  
 |💧 김미란.(2020). 영어학습자 발음의 리듬향상과 관련된 언어요인 연구. _외국어교육연구 34(1)_, 237~261. |[link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002561221)|
 |💧 김미란. (2019) | |
 |💧 문재현·김미란.(2018a). 탈어휘 동사 get의 구문과 의미 유형별 빈도: 교과서 듣기지문과 구어자료 비교. _언어와정보사회 34_, 59~86.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002372663)|
@@ -25,4 +25,6 @@
 |**Thesis/Dissertation**||
 |--|--|
 |💧 Kim, Miran. (2011). _The phonetics of stress manifestation-Segmental variation, syllable constituency and rhythm._ Ph.D. Dissertation. Dept. of Linguistics, Stony Brook University. |[link](https://www.stonybrook.edu/commcms/linguistics/_pdf/dissertation/Mi-ran_Kim_2011_dissertation.pdf)|
-|💧 김미란. (2000). _한국어 의문문 억양에 나타난 초점과 문미 억양의 관계._ 고려대학교 언어학과 석사학위 논문.|[link](https://academic.naver.com/article.naver?doc_id=9248720)|  
+|💧 김미란. (2000). _한국어 의문문 억양에 나타난 초점과 문미 억양의 관계._ 고려대학교 언어학과 석사학위 논문.|[link](https://academic.naver.com/article.naver?doc_id=9248720)|
+
+## 🌿 Presentations (To be updated)  
