@@ -21,11 +21,11 @@
  
 🔸 **Python coding for...**   
 
-&nbsp;&nbsp;&nbsp;&nbsp;| ⬇️ _Goto_ | _Keywords (tools using Python coding are ready to use)_|   
-&nbsp;&nbsp;&nbsp;&nbsp;|---------------|-----------------|  
-&nbsp;&nbsp;&nbsp;&nbsp;| ⏩ **[NLP](/res/nlp_tools.md)** | Text processing, Corpus, word frequency, POS tagging, etc.|  
-&nbsp;&nbsp;&nbsp;&nbsp;| ⏩ **[SP](/res/sp_tools.md)**  | Speech processing, Text-to-Speech, Pronunciation, etc.|  
-&nbsp;&nbsp;&nbsp;&nbsp;| ⏩ **[Stats](/res/stats1.md)** | Basic statistics with R and Python, bar graph, scatter plot, etc. | 
+&nbsp;&nbsp;&nbsp;&nbsp; | ⬇️ _Goto_ | _Keywords (tools using Python coding are ready to use)_|   
+&nbsp;&nbsp;&nbsp;&nbsp; |---------------|-----------------|  
+&nbsp;&nbsp;&nbsp;&nbsp; | ⏩ **[NLP](/res/nlp_tools.md)** | Text processing, Corpus, word frequency, POS tagging, etc.|  
+&nbsp;&nbsp;&nbsp;&nbsp; | ⏩ **[SP](/res/sp_tools.md)**  | Speech processing, Text-to-Speech, Pronunciation, etc.|  
+&nbsp;&nbsp;&nbsp;&nbsp; | ⏩ **[Stats](/res/stats1.md)** | Basic statistics with R and Python, bar graph, scatter plot, etc. | 
 
 🔸 **More MENUs**  
 ↳ **[Research tools](/res/tools.md):** Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/main/01_How_to_do_R_in_colab.ipynb), Basic stats, Praat.  
