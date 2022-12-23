@@ -16,7 +16,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ [2023 ILIS (Yonsei Univ.) talk (In preparation)](https://github.com/MK316/workshops/blob/main/20230126_yonsei/readme.md): _"Leveraging the Potential of Spoken Data in the AI-Powered Digital Age"_    
  
  ~~~
->> What's NEW? (Dec. 2022) -- I'm in love with chatGPT! 
+>> What's NEW? (Dec. 2022) -- I'm literally in love with chatGPT! 
 >> The followings are research tools recently created while I've been learning Python coding. Some of them have been used as application assisted class material. The original tutorial or applications are cited inside each code file.  
 ~~~
  
