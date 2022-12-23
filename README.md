@@ -15,9 +15,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ [2022 PKETA Special session](https://github.com/MK316/pketa22/blob/main/README.md): _"Python & R for Language Research and Education"_    
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ [2023 ILIS (Yonsei Univ.) talk (In preparation)](https://github.com/MK316/workshops/blob/main/20230126_yonsei/readme.md): _"Leveraging the Potential of Spoken Data in the AI-Powered Digital Age"_    
  
- ~~~
+~~~
 >> What's NEW? (Dec. 2022) -- I'm literally in love with chatGPT! This OpenAI model has really come in handy for me.
->> The followings are research tools recently created while I've been learning Python coding. Some of them have been used as application assisted class material. The original tutorial or applications are cited inside each code file.  
+>> Wish you a happy new year! See you in 2023.
 ~~~
  
 ♻️ **Python coding for...**   
