@@ -3,7 +3,8 @@
 ### Weblog: _Research tools for language research and teaching_  
 --- 
 ~~~
->> What's NEW? (Dec. 2022) -- I'm literally in love with chatGPT! This OpenAI model has really come in handy for me.
+>> Dec.2022
+>> What's NEW? I'm literally in love with chatGPT! This OpenAI model has really come in handy for me. You should try it RIGHT NOW.
 >> Wish you a happy new year! See you in 2023.
 ~~~
 
