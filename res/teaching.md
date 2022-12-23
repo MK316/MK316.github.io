@@ -21,7 +21,8 @@ Goto...
 [^1]: This tool is basically the same with Pronounce4me.
 [^2]: You can create audio files of words as you select (from number 1 to 3,000), and download them for your purpose. (e.g., learn frequently used 3K words and learn how to pronounce those words.)  => See description [🔗 here](https://www.oxfordlearnersdictionaries.com/about/wordlists/oxford3000-5000)
 For example, 3K words are listed with ID numbers and we'll create audio files using TTS (Text-to-Speech) tool:
-| ID | WORD |  🔈 [sample audio](/res/myaudio.mp4)|
+
+| ID | WORD | 🔈 [sample audio](/res/myaudio.mp4)|  
 |---|---|---|    
 | 1 | the | |  
 | 2 | of | |  
