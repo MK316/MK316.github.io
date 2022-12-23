@@ -14,8 +14,8 @@ Goto...
 
 | Tools | Description |
 |--|--|
-|[Pronounce4me](https://github.com/MK316/Spring2023/blob/main/Pronounce4me.ipynb)|You can generate audio files of a text, which is also doanloadable. When you're preparing a presentation, you can use this too as a guideline. (Of course, you can be better than the AI speaker.)|
-|[Story reading, fn[^1]](https://github.com/MK316/applications/blob/main/Bedtimestory_tts.ipynb)| Generating a story(text) to an audio file. |
+|[Pronounce4me](https://github.com/MK316/Spring2023/blob/main/Pronounce4me.ipynb)|You can generate an audio files of a text, and doanload it. When you're preparing a presentation in English, you can use this tool as a speech guideline. (Of course, you can be better than the AI speaker.)|
+|[Story reading, fn[^1]](https://github.com/MK316/applications/blob/main/Bedtimestory_tts.ipynb)| Generating an audio file of a story(text). |
 |[Oxford 3K vocabulary audio, fn[^2]](https://github.com/MK316/applications/blob/main/Oxford3K.ipynb)| You can select lists of words and generate audio files|
 
 [^1]: This tool is basically the same with Pronounce4me.
