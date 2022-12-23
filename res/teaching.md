@@ -4,9 +4,9 @@ Goto...
 
 |Year | Semester |  
 |:---:|:---:|  
-|2023|[Spring](https://github.com/MK316/Spring2023)
-|2022|[Fall](https://github.com/MK316/Fall2022/blob/main/README.md)|  
-|2022|[Spring](/S2022.md)|  
+|2023|[Spring (In preparation](https://github.com/MK316/Spring2023)| 
+|2022|✅ [Spring](/S2022.md), ✅ [Fall](https://github.com/MK316/Fall2022/blob/main/README.md)|  
+
 
 
 
