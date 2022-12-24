@@ -15,7 +15,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ _👥Collaborators_: _[Dr. Nam (KU)](https://github.com/hsnam95), [Dr. Lee (Hufs)](https://github.com/junkyuhufs) & [Dr. Son (HNU)](https://github.com/ms624atyale)_     
  
 🌱 **TEACHING** 
-
 ↳ [Goto my Classroom](/res/teaching.md): Coding to my classroom (since Spring 2022).   
 
 🌱 **[WORKSHOP/INVITED TALKS]((https://github.com/MK316/workshops/blob/main/README.md))**   
@@ -23,7 +22,6 @@
 ↳ [2023 ILIS (Yonsei Univ.) talk (In preparation)](https://github.com/MK316/workshops/blob/main/20230126_yonsei/readme.md): _"Leveraging the Potential of Spoken Data in the AI-Powered Digital Age"_    
  
 🌱 **PYTHON CODING FOR...**   
-
 | ⬇️ _Goto_ | _Keywords_|   
 |:---------------|-----------------|  
 | ⏩ [NLP](/res/nlp_tools.md) | Text processing, Corpus, word frequency, POS tagging, etc.|  
