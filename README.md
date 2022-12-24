@@ -18,7 +18,7 @@
 
 ↳ [Goto my Classroom](/res/teaching.md): Coding to my classroom (since Spring 2022).   
 
-♻️ **[Workshop/Invited Talks]((https://github.com/MK316/workshops/blob/main/README.md))**
+♻️ **[Workshop/Invited Talks]((https://github.com/MK316/workshops/blob/main/README.md))**   
 ↳ [2022 PKETA Special session](https://github.com/MK316/pketa22/blob/main/README.md): _"Python & R for Language Research and Education"_    
 ↳ [2023 ILIS (Yonsei Univ.) talk (In preparation)](https://github.com/MK316/workshops/blob/main/20230126_yonsei/readme.md): _"Leveraging the Potential of Spoken Data in the AI-Powered Digital Age"_    
  
