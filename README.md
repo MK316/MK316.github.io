@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet&label=VISIT+count) _Since May 15, 2022_  
 
-### Weblog: _Research tools for language research and teaching_  
+### Weblog: _Learn coding for language research and education_  
 --- 
 ~~~
 >> Dec.2022
