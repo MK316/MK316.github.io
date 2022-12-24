@@ -9,20 +9,20 @@
 ~~~
 
 
-♻️ **MY** [BIO](https://github.com/MK316/MK316.github.io/blob/main/res/profile.md)  
+🌱 **MY** [BIO](https://github.com/MK316/MK316.github.io/blob/main/res/profile.md)  
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ _[📪 Email](mailto:MK3one6@gmail.com), [:octocat: Github](github.com/MK316), [🏢 Dept. of English Education, GNU](https://englishedu.gnu.ac.kr)_, [🎋 LMS](https://rec.ac.kr/gnu)    
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ _I'm currently learning Python coding following_ [_NAMZ channel_](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured) (videos👍)   
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ _👥Collaborators_: _[Dr. Nam (KU)](https://github.com/hsnam95), [Dr. Lee (Hufs)](https://github.com/junkyuhufs) & [Dr. Son (HNU)](https://github.com/ms624atyale)_     
  
-♻️ **TEACHING** 
+🌱 **TEACHING** 
 
 ↳ [Goto my Classroom](/res/teaching.md): Coding to my classroom (since Spring 2022).   
 
-♻️ **[WORKSHOP/INVITED TALKS]((https://github.com/MK316/workshops/blob/main/README.md))**   
+🌱 **[WORKSHOP/INVITED TALKS]((https://github.com/MK316/workshops/blob/main/README.md))**   
 ↳ [2022 PKETA Special session](https://github.com/MK316/pketa22/blob/main/README.md): _"Python & R for Language Research and Education"_    
 ↳ [2023 ILIS (Yonsei Univ.) talk (In preparation)](https://github.com/MK316/workshops/blob/main/20230126_yonsei/readme.md): _"Leveraging the Potential of Spoken Data in the AI-Powered Digital Age"_    
  
-♻️ **PYTHON CODING FOR...**   
+🌱 **PYTHON CODING FOR...**   
 
 | ⬇️ _Goto_ | _Keywords_|   
 |:---------------|-----------------|  
@@ -32,12 +32,12 @@
 | 📍 [AI tools](https://github.com/MK316/OpenAI) | [chatGPT](https://chat.openai.com/chat), [OpenAI](https://openai.com/), [Creating Animated Video](https://github.com/MK316/Spring2023/blob/main/Animated_Video_with_AI.ipynb)|
 | 📍 Useful Tutorials|(to be updated) Learn Python, Samples, AI tools |  |
 
-♻️ **More MENUs**  
+🌱 **More MENUs**  
 ↳ **[Research tools](/res/tools.md):** Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/main/01_How_to_do_R_in_colab.ipynb), Basic stats, Praat.  
 ↳ **Markdown language:** [Intro with examples](https://github.com/MK316/markdown/blob/main/README.md) (_creating formatted text using a plain-text editor_)  ↳ **Personal:** [Profile](/res/profile.md), [Publications](/res/publications.md), [blog](/blog/blogmain.md).  
 
 
-♻️ **Other WEBLINKs**   
+🌱 **Other WEBLINKs**   
 ↳ [Praat](https://www.fon.hum.uva.nl/praat/) ↳ :octocat:[Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/) ↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/) 
 
 
