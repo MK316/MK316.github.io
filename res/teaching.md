@@ -14,7 +14,7 @@ Goto...
 
 | Tools | Description |
 |--|--|
-|[Pronounce4me](https://github.com/MK316/Spring2023/blob/main/Pronounce4me.ipynb)|You can generate an audio files of a text, and doanload it. When you're preparing a presentation in English, you can use this tool as a speech guideline. (Of course, you can be better than the AI speaker.)| 
+|[Pronounce4me](https://github.com/MK316/Spring2023/blob/main/Pronounce4me.ipynb)|You can generate an audio files of a text, and download it. When you're preparing a presentation in English, you can use this tool as a speech guideline. (Of course, you can be better than the AI speaker.)| 
 |[Story reading](https://github.com/MK316/applications/blob/main/Bedtimestory_tts.ipynb)[^1]| Generating an audio file of a story(text)|  
 |[Oxford 3K vocabulary audio](https://github.com/MK316/applications/blob/main/Oxford3K.ipynb)[^2]| You can select lists of words and generate audio files|
 |[SimpleGrammarCheck](https://github.com/MK316/Spring2023/blob/main/SpellingCheck_begins.ipynb)| Spelling/Grammar check (Beginner level)|  
