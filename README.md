@@ -16,7 +16,7 @@
  
 🌱 **TEACHING**  
 ↳ [Goto my Classroom](/res/teaching.md): Coding to my classroom (since Spring 2022).   
-↳ [Prep for 2023](https://github.com/MK316/Teachingapps/blob/main/README.md)
+↳ [🐰 Prep for 2023](https://github.com/MK316/Teachingapps/blob/main/README.md)
 
 🌱 **[WORKSHOP/INVITED TALKS]((https://github.com/MK316/workshops/blob/main/README.md))**   
 ↳ [2022 PKETA Special session](https://github.com/MK316/pketa22/blob/main/README.md): _"Python & R for Language Research and Education"_    
