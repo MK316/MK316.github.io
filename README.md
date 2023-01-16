@@ -3,9 +3,9 @@
 ### Weblog: _Learn coding for language research and education_  
 --- 
 ~~~
->> Dec.2022
->> What's NEW? I'm literally in love with chatGPT! This OpenAI model has really come in handy for me. You should try it RIGHT NOW.
->> Wish you a happy new year! See you in 2023.
+>> Jan.2023
+>> Happy New Year to everyone! I'm literally in love with chatGPT! This OpenAI model has really come in handy for me. You should try it RIGHT NOW.
+>> Wish you a fulfilling year of 2023.
 ~~~
 
 
