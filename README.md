@@ -24,8 +24,8 @@
 ↳ [Goto workshop list](https://github.com/MK316/workshops/blob/main/README.md)
  
 🌱 **PYTHON CODING FOR...**   
-| ⬇️ _Goto_ | _Keywords_|   
-|:---------------|-----------------|  
+| ⬇️ _Goto_ | _Keywords_ |   
+|:---------------|:-----------------|  
 | ⏩ [NLP](/res/nlp_tools.md) | Text processing, Corpus, word frequency, POS tagging, etc.|  
 | ⏩ [SP](/res/sp_tools.md)  | Speech processing, Text-to-Speech, Speech Recognition, Pronunciation, etc.|  
 | ⏩ [Stats](/res/stats1.md) | Basic statistics with R and Python, bar graph, scatter plot, etc.|  
