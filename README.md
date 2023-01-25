@@ -24,13 +24,12 @@
 ↳ [Goto workshop list](https://github.com/MK316/workshops/blob/main/README.md)
  
 🌱 **PYTHON CODING FOR...**   
-| ⬇️ _Goto_ | _Keywords_ |   
-|:---------------|:-----------------|  
-| ⏩ [NLP](/res/nlp_tools.md) | Text processing, Corpus, word frequency, POS tagging, etc.|  
-| ⏩ [SP](/res/sp_tools.md)  | Speech processing, Text-to-Speech, Speech Recognition, Pronunciation, etc.|  
-| ⏩ [Stats](/res/stats1.md) | Basic statistics with R and Python, bar graph, scatter plot, etc.|  
-| 📍 [AI tools](https://github.com/MK316/OpenAI) | [chatGPT](https://chat.openai.com/chat), [OpenAI](https://openai.com/), [Creating Animated Video](https://github.com/MK316/Spring2023/blob/main/Animated_Video_with_AI.ipynb)|
-| 📍 Useful Tutorials|(to be updated) Learn Python, Samples, AI tools |  |
+
+⏩ [NLP](/res/nlp_tools.md): Text processing, Corpus, word frequency, POS tagging, etc.    
+⏩ [SP](/res/sp_tools.md): Speech processing, Text-to-Speech, Speech Recognition, Pronunciation, etc.    
+⏩ [Stats](/res/stats1.md): Basic statistics with R and Python, bar graph, scatter plot, etc.   
+📍 [AI tools](https://github.com/MK316/OpenAI): [chatGPT](https://chat.openai.com/chat), [OpenAI](https://openai.com/), [Creating Animated Video](https://github.com/MK316/Spring2023/blob/main/Animated_Video_with_AI.ipynb)  
+📍 Useful Tutorials|(to be updated) Learn Python, Samples, AI tools  
 
 ⚪ **More MENUs**  
 ↳ **[Research tools](/res/tools.md):** Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/main/01_How_to_do_R_in_colab.ipynb), Basic stats, Praat.  
