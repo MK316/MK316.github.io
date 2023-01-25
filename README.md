@@ -21,6 +21,7 @@
 🌱 **WORKSHOP/INVITED TALKS**   
 ↳ [2022 PKETA Special session](https://github.com/MK316/pketa22/blob/main/README.md): _"Python & R for Language Research and Education"_    
 ↳ [2023 ILIS talk (Institute of Language and Information Studies at Yonsei Univ.)](https://github.com/MK316/workshops/blob/main/20230126_yonsei/index.md): _"Leveraging the Potential of Spoken Data in the AI-Powered Digital Age"_    
+↳ [Goto workshop list](https://github.com/MK316/workshops/blob/main/README.md)
  
 🌱 **PYTHON CODING FOR...**   
 | ⬇️ _Goto_ | _Keywords_|   
