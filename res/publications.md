@@ -2,7 +2,7 @@
 
 <img width="969" alt="researchwordcloud" src="https://user-images.githubusercontent.com/99416359/215932667-046db05e-4ee4-440a-bb63-5a6c0ffcb3c4.png">
 
-|📖 Articles|pdf|
+|📖 Articles|📎 pdf|
 |:---|---|
 | 김미란. (2022). 대학수학능력시험 영어 독해지문의 어휘다양성 및 가독성 분석. _외국어교육연구 36(4),_ 71-90.  | [link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002898744#none)|  
 | 김미란. (2020). 영어학습자 발음의 리듬향상과 관련된 언어요인 연구. _외국어교육연구 34(1)_, 237~261. |[link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002561221)|
@@ -21,8 +21,8 @@
 |김미란·남호성. (2012). 동시발화에 나타나는 발화 속도 변이 분석(Synchronous speech and speech rate). _말소리와 음성과학 4(4)_, 19-27.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001722548)|
 |김미란·신동현·최재웅·김기호. (2000). 초점과 관련된 한국어 의문문 억양 패턴 실험. _음성과학 7(4)_, 203~217.|[link](https://koreascience.kr/article/JAKO200015637240334.page)|
 
-|**Thesis/Dissertation**||
-|--|--|
+|🌱**Thesis/Dissertation**||
+|:--|--|
 |💧 Kim, Miran. (2011). _The phonetics of stress manifestation-Segmental variation, syllable constituency and rhythm._ Ph.D. Dissertation. Dept. of Linguistics, Stony Brook University. |[link](https://www.stonybrook.edu/commcms/linguistics/_pdf/dissertation/Mi-ran_Kim_2011_dissertation.pdf)|
 |💧 김미란. (2000). _한국어 의문문 억양에 나타난 초점과 문미 억양의 관계._ 고려대학교 언어학과 석사학위 논문.|[link](https://academic.naver.com/article.naver?doc_id=9248720)|
 
