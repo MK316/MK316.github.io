@@ -16,7 +16,7 @@
  
 🌱 **TEACHING**   
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ [Goto my Classroom](/res/teaching.md): Coding to my classroom (since Spring 2022).   
-&nbsp;&nbsp;&nbsp;&nbsp; ↳ [🐰 Prep for 2023](https://github.com/MK316/Teachingapps/blob/main/README.md)
+&nbsp;&nbsp;&nbsp;&nbsp; ↳ [🐰 Prep for 2023 exam - tentative](https://github.com/MK316/Teachingapps/blob/main/README.md)
 
 🌱 **WORKSHOP/INVITED TALKS (List since 2022)**  
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ [2023 ILIS talk (Institute of Language and Information Studies at Yonsei Univ.)](https://github.com/MK316/workshops/blob/main/20230126_yonsei/index.md): _"Leveraging the Potential of Spoken Data in the AI-Powered Digital Age"_    
