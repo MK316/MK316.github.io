@@ -15,8 +15,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ _I'm currently learning Python coding following_ [_NAMZ channel_](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured) (videos👍) with [Dr. Lee (Hufs)](https://github.com/junkyuhufs) & [Dr. Son (HNU)](https://github.com/ms624atyale) (🎓 Mentor: [Dr. Nam (KU)](https://github.com/hsnam95))         
  
 🌱 **TEACHING**   
-↳ [Goto my Classroom](/res/teaching.md): Coding to my classroom (since Spring 2022).   
-↳ [🐰 Prep for 2023](https://github.com/MK316/Teachingapps/blob/main/README.md)
+&nbsp;&nbsp;&nbsp;&nbsp; ↳ [Goto my Classroom](/res/teaching.md): Coding to my classroom (since Spring 2022).   
+&nbsp;&nbsp;&nbsp;&nbsp; ↳ [🐰 Prep for 2023](https://github.com/MK316/Teachingapps/blob/main/README.md)
 
 🌱 **WORKSHOP/INVITED TALKS (List since 2022)**  
 ↳ [2023 ILIS talk (Institute of Language and Information Studies at Yonsei Univ.)](https://github.com/MK316/workshops/blob/main/20230126_yonsei/index.md): _"Leveraging the Potential of Spoken Data in the AI-Powered Digital Age"_    
