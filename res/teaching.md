@@ -1,4 +1,4 @@
-# 📚 Teaching
+# 📚 Classes
 
 Goto...  
 
