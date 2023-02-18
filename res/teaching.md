@@ -11,7 +11,7 @@ Goto...
 
 |Goto| Github page|link|
 |---|---|---|
-|| Class tools with Python coding to assist activity management, material creation, and learning process|[link](https://github.com/MK316/classtools/blob/main/README.md)|
+|| Using Python coding, we can create class tools that aid in activity management, material creation, and the learning process.|[link](https://github.com/MK316/classtools/blob/main/README.md)|
 
 # 📚 **Tools ready to use: for students**
 
