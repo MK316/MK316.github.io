@@ -9,7 +9,7 @@ Goto...
 
 # 📚 **Tools for classroom**
 
-|Goto| Github page|link|
+|Goto| Description|Github|
 |---|---|---|
 || Using Python coding, we can create class tools that aid in activity management, material creation, and the learning process.|[link](https://github.com/MK316/classtools/blob/main/README.md)|
 
