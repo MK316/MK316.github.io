@@ -11,7 +11,7 @@ Goto...
 
 |Goto| Github page|link|
 |---|---|---|
-|| Classtools assisting activity management, material creation, and learning process|[link]((https://github.com/MK316/classtools/blob/main/README.md))|
+|| Classtools assisting activity management, material creation, and learning process|[link](https://github.com/MK316/classtools/blob/main/README.md)|
 
 # 📚 **Tools ready to use: for students**
 
