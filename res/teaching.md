@@ -9,9 +9,9 @@ Goto...
 
 # 📚 **Tools for classroom**
 
-|Goto| Description|Github|
-|---|---|---|
-|| Using Python coding, we can create class tools that aid in activity management, material creation, and the learning process.|[link](https://github.com/MK316/classtools/blob/main/README.md)|
+| Description|Github|
+|---|---|
+| We can use Python coding, OpenAI, and multimedia tools to develop intelligent class tools that aid in activity management, material creation, and learning. These tools can be used to create interactive multimedia presentations, personalized learning tools, and digital content that enhances the learning process.|[link](https://github.com/MK316/classtools/blob/main/README.md)|
 
 # 📚 **Tools ready to use: for students**
 
