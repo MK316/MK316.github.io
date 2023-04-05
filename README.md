@@ -3,9 +3,10 @@
 ### Weblog: _Learn coding for language research and education_  
 --- 
 ~~~
->> Feb.2023
->> Welcome back to a new semester! 
->> I hope you had a restful break and are ready for the exciting challenges and opportunities ahead.
+>> Apr.2023
+>> Technology in education is like a bicycle:
+>> It may not be perfect, but it can take us where we need to go. 
+>> Waiting for the perfect car may mean we never get moving at all.
 ~~~
 
 
