@@ -3,10 +3,10 @@
 ### Weblog: _Learn coding for language research and education_  
 --- 
 ~~~
->> Apr.2023
->> Technology in education is like a bicycle:
+>> Apr.2023 MK316's Quote of the month
+>> "Technology in education is like a bicycle:
 >> It may not be perfect, but it can take us where we need to go. 
->> Waiting for the perfect car may mean we never get moving at all.
+>> Waiting for the perfect car may mean we never get moving at all."
 ~~~
 
 
