@@ -26,7 +26,7 @@
 
 | Date | Topics | Hosted by (Location)|
 |------|-------|-----------|
-| 🐳 [From 2022 to Present](https://github.com/MK316/workshops) | Python coding, AI tools, Education in digital era |PKETA (Dec. 2022), ILIS (Jan.2023), GNU Humanities (May, 2023) |  
+| 🐳 [From 2022 to Present](https://github.com/MK316/workshops/README.md) | Python coding, AI tools, Education in digital era |PKETA (Dec. 2022), ILIS (Jan.2023), GNU Humanities (May, 2023) |  
 | Before 2022| Special Topics in English linguistics | Dept. of English Education at Hufs |
 | | R workshop | PKETA |  
 | | Special Topics in English linguistics | Dept. of English Education at Hanyang University |
