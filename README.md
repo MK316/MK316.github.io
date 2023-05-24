@@ -9,19 +9,18 @@
 >> Waiting for the perfect car may mean we never get moving at all."
 ~~~
 
-
-🌱 **MY**   
-+ [Profile, publications](https://github.com/MK316/MK316.github.io/blob/main/res/profile.md), [📪 Email](mailto:MK3one6@gmail.com)   
-+ [Python Study group (since Feb. 2022)](https://github.com/MK316/MK316.github.io/blob/main/study.md)  
-+ [My Github account](github.com/MK316), [🏢 Dept. of English Education, GNU](https://englishedu.gnu.ac.kr), [🎋 LMS](https://rec.ac.kr/gnu)    
-
- 
   
 |🌱 **TEACHING**| **My Digital Classroom**|
 |:--|:--|
 |2023|📗[Spring semester courses](https://github.com/MK316/Spring2023/blob/main/README.md)|
 |2022|📗[Previous](/res/teaching.md)|
 |Since Spring 2022|Bring coding to my classroom|
+
+🌱 **MY**   
++ [Profile, publications](https://github.com/MK316/MK316.github.io/blob/main/res/profile.md), [📪 Email](mailto:MK3one6@gmail.com)   
++ [Python Study group (since Feb. 2022)](https://github.com/MK316/MK316.github.io/blob/main/study.md)  
++ [My Github account](github.com/MK316), [🏢 Dept. of English Education, GNU](https://englishedu.gnu.ac.kr), [🎋 LMS](https://rec.ac.kr/gnu)    
+
 
 🌱 **WORKSHOP/INVITED TALKS ([List since 2022](https://github.com/MK316/workshops/blob/main/README.md))**   
 + [2023 GNU Humanities Laboratory](https://github.com/MK316/workshops/blob/main/20230512_GNU/README.md): _"Digital Transformation of Classroom"_  
