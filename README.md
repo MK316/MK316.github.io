@@ -10,7 +10,7 @@
 ~~~
 
   
-|🌱 **TEACHING**| **My Digital Classroom**|
+|🎯 **TEACHING**| **My Digital Classroom**|
 |:--|:--|
 |2023|📗[Spring semester courses](https://github.com/MK316/Spring2023/blob/main/README.md)|
 |2022|📗[Previous](/res/teaching.md)|
