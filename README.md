@@ -11,9 +11,9 @@
 
 
 🌱 **MY**   
-&nbsp;&nbsp;&nbsp;&nbsp; ↳ [💦 Profile, publications](https://github.com/MK316/MK316.github.io/blob/main/res/profile.md)   
-&nbsp;&nbsp;&nbsp;&nbsp; ↳ _[📪 Email](mailto:MK3one6@gmail.com), [My Github account](github.com/MK316), [🏢 Dept. of English Education, GNU](https://englishedu.gnu.ac.kr)_, [🎋 LMS](https://rec.ac.kr/gnu)    
-&nbsp;&nbsp;&nbsp;&nbsp; ↳ _Learning Python (since Feb. 2022) together: [Study members](https://github.com/MK316/MK316.github.io/blob/main/study.md)
+↳ [💦 Profile, publications](https://github.com/MK316/MK316.github.io/blob/main/res/profile.md)   
+↳ _[📪 Email](mailto:MK3one6@gmail.com), [My Github account](github.com/MK316), [🏢 Dept. of English Education, GNU](https://englishedu.gnu.ac.kr)_, [🎋 LMS](https://rec.ac.kr/gnu)    
+↳ _Learning Python (since Feb. 2022) together: [Study members](https://github.com/MK316/MK316.github.io/blob/main/study.md)
  
   
 |🌱 **TEACHING**| **Digital Transformation: Bring coding to my classroom**|
