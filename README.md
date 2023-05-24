@@ -10,8 +10,8 @@
 ~~~
 
 
-🌱 **MY**[📪 Email](mailto:MK3one6@gmail.com)   
-↳ [💦 Profile, publications](https://github.com/MK316/MK316.github.io/blob/main/res/profile.md)   
+🌱 **MY**   
+↳ [💦 Profile, publications](https://github.com/MK316/MK316.github.io/blob/main/res/profile.md), [📪 Email](mailto:MK3one6@gmail.com)   
 ↳ 💦 [Python Study group (since Feb. 2022)](https://github.com/MK316/MK316.github.io/blob/main/study.md)  
 ↳ 💦 [My Github account](github.com/MK316), [🏢 Dept. of English Education, GNU](https://englishedu.gnu.ac.kr), [🎋 LMS](https://rec.ac.kr/gnu)    
 
