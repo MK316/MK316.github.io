@@ -17,11 +17,11 @@
 
  
   
-|🌱 **TEACHING**| **My digital classroom: Bring coding to my classroom**|
+|🌱 **TEACHING**| **My digital classroom**|
 |:--|--|
 |2023|📗[Spring semester courses](https://github.com/MK316/Spring2023/blob/main/README.md)|
 |2022|📗[Previous](/res/teaching.md)|
-↳ Since Spring 2022
+|Since Spring 2022|Bring coding to my classroom|
 
 🌱 **WORKSHOP/INVITED TALKS ([List since 2022](https://github.com/MK316/workshops/blob/main/README.md))**   
 ↳ [2023 GNU Humanities Laboratory](https://github.com/MK316/workshops/blob/main/20230512_GNU/README.md): _"AI, Digital Literacy, and Convergence Education"_  
