@@ -24,9 +24,9 @@
 |Since Spring 2022|Bring coding to my classroom|
 
 🌱 **WORKSHOP/INVITED TALKS ([List since 2022](https://github.com/MK316/workshops/blob/main/README.md))**   
-↳ [2023 GNU Humanities Laboratory](https://github.com/MK316/workshops/blob/main/20230512_GNU/README.md): _"AI, Digital Literacy, and Convergence Education"_  
-↳ [2023 ILIS talk (Institute of Language and Information Studies at Yonsei Univ.)](https://github.com/MK316/workshops/blob/main/20230126_yonsei/index.md): _"Leveraging the Potential of Spoken Data in the AI-Powered Digital Age"_    
-↳ [2022 PKETA Special session](https://github.com/MK316/pketa22/blob/main/README.md): _"Python & R for Language Research and Education"_   
+🚥 [2023 GNU Humanities Laboratory](https://github.com/MK316/workshops/blob/main/20230512_GNU/README.md): _"AI, Digital Literacy, and Convergence Education"_  
+🚥 [2023 ILIS talk (Institute of Language and Information Studies at Yonsei Univ.)](https://github.com/MK316/workshops/blob/main/20230126_yonsei/index.md): _"Leveraging the Potential of Spoken Data in the AI-Powered Digital Age"_    
+🚥 [2022 PKETA Special session](https://github.com/MK316/pketa22/blob/main/README.md): _"Python & R for Language Research and Education"_   
 
  
 🌱 **PYTHON CODING FOR...**   
