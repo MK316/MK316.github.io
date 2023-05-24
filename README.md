@@ -10,11 +10,11 @@
 ~~~
 
   
-|🎯 **TEACHING**| **My Digital Classroom**|
-|:--|:--|
-|2023|📗[Spring semester courses](https://github.com/MK316/Spring2023/blob/main/README.md)|
-|2022|📗[Previous](/res/teaching.md)|
-|Since Spring 2022|Bring coding to my classroom|
+|🎯 **TEACHING: My Digital Classroom**|
+|:--|
+|2023📗[Spring semester courses](https://github.com/MK316/Spring2023/blob/main/README.md)|
+|2022📗[Previous](/res/teaching.md)|
+|Bring coding to my classroom (Since Spring 2022)|
 ___
 🌱 **MY** 
 + [Profile, publications](https://github.com/MK316/MK316.github.io/blob/main/res/profile.md), [📪 Email](mailto:MK3one6@gmail.com)   
