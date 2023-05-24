@@ -1,0 +1,2 @@
+# Other links (to be updated)
+&nbsp;&nbsp;&nbsp;&nbsp; ↳ [Praat](https://www.fon.hum.uva.nl/praat/) ↳ :octocat:[Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/) ↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/), ↳ 🎯[CodeRef](https://github.com/MK316/workshops/blob/main/codebook23.ipynb)
