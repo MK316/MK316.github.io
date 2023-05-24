@@ -16,9 +16,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ _Learning Python (since Feb. 2022) together: [Study members](https://github.com/MK316/MK316.github.io/blob/main/study.md)
  
   
-|🌱 **TEACHING:**| ** Digital Transformation: Bring coding to my classroom**|
-|Year|Semester (since Spring 2022)|
+|🌱 **TEACHING**| **Digital Transformation: Bring coding to my classroom**|
 |--|--|
+|_Year_| Since Spring 2022|
 |2023|📗[Spring semester courses](https://github.com/MK316/Spring2023/blob/main/README.md)|
 |2022|📗[Previous](/res/teaching.md)|
 
