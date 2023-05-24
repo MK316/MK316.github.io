@@ -24,17 +24,17 @@
 
 
 🌱 **WORKSHOP/INVITED TALKS ([List since 2022](https://github.com/MK316/workshops/blob/main/README.md))**   
-&nbsp;&nbsp;&nbsp;&nbsp; ↳ [2023 GNU Humanities Laboratory](https://github.com/MK316/workshops/blob/main/20230512_GNU/README.md): _"AI, Digital Literacy, and Convergence Education"_  
-&nbsp;&nbsp;&nbsp;&nbsp; ↳ [2023 ILIS talk (Institute of Language and Information Studies at Yonsei Univ.)](https://github.com/MK316/workshops/blob/main/20230126_yonsei/index.md): _"Leveraging the Potential of Spoken Data in the AI-Powered Digital Age"_    
-&nbsp;&nbsp;&nbsp;&nbsp; ↳ [2022 PKETA Special session](https://github.com/MK316/pketa22/blob/main/README.md): _"Python & R for Language Research and Education"_   
+↳ [2023 GNU Humanities Laboratory](https://github.com/MK316/workshops/blob/main/20230512_GNU/README.md): _"AI, Digital Literacy, and Convergence Education"_  
+↳ [2023 ILIS talk (Institute of Language and Information Studies at Yonsei Univ.)](https://github.com/MK316/workshops/blob/main/20230126_yonsei/index.md): _"Leveraging the Potential of Spoken Data in the AI-Powered Digital Age"_    
+↳ [2022 PKETA Special session](https://github.com/MK316/pketa22/blob/main/README.md): _"Python & R for Language Research and Education"_   
 
  
 🌱 **PYTHON CODING FOR...**   
-&nbsp;&nbsp;&nbsp;&nbsp; ↳  [NLP](/res/nlp_tools.md): Text processing, Corpus, word frequency, POS tagging, etc.    
-&nbsp;&nbsp;&nbsp;&nbsp; ↳  [SP](/res/sp_tools.md): Speech processing, Text-to-Speech, Speech Recognition, Pronunciation, etc.    
-&nbsp;&nbsp;&nbsp;&nbsp; ↳  [Stats](/res/stats1.md): Basic statistics with R and Python, bar graph, scatter plot, etc.   
-&nbsp;&nbsp;&nbsp;&nbsp; ↳  [AI tools](https://github.com/MK316/OpenAI): [chatGPT](https://chat.openai.com/chat), [OpenAI](https://openai.com/), [Creating Animated Video](https://github.com/MK316/Spring2023/blob/main/Animated_Video_with_AI.ipynb)  
-&nbsp;&nbsp;&nbsp;&nbsp; ↳  Useful Tutorials|(to be updated) Learn Python, Samples, AI tools  
+↳  [NLP](/res/nlp_tools.md): Text processing, Corpus, word frequency, POS tagging, etc.    
+↳  [SP](/res/sp_tools.md): Speech processing, Text-to-Speech, Speech Recognition, Pronunciation, etc.    
+↳  [Stats](/res/stats1.md): Basic statistics with R and Python, bar graph, scatter plot, etc.   
+↳  [AI tools](https://github.com/MK316/OpenAI): [chatGPT](https://chat.openai.com/chat), [OpenAI](https://openai.com/), [Creating Animated Video](https://github.com/MK316/Spring2023/blob/main/Animated_Video_with_AI.ipynb)  
+↳  Useful Tutorials|(to be updated) Learn Python, Samples, AI tools  
 
 🍃 [**More MENUs**](https://github.com/MK316/MK316.github.io/blob/main/moremenu.md)   
 
