@@ -12,12 +12,17 @@
 
 🌱 **MY**   
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ [💦 Profile, publications](https://github.com/MK316/MK316.github.io/blob/main/res/profile.md)   
-&nbsp;&nbsp;&nbsp;&nbsp; ↳ _[📪 Email](mailto:MK3one6@gmail.com), :octocat: [Github](github.com/MK316), [🏢 Dept. of English Education, GNU](https://englishedu.gnu.ac.kr)_, [🎋 LMS](https://rec.ac.kr/gnu)    
-&nbsp;&nbsp;&nbsp;&nbsp; ↳ _Learning Python (since Feb. 2022):_ [_NAMZ channel_](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/featured) (videos👍) with [Dr. Lee (Hufs)](https://github.com/junkyuhufs) & [Dr. Son (HNU)](https://github.com/ms624atyale) (🎓 Mentor: [Dr. Nam (KU)](https://github.com/hsnam95))         
+&nbsp;&nbsp;&nbsp;&nbsp; ↳ _[📪 Email](mailto:MK3one6@gmail.com), [My Github account](github.com/MK316), [🏢 Dept. of English Education, GNU](https://englishedu.gnu.ac.kr)_, [🎋 LMS](https://rec.ac.kr/gnu)    
+&nbsp;&nbsp;&nbsp;&nbsp; ↳ _Learning Python (since Feb. 2022) together: [Study members](https://github.com/MK316/MK316.github.io/blob/main/study.md)
  
-🌱 **TEACHING**   
-&nbsp;&nbsp;&nbsp;&nbsp; ↳ [Goto my Classroom](/res/teaching.md): Coding to my classroom (since Spring 2022).   
-&nbsp;&nbsp;&nbsp;&nbsp; ↳ [🐰 Prep for 2023 exam - tentative](https://github.com/MK316/Teachingapps/blob/main/README.md)
+🌱 **TEACHING: My digital classroom**   
+&nbsp;&nbsp;&nbsp;&nbsp; ↳ Digital Transformation: Bring coding to my classroom (since Spring 2022). 
+|Year|Semester|
+|--|--|
+|2023|🔍[Spring semester courses](https://github.com/MK316/Spring2023/blob/main/README.md)|
+|2022|🔍[Previous](/res/teaching.md)|
+
+
 
 🌱 **WORKSHOP/INVITED TALKS ([List since 2022](https://github.com/MK316/workshops/blob/main/README.md))**   
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ [2023 GNU Humanities Laboratory](https://github.com/MK316/workshops/blob/main/20230512_GNU/README.md): _"AI, Digital Literacy, and Convergence Education"_  
