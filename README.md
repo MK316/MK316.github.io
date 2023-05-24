@@ -22,7 +22,6 @@
 |2023|📗[Spring semester courses](https://github.com/MK316/Spring2023/blob/main/README.md)|
 |2022|📗[Previous](/res/teaching.md)|
 
-🔍
 
 🌱 **WORKSHOP/INVITED TALKS ([List since 2022](https://github.com/MK316/workshops/blob/main/README.md))**   
 &nbsp;&nbsp;&nbsp;&nbsp; ↳ [2023 GNU Humanities Laboratory](https://github.com/MK316/workshops/blob/main/20230512_GNU/README.md): _"AI, Digital Literacy, and Convergence Education"_  
@@ -37,13 +36,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp; ↳  [AI tools](https://github.com/MK316/OpenAI): [chatGPT](https://chat.openai.com/chat), [OpenAI](https://openai.com/), [Creating Animated Video](https://github.com/MK316/Spring2023/blob/main/Animated_Video_with_AI.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp; ↳  Useful Tutorials|(to be updated) Learn Python, Samples, AI tools  
 
-🍃 **More MENUs**   
-&nbsp;&nbsp;&nbsp;&nbsp; ↳ **[Research tools](/res/tools.md):** Python, R, [Doing R in Colab](https://github.com/MK316/R_intro/blob/main/01_How_to_do_R_in_colab.ipynb), Basic stats, Praat.  
-&nbsp;&nbsp;&nbsp;&nbsp; ↳ **Markdown language:** [Intro with examples](https://github.com/MK316/markdown/blob/main/README.md) (_creating formatted text using a plain-text editor_)  ↳ **Personal:** [Profile](/res/profile.md), [Publications](/res/publications.md), [blog](/blog/blogmain.md).  
+🍃 [**More MENUs**](https://github.com/MK316/MK316.github.io/blob/main/moremenu.md)   
 
-
-🍃 **Other WEBLINKs**   
-&nbsp;&nbsp;&nbsp;&nbsp; ↳ [Praat](https://www.fon.hum.uva.nl/praat/) ↳ :octocat:[Github](https://www.github.com/), ↳ [Google Colab](https://colab.research.google.com/) ↳ [R project](https://www.r-project.org/), ↳ [R Studio](https://www.rstudio.com/), ↳ [R Studio cloud](https://rstudio.cloud/), ↳ 🎯[CodeRef](https://github.com/MK316/workshops/blob/main/codebook23.ipynb)
+🍃 [**Other WEBLINKs**](https://github.com/MK316/MK316.github.io/blob/main/otherlinks.md)  
 
 
 ---
