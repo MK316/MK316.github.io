@@ -36,9 +36,7 @@
 + [AI tools](https://github.com/MK316/OpenAI): [chatGPT](https://chat.openai.com/chat), [OpenAI](https://openai.com/), [Creating Animated Video](https://github.com/MK316/Spring2023/blob/main/Animated_Video_with_AI.ipynb)  
 
 
-🍃 [**More MENUs**](https://github.com/MK316/MK316.github.io/blob/main/moremenu.md)   
-
-🍃 [**Other WEBLINKs**](https://github.com/MK316/MK316.github.io/blob/main/otherlinks.md)  
+🍃 [**More MENUs**](https://github.com/MK316/MK316.github.io/blob/main/moremenu.md), 🍃 [**Other WEBLINKs**](https://github.com/MK316/MK316.github.io/blob/main/otherlinks.md)  
 
 
 ---
