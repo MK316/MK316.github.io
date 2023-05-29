@@ -23,7 +23,7 @@
 🔸 [My Github account](github.com/MK316), [🏢 Dept. of English Education, GNU](https://englishedu.gnu.ac.kr), [🎋 LMS](https://rec.ac.kr/gnu)    
 
 
-## 🌱 **WORKSHOP/INVITED TALKS ([List since 2022](https://github.com/MK316/workshops/blob/main/README.md))**   
+## 🌱 **WORKSHOP / INVITED TALKS ([List since 2022](https://github.com/MK316/workshops/blob/main/README.md))**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _The presentation materials are in the link._  
 🔸 May 12, 2023 [GNU Humanities Laboratory](https://github.com/MK316/workshops/blob/main/20230512_GNU/README.md): _"Digital Transformation of Classroom"_  
 🔸 Jan. 29, 2023 [ILIS talk (Yonsei Univ.)](https://github.com/MK316/workshops/blob/main/20230126_yonsei/index.md): _"Leveraging the Potential of Spoken Data in the AI-Powered Digital Age"_    
