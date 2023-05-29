@@ -10,7 +10,7 @@
 ~~~
 
   
-|🌱 **TEACHING:** |Bring coding to the classroom (since Spring 2022)|     
+|🌱 **TEACHING:**|Bring coding to the classroom (_since Spring 2022_)|     
 |--|--|
 |🔸 2023| [Spring semester](https://github.com/MK316/Spring2023/blob/main/README.md)|   
 |🔸 2022| [Spring semester, Fall semester](/res/teaching.md)|     
