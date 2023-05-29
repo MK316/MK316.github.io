@@ -10,11 +10,10 @@
 ~~~
 
   
-|**TEACHING** |**My Digital Classroom**|  
-|:--|:--:|    
-|2023 |[Spring semester](https://github.com/MK316/Spring2023/blob/main/README.md)|  
-|2022 |[Spring semester, Fall semester](/res/teaching.md)|   
-|Bring coding to my classroom |(Since Spring 2022)|   
+🌱 **TEACHING:** Bring coding to the classroom (since Spring 2022)   
+🔸 2023: [Spring semester](https://github.com/MK316/Spring2023/blob/main/README.md)|  
+🔸 2022: [Spring semester, Fall semester](/res/teaching.md)|   
+  
 
 ___
 🌱 **MY**   
