@@ -13,7 +13,7 @@
 |TEACHING|My digital classroom|   
 |--|--|   
 |2023|[📗 Spring semester](https://github.com/MK316/Spring2023/blob/main/README.md)|   
-|2022|[📗 Spring semester, 📗 Fall semester](/res/teaching.md)|     
+|2022|[📗 Spring, 📗 Fall](/res/teaching.md)|     
   
 
 
