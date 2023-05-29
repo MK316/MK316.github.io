@@ -10,7 +10,7 @@
 ~~~
 
 ## 🌱 **TEACHING**   
-: _Bring coding to my classroom_  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _Bring coding to my classroom_  
 
 |YEAR|My digital classroom|   
 |---|---|    
