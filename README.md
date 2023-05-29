@@ -9,11 +9,11 @@
 >> Waiting for the perfect car may mean we never get moving at all."
 ~~~
 
-  
-|🌱 **TEACHING**|Bring coding to the classroom (_since Spring 2022_)|     
+_**Bring Coding to the Classroom**_ _(since Spring 2022)_  
+|🌱 **TEACHING**|**My digital classrooms|     
 |--|--|
-|🔸 2023| [Spring semester](https://github.com/MK316/Spring2023/blob/main/README.md)|   
-|🔸 2022| [Spring semester, Fall semester](/res/teaching.md)|     
+|📗 2023| [Spring semester](https://github.com/MK316/Spring2023/blob/main/README.md)|   
+|📗 2022| [Spring semester, Fall semester](/res/teaching.md)|     
   
 
 ___
