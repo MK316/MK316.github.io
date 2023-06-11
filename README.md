@@ -44,4 +44,4 @@
 
 ---
    ࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐. 
-_[💜](https://docs.google.com/forms/d/e/1FAIpQLSeTmolFd5BOzo1ZOCxowCBzV9copnE4W9kschPYzbKmpDeTJA/viewform?usp=sf_link) 🎗️ May 23, 2023 (Last updated)_🚫NJ: _"There is no future for those who forget history."_   
+_[💜](https://github.com/MK316/Classroom/blob/main/readme.md) 🎗️ May 23, 2023 (Last updated)_🚫NJ: _"There is no future for those who forget history."_   
