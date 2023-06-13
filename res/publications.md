@@ -4,7 +4,7 @@
 
 |📖 **Articles published**|📎 pdf|
 |:---|---|
-| 김미란. (2023a, accepted). Digital enhancement of pronunciation assessment: a comparative study of ASR technology and human raters. _Phonetics and Speech Sciences 15(2),_.  | [link]|  
+| Kim, Miran (2023a, accepted). Digital enhancement of pronunciation assessment: a comparative study of ASR technology and human raters. _Phonetics and Speech Sciences 15(2),_.  | [link]|  
 | 김미란. (2022). 대학수학능력시험 영어 독해지문의 어휘다양성 및 가독성 분석. _외국어교육연구 36(4),_ 71-90.  | [link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002898744#none)|  
 | 김미란. (2020). 영어학습자 발음의 리듬향상과 관련된 언어요인 연구. _외국어교육연구 34(1)_, 237~261. |[link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002561221)|
 | 문재현·김미란. (2018a). 탈어휘 동사 get의 구문과 의미 유형별 빈도: 교과서 듣기지문과 구어자료 비교. _언어와정보사회 34_, 59~86.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002372663)|
@@ -13,8 +13,8 @@
 |이은정·김미란. (2017). 테드(TED) 강연의 명사화 사용 빈도 특성. _외국어교육연구 32(1)_, 59~85.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002198335)|
 |김미란. (2016a). 발표문 텍스트의 어휘사용 특성: TED-LIUM과 BNC코퍼스 비교. _언어와정보사회 29_, 93~121.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002169726)|
 |Yu-an Lu & Miran Kim. (2016b). Prosody transfer in second language acquisition: Tonal alignment in the production of English pitch accent by Mandarin Native speakers. _Tsing Hua Journal of Chinese Studies 46(4)_, 786-816.|[link](https://thjcs.site.nthu.edu.tw/var/file/452/1452/img/2746/Z-WW579-04.pdf)|
-|Kim, Miran. (2015a). Focus-driven prosodic restructuring patterns: A unified OT account of deaccenting and dephrasing. _Studies in Phonetics, Phonology, and Morphology 21(1),_ 25-56.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001985528)|
-|Kim, Miran. (2015b). Segmental interpretation of suprasegmental properties in non-native phoneme perception. _Phonetics & Speech Sciences 7(3),_ 117-128.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002036419)|
+|Kim, Miran (2015a). Focus-driven prosodic restructuring patterns: A unified OT account of deaccenting and dephrasing. _Studies in Phonetics, Phonology, and Morphology 21(1),_ 25-56.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001985528)|
+|Kim, Miran (2015b). Segmental interpretation of suprasegmental properties in non-native phoneme perception. _Phonetics & Speech Sciences 7(3),_ 117-128.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002036419)|
 | 김미란·최재웅·홍정하. (2014a). 한국어 초성-중성 결합의 분포적 특성 및 모음의 군집분석 연구. _음성,음운,형태론 연구 20(1)_, 23-49.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001868835)|
 |김미란·강현주·노주현. (2014b). 학습자의 발화 속도 변이 연구: 일본인과 중국인 한국어 학습자와 한국어 모어 화자 비교. _한국어학 63_, 103-132.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001875987)|
 |김미란·임창국. (2014c). 문중/문말 '-요'에 대한 음성적 특성 연구. _언어정보 18_, 27-50.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001859145)|
