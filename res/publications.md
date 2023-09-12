@@ -4,7 +4,7 @@
 
 |📖 **Articles published**|📎 pdf|
 |:---|---|
-| Kim, Miran & Hosung Nam (2023b). A course design for digital literacy training for prospective English teachers. _Studies in Foreign Language Education 37(3),_.  | [link]|  
+| Kim, Miran & Hosung Nam (2023b). A course design for digital literacy training for prospective English teachers. _Studies in Foreign Language Education 37(3),_.  | [link](https://ifle.jams.or.kr/po/volisse/sjPubsArtiPopView.kci?soceId=INS000005061&artiId=SJ0000001291&sereId=SER000000001&submCnt=1)|  
 | Kim, Miran (2023a). Digital enhancement of pronunciation assessment: a comparative study of ASR technology and human raters. _Phonetics and Speech Sciences 15(2)_,13-20.  | [link](https://www.eksss.org/)|  
 | 김미란 (2022). 대학수학능력시험 영어 독해지문의 어휘다양성 및 가독성 분석. _외국어교육연구 36(4),_ 71-90.  | [link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002898744#none)|  
 | 김미란 (2020). 영어학습자 발음의 리듬향상과 관련된 언어요인 연구. _외국어교육연구 34(1)_, 237~261. |[link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002561221)|
