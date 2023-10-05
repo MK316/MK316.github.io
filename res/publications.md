@@ -4,8 +4,9 @@
 
 |📖 **Articles published**|📎 pdf|
 |:---|---|
-| Kim, Miran & Hosung Nam (2023b). A course design for digital literacy training for prospective English teachers. _Studies in Foreign Language Education 37(3),_.  | [link](https://ifle.jams.or.kr/po/volisse/sjPubsArtiPopView.kci?soceId=INS000005061&artiId=SJ0000001291&sereId=SER000000001&submCnt=1)|  
-| Kim, Miran (2023a). Digital enhancement of pronunciation assessment: a comparative study of ASR technology and human raters. _Phonetics and Speech Sciences 15(2)_,13-20.  | [link](https://www.eksss.org/)|  
+| Kim, Miran & Junkyu Lee (2023). Assessing English Major Students' Perceptions of Digital Literacy Training. _English Language Teaching 35_(3), 85-105.|[link](https://pketa.jams.or.kr/po/volisse/sjPubsArtiPopView.kci?soceId=INS000001975&artiId=SJ0000001418&sereId=SER000000001&submCnt=1)|
+| Kim, Miran & Hosung Nam (2023). A course design for digital literacy training for prospective English teachers. _Studies in Foreign Language Education 37_(3), 27-48.  | [link](https://ifle.jams.or.kr/po/volisse/sjPubsArtiPopView.kci?soceId=INS000005061&artiId=SJ0000001291&sereId=SER000000001&submCnt=1)|  
+| Kim, Miran (2023). Digital enhancement of pronunciation assessment: a comparative study of ASR technology and human raters. _Phonetics and Speech Sciences 15(2)_,13-20.  | [link](https://www.eksss.org/)|  
 | 김미란 (2022). 대학수학능력시험 영어 독해지문의 어휘다양성 및 가독성 분석. _외국어교육연구 36(4),_ 71-90.  | [link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002898744#none)|  
 | 김미란 (2020). 영어학습자 발음의 리듬향상과 관련된 언어요인 연구. _외국어교육연구 34(1)_, 237~261. |[link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002561221)|
 | 문재현·김미란 (2018a). 탈어휘 동사 get의 구문과 의미 유형별 빈도: 교과서 듣기지문과 구어자료 비교. _언어와정보사회 34_, 59~86.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002372663)|
