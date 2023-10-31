@@ -45,4 +45,4 @@
 
 ---
    ࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐. 
-_[💜](https://github.com/MK316/Fall2023/blob/main/GTTS1.ipynb) 🎗️ May 23, 2023 (Last updated)_🚫NJ: _"There is no future for those who forget history."_   
+[💜](https://github.com/MK316/Fall2023/blob/main/GTTS1.ipynb) 🎗️ _May 23, 2023 (Last updated)_🚫NJ: _"There is no future for those who forget history."_   
