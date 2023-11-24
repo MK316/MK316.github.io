@@ -4,7 +4,7 @@
 ### Weblog: _Learn Python coding for language research and education_  
 --- 
 ~~~
->> Apr.2023 MK316's Quote of the month
+>> Nov.2023 MK316's Quote of the month
 >> "Technology in education is like a bicycle:
 >> It may not be perfect, but it can take us where we need to go. 
 >> Waiting for the perfect car may mean we never get moving at all."
@@ -48,4 +48,4 @@
 
 ---
    ࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐. 
-💜🎗️ _May 23, 2023 (Last updated)_ 🚫NJ: _"There is no future for those who forget history."_   
+💜🎗️ _Nov 25, 2023 (Last updated)_ 🚫NJ: _"There is no future for those who forget history."_   
