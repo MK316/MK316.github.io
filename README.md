@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet&label=VISIT+count) _Since May 15, 2022_  
+![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet&label=VISIT+count) _Since May 15, 2022_ [Instant message to MK316](Visitor's message to me at https://share.hsforms.com/1Av0hl41zRH-ldBftgLjM4Qqhro2)
 
 ### Weblog: _Learn Python coding for language research and education_  
 --- 
