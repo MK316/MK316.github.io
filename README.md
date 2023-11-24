@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet&label=VISIT+count) _Since May 15, 2022_  
-[📨 Message to MK316](https://share.hsforms.com/1Av0hl41zRH-ldBftgLjM4Qqhro2)  
+  
 
 ### Weblog: _Learn Python coding for language research and education_  
 --- 
@@ -21,7 +21,7 @@
 
 
 ## 🌱 **MY**   
-🔸 [Profile, publications](https://github.com/MK316/MK316.github.io/blob/main/res/profile.md), [📪 Email](mailto:MK3one6@gmail.com)   
+🔸 [Profile, publications](https://github.com/MK316/MK316.github.io/blob/main/res/profile.md), [📨 Message to MK316](https://share.hsforms.com/1Av0hl41zRH-ldBftgLjM4Qqhro2)   
 🔸 🔢 [Python Study group (since Feb. 2022)](https://github.com/MK316/MK316.github.io/blob/main/study.md)  
 🔸 [My Github account](github.com/MK316), [🏢 Dept. of English Education, GNU](https://englishedu.gnu.ac.kr), [🎋 LMS](https://rec.ac.kr/gnu)    
 
