@@ -13,10 +13,10 @@
 ## 🌱 **TEACHING**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _Bring coding to my classroom_  
 
-|YEAR|My digital classroom|   
-|---|---|    
-|2023|[Spring](https://github.com/MK316/Spring2023/blob/main/README.md), [Fall](https://github.com/MK316/Fall2023/blob/main/README.md)|   
-|2022|[Spring, Fall](/res/teaching.md)|     
+|YEAR|My digital classroom|   |
+|---|---|---|    
+|2023|[Spring](https://github.com/MK316/Spring2023/blob/main/README.md)|[Fall](https://github.com/MK316/Fall2023/blob/main/README.md)|   
+|2022|[Spring(/res/teaching.md)| Fall](/res/teaching.md)|     
 
 
 
