@@ -11,10 +11,10 @@
 >> it can seem as mysterious and wondrous as magic to those who encounter it. 
 ~~~
 
-## 🌱 **TEACHING**   
+## 🌱 **TEACHING: Digital classroom**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _Bring coding to my classroom_  
 
-|YEAR|My digital classroom 1|My digital classroom 2|
+|YEAR|Semester 1|Semester 2|
 |---|---|---|    
 |2023|[Spring semester](https://github.com/MK316/Spring2023/blob/main/README.md)|[Fall semester](https://github.com/MK316/Fall2023/blob/main/README.md)|   
 |2022|[Spring semester](/res/teaching.md)| [Fall semester](/res/teaching.md)|     
