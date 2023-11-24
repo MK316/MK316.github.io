@@ -5,7 +5,7 @@
 --- 
 ~~~
 >> Nov.2023 MK316's Quote of the month:
->> **"Any sufficiently advanced technology is indistinguishable from magic."**
+>> "Any sufficiently advanced technology is indistinguishable from magic."
 >> - Arthur C. Clarke, a renowned science fiction author
 >> When technology reaches a level of complexity and sophistication beyond our current understanding,
 >> it can seem as mysterious and wondrous as magic to those who encounter it. 
