@@ -1,6 +1,7 @@
 ## 💦 Publications
 
-<img width="969" alt="researchwordcloud" src="images/KeywordCloud_231129.png">
+
+![Example Image](images/KeywordCloud_231129.png)
 
 |📖 **Articles published**|📎 pdf|
 |:---|---|
