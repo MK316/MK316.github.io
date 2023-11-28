@@ -14,7 +14,7 @@
 ## 🌱 **TEACHING: Digital classroom**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _Bring coding to my classroom_  
 
-|YEAR|Semester I|Semester II|APPs|
+|YEAR|Semester I|Semester II|Simple APPs|
 |---|---|---|---|    
 |2024|[Spring semester]()|---|
 |2023|[Spring semester](https://github.com/MK316/Spring2023/blob/main/README.md)|[Fall semester](https://github.com/MK316/Fall2023/blob/main/README.md)|[link](https://github.com/MK316/Myapps/blob/main/README.md)|   
