@@ -30,7 +30,7 @@
 
 
 ## 🌱 **WORKSHOP / INVITED TALKS**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _The presentation materials are in the link._([List since 2022](https://github.com/MK316/workshops/blob/main/README.md))    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _Presentation materials are in the link._([List since 2022](https://github.com/MK316/workshops/blob/main/README.md))    
 🔸 Dec. 6, 2023 [GNU Museum academy](https://github.com/MK316/workshops/blob/main/20231206/README.md): _"Living with AI: What changes?"_   
 🔸 Oct. 30, 2023 [CSU English Education](https://github.com/MK316/workshops/blob/main/2023CSU/readme.md): _"Digital Literacy Training for future English teachers"_  
 🔸 May 12, 2023 [GNU Humanities Laboratory](https://github.com/MK316/workshops/blob/main/20230512_GNU/README.md): _"Digital Transformation of Classroom"_  
