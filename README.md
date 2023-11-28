@@ -16,9 +16,9 @@
 
 |YEAR|Semester I|Semester II|Simple APPs|
 |---|---|---|---|    
-|2024|[Spring semester]()|---|
-|2023|[Spring semester](https://github.com/MK316/Spring2023/blob/main/README.md)|[Fall semester](https://github.com/MK316/Fall2023/blob/main/README.md)|[link](https://github.com/MK316/Myapps/blob/main/README.md)|   
-|2022|[Spring semester](/res/teaching.md)| [Fall semester](/res/teaching.md)||     
+|2024|[Spring]()|---|
+|2023|[Spring](https://github.com/MK316/Spring2023/blob/main/README.md)|[Fall](https://github.com/MK316/Fall2023/blob/main/README.md)|[link](https://github.com/MK316/Myapps/blob/main/README.md)|   
+|2022|[Spring](/res/teaching.md)| [Fall](/res/teaching.md)||     
 
 
 
