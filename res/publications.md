@@ -1,7 +1,7 @@
 ## 💦 Publications
 
 
-![Example Image]("images/KeywordCloud_231129.png")
+![Example Image](https://github.com/MK316/MK316.github.io/blob/main/images/KeywordCloud_231129.png)
 
 |📖 **Articles published**|📎 pdf|
 |:---|---|
