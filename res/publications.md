@@ -1,6 +1,6 @@
 ## 💦 Publications
 
-<img width="969" alt="researchwordcloud" src="https://user-images.githubusercontent.com/99416359/215932667-046db05e-4ee4-440a-bb63-5a6c0ffcb3c4.png">
+<img width="969" alt="researchwordcloud" src="images/KeywordCloud_231129.png">
 
 |📖 **Articles published**|📎 pdf|
 |:---|---|
