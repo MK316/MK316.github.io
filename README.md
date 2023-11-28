@@ -13,7 +13,7 @@
 ## 🌱 **TEACHING: Digital classroom**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _Bring coding to my classroom_  
 
-|YEAR|Semester I|Semester II|Simple APPs|
+|YEAR|Semester I|Semester II|Simple APPs [⏰](https://time-stuff.com/embed.html)|
 |---|---|---|---|    
 |2024|[Spring](https://github.com/MK316/S2024/blob/main/README.md)|---|
 |2023|📒[Spring](https://github.com/MK316/Spring2023/blob/main/README.md)|📘[Fall](https://github.com/MK316/Fall2023/blob/main/README.md)|[link](https://github.com/MK316/Myapps/blob/main/README.md)|   
