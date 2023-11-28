@@ -22,7 +22,7 @@
 
 
 
-## 🌱 **Profile and more**   
+## 🌱 **PROFILE and more**   
 🔸 [📪 Send message to MK316](https://share.hsforms.com/1Av0hl41zRH-ldBftgLjM4Qqhro2)  
 🔸 [Profile, publications](https://github.com/MK316/MK316.github.io/blob/main/res/profile.md)     
 🔸 [Python Study group (since Feb. 2022)](https://github.com/MK316/MK316.github.io/blob/main/study.md)  
