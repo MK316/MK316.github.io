@@ -1,4 +1,5 @@
 # AI tools (online tools)
+The websites introduced below are ones that I find useful in language learning and teaching. They are not an exhaustive list of all similar sites, but those that I personally encountered and used. Each site offers at least a free version to experience its features. Please note the date of verification for each site for your reference.
 
 |Category|Site names|Description|Ref.Video|
 |---|---|---|---|
