@@ -16,7 +16,7 @@
 |YEAR|Semester I|Semester II|Simple APPs [⏰](https://time-stuff.com/embed.html) & AI tools|
 |---|---|---|---|    
 |2024|[Spring](https://github.com/MK316/S2024/blob/main/README.md)|---|
-|2023|📒[Spring](https://github.com/MK316/Spring2023/blob/main/README.md)|📘[Fall](https://github.com/MK316/Fall2023/blob/main/README.md)|[link](https://github.com/MK316/Myapps/blob/main/README.md), [AI tools asof Nov.30](aitools.md)|   
+|2023|📒[Spring](https://github.com/MK316/Spring2023/blob/main/README.md)|📘[Fall](https://github.com/MK316/Fall2023/blob/main/README.md)|[Classtools](https://github.com/MK316/Myapps/blob/main/README.md), [AI tools asof Nov.30](aitools.md)|   
 |2022|📒[Spring](/res/teaching.md)| 📘[Fall](/res/teaching.md)||     
 
 
