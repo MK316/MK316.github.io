@@ -25,7 +25,7 @@
 
 | Date | Topics | Hosted by (Location)|
 |------|-------|-----------|
-| 🐳 From 2022 to Present | Digital Literacy in language education | [Go to recent Workshops]((https://github.com/MK316/workshops/blob/main/README.md)) |  
+| 🐳 From 2022 to Present | Digital Literacy in language education | [Go to recent Workshops](https://github.com/MK316/workshops/blob/main/README.md) |  
 | Before 2022| Special Topics in English linguistics | Dept. of English Education at Hufs |
 | | R workshop | PKETA |  
 | | Special Topics in English linguistics | Dept. of English Education at Hanyang University |
