@@ -1,8 +1,8 @@
 ## 🎓 M. KIM (Ph.D. in Linguistics)
 
-### 💦 [Publications](https://github.com/MK316/MK316.github.io/blob/main/res/publications.md)
+### ◲ [Publications](https://github.com/MK316/MK316.github.io/blob/main/res/publications.md)
 
-### 💦 Academic Background:
+### ◲ Academic Background:
 
 | YEAR | Program | Affiliation |
 |------|---------|-------------|
@@ -22,7 +22,6 @@
 |2012.3 ~ 2.16.2.28 | Lecturer | at Korea University, Hanyang University, City University of Seoul, Hankook University of Foreign Studies, Sungshin Women's University, Sookmyeong Women's University | 
  
 ### ◲ Invited talks/lectures at Academic Workshops 
-
 
 | Date | Topics | Hosted by (Location)|
 |------|-------|-----------|
