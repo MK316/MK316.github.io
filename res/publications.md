@@ -3,7 +3,7 @@
 
 ![Example Image](https://github.com/MK316/MK316.github.io/blob/main/images/KeywordCloud_231129.png)
 
-|📖 **Articles published**|📎 pdf|
+|**Articles published**|📎 pdf|
 |:---|---|
 | Kim, Miran & Junkyu Lee (2023). Assessing English Major Students' Perceptions of Digital Literacy Training. _English Language Teaching 35_(3), 85-105.|[link](https://pketa.jams.or.kr/po/volisse/sjPubsArtiPopView.kci?soceId=INS000001975&artiId=SJ0000001418&sereId=SER000000001&submCnt=1)|
 | Kim, Miran & Hosung Nam (2023). A course design for digital literacy training for prospective English teachers. _Studies in Foreign Language Education 37_(3), 27-48.  | [link](https://ifle.jams.or.kr/po/volisse/sjPubsArtiPopView.kci?soceId=INS000005061&artiId=SJ0000001291&sereId=SER000000001&submCnt=1)|  
