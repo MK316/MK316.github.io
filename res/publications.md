@@ -1,8 +1,6 @@
 ## 💦 Publications
 
 
-![Example Image](https://github.com/MK316/MK316.github.io/blob/main/images/KeywordCloud_231129.png)
-
 |**Articles published**|📎 pdf|
 |:---|---|
 | Kim, Miran & Junkyu Lee (2023). Assessing English Major Students' Perceptions of Digital Literacy Training. _English Language Teaching 35_(3), 85-105.|[link](https://pketa.jams.or.kr/po/volisse/sjPubsArtiPopView.kci?soceId=INS000001975&artiId=SJ0000001418&sereId=SER000000001&submCnt=1)|
