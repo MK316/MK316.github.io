@@ -20,7 +20,7 @@
 |Kim, Miran (2015). Segmental interpretation of suprasegmental properties in non-native phoneme perception. _Phonetics & Speech Sciences 7(3),_ 117-128.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002036419)|
 | 김미란·최재웅·홍정하 (2014). 한국어 초성-중성 결합의 분포적 특성 및 모음의 군집분석 연구. _음성,음운,형태론 연구 20(1)_, 23-49.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001868835)|
 |김미란·강현주·노주현 (2014). 학습자의 발화 속도 변이 연구: 일본인과 중국인 한국어 학습자와 한국어 모어 화자 비교. _한국어학 63_, 103-132.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001875987)|
-|김미란·임창국 (2014). 문중/문말 '-요'에 대한 음성적 특성 연구. _언어정보 18_, 27-50.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001859145)|
+|김미란·임창국 (2014). 문중/문말 '-요'에 대한 음성적 특성 연구. _언어정보, 18_, 27-50.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001859145)|
 |Miran Kim & Lori Repetti (2013). Bitonal pitch accent and phonological alignment in Sardinian. _Probus 25(2)_, 267-300.|[link](https://www.sunysb.edu/commcms/linguistics/faculty/lori.repetti/files/Kim%20and%20Repetti%202013.pdf)|
 |김미란·남호성 (2012). 동시발화에 나타나는 발화 속도 변이 분석(Synchronous speech and speech rate). _말소리와 음성과학 4(4)_, 19-27.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001722548)|
 |김미란·신동현·최재웅·김기호 (2000). 초점과 관련된 한국어 의문문 억양 패턴 실험. _음성과학 7(4)_, 203~217.|[link](https://koreascience.kr/article/JAKO200015637240334.page)|
