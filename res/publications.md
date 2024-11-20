@@ -2,7 +2,7 @@
 
 
 |**Articles published**|📎 pdf|
-|---:|:---|
+|:---|:---|
 | Jung, W. & M. Kim (2024, to appear; Nov.30). Register-Specific Variations in GET-Passives: Comparing Written and Spoken English. _Language and Information Society 53_, OO~OO. |[link]|
 | Kim, M. & J. Lee (2024, to appear; Nov.30). Bridging Digital Skills and Teaching Aspirations: A Study of Prospective English Teachers. _Secondary English Education 17_(6), OO~OO.|[link]|
 | Kim, M. (2024, to appear; Dec.31). Efficacy of Explicit Pronunciation Training: Perspectives of Pre-Service English Teachers. _Studies in Foreign Language Education 38_(4), 1~24.|[link]|
