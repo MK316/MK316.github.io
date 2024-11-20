@@ -3,13 +3,13 @@
 
 |**Articles published**|📎 pdf|
 |:---|---|
-| Jung, W. & M. Kim (2024, to appear; Nov.30). Register-Specific Variations in GET-Passives: Comparing Written and Spoken English. _Language and Information Society 53_, OO-OO. |[link]|
-| Kim, M. & J. Lee (2024, to appear; Nov.30). Bridging Digital Skills and Teaching Aspirations: A Study of Prospective English Teachers. _Secondary English Education 17_(6), OO-OO.|[link]|
-| Kim, M. (2024, to appear; Dec.31). Efficacy of Explicit Pronunciation Training: Perspectives of Pre-Service English Teachers. _Studies in Foreign Language Education 38_(4), 1-24.|[link]|
-| Kim, M. (2023). Digital enhancement of pronunciation assessment: a comparative study of ASR technology and human raters. _Phonetics and Speech Sciences 15_(2),13-20.  | [link](https://www.eksss.org/archive/view_article?pid=pss-15-2-13)|  
-| Kim, M & J. Lee (2023). Assessing English Major Students' Perceptions of Digital Literacy Training. _English Language Teaching 35_(3), 85-105.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003003632)|
-| Kim, M. & H. Nam (2023). A course design for digital literacy training for prospective English teachers. _Studies in Foreign Language Education 37_(3), 27-48.  | [link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002989805)|  
-| 김미란 (2022). 대학수학능력시험 영어 독해지문의 어휘다양성 및 가독성 분석. _외국어교육연구 36_(4), 71-90.  | [link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002898744#none)|  
+| Jung, W. & M. Kim (2024, to appear; Nov.30). Register-Specific Variations in GET-Passives: Comparing Written and Spoken English. _Language and Information Society 53_, OO~OO. |[link]|
+| Kim, M. & J. Lee (2024, to appear; Nov.30). Bridging Digital Skills and Teaching Aspirations: A Study of Prospective English Teachers. _Secondary English Education 17_(6), OO~OO.|[link]|
+| Kim, M. (2024, to appear; Dec.31). Efficacy of Explicit Pronunciation Training: Perspectives of Pre-Service English Teachers. _Studies in Foreign Language Education 38_(4), 1~24.|[link]|
+| Kim, M. (2023). Digital enhancement of pronunciation assessment: a comparative study of ASR technology and human raters. _Phonetics and Speech Sciences 15_(2),13~20.  | [link](https://www.eksss.org/archive/view_article?pid=pss-15-2-13)|  
+| Kim, M & J. Lee (2023). Assessing English Major Students' Perceptions of Digital Literacy Training. _English Language Teaching 35_(3), 85~105.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003003632)|
+| Kim, M. & H. Nam (2023). A course design for digital literacy training for prospective English teachers. _Studies in Foreign Language Education 37_(3), 27~48.  | [link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002989805)|  
+| 김미란 (2022). 대학수학능력시험 영어 독해지문의 어휘다양성 및 가독성 분석. _외국어교육연구 36_(4), 71~90.  | [link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002898744#none)|  
 | 김미란 (2020). 영어학습자 발음의 리듬향상과 관련된 언어요인 연구. _외국어교육연구 34_(1), 237~261. |[link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002561221)|
 | 문재현·김미란 (2018). 탈어휘 동사 get의 구문과 의미 유형별 빈도: 교과서 듣기지문과 구어자료 비교. _언어와정보사회 34_, 59~86.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002372663)|
 |김미란 (2018). 구어 강연 자료에서의 {-ly}형 부사 + 형용사 사용 빈도 연구. _외국어교육연구 32_(1), 109~138.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002317721)|
