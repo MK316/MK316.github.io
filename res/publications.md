@@ -4,7 +4,7 @@
 |**Articles published**|📎 pdf|
 |:---|---|
 | Kim, Miran & Junkyu Lee (2024, to appear). Bridging Digital Skills and Teaching Aspirations: A Study of Prospective English Teachers. _Secondary English Education 17_(6), OO-OO.|[link]|
-| Kim, Miran (2024, to appear). Efficacy of Explicit Pronunciation Training: Perspectives of Pre-Service English Teachers. _Studies in Foreign Language Education 38_(4), OO-OO.|[link]|
+| Kim, Miran (2024, to appear). Efficacy of Explicit Pronunciation Training: Perspectives of Pre-Service English Teachers. _Studies in Foreign Language Education 38_(4), 1-24.|[link]|
 | Kim, Miran (2023). Digital enhancement of pronunciation assessment: a comparative study of ASR technology and human raters. _Phonetics and Speech Sciences 15(2)_,13-20.  | [link](https://www.eksss.org/archive/view_article?pid=pss-15-2-13)|  
 | Kim, Miran & Junkyu Lee (2023). Assessing English Major Students' Perceptions of Digital Literacy Training. _English Language Teaching 35_(3), 85-105.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003003632)|
 | Kim, Miran & Hosung Nam (2023). A course design for digital literacy training for prospective English teachers. _Studies in Foreign Language Education 37_(3), 27-48.  | [link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002989805)|  
