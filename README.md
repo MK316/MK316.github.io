@@ -3,7 +3,7 @@
 
 ### Weblog: _Learn Python coding for language research and education_  
 --- 
-![](https://github.com/MK316/MK-316/blob/main/images/octocat-2-line.png)
+![](https://github.com/MK316/MK-316/raw/main/images/octocat-2-line.png)
 
 ## 🌱 **Goto: [Digital classroom](https://mk316home.streamlit.app/About_My_Digital_Classroom)**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _Bring coding to my classroom_  
