@@ -13,7 +13,7 @@
   it can seem as mysterious and wondrous as magic to those who encounter it. 
 ~~~
 
-## 🌱 **TEACHING: [Digital classroom](https://mk316home.streamlit.app/About_My_Digital_Classroom)**   
+## 🌱 **Goto: [Digital classroom](https://mk316home.streamlit.app/About_My_Digital_Classroom)**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _Bring coding to my classroom_  
 
 
