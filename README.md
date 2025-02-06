@@ -15,12 +15,8 @@
 
 ## 🌱 **TEACHING: Digital classroom**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _Bring coding to my classroom_  
+[Goto my digital classroom](https://mk316home.streamlit.app/About_My_Digital_Classroom)
 
-|YEAR|Semester I|Semester II|Simple APPs [⏰](https://time-stuff.com/embed.html) & AI tools|
-|---|---|---|---|    
-|2024|📒[Spring](https://github.com/MK316/S2024/blob/main/README.md)|---|[Goto App Hub](https://mrkim21.github.io)|
-|2023|📒[Spring](https://github.com/MK316/Spring2023/blob/main/README.md)|📘[Fall](https://github.com/MK316/Fall2023/blob/main/README.md)|[Classtools](https://github.com/MK316/Myapps/blob/main/README.md), [AI tools asof Nov.30](aitools.md)|   
-|2022|📒[Spring](/res/teaching.md)| 📘[Fall](/res/teaching.md)||     
 
 
 
