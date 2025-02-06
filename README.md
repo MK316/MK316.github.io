@@ -20,4 +20,4 @@
 
 ---
    ࿐*ೃ 𝒯𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓈𝒾𝓁𝑒𝓃𝒸𝑒. ೃ*࿐. 
-💜🎗️ _Nov 25, 2023 (Last updated)_ 🚫NJ: _"There is no future for those who forget history."_   
+💜🎗️ _Feb 6, 2025 (Last updated)_ 🚫NJ: _"There is no future for those who forget history."_   
