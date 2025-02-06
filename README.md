@@ -3,15 +3,7 @@
 
 ### Weblog: _Learn Python coding for language research and education_  
 --- 
-~~~
-(Feb.2024) What's new? I'm building my Application Hub. This is web-based, so it's easy to access:
-[Website] https://mrkim21.github.io
-
-(Nov.2023) MK316's Quote of the month:
-"Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke, a renowned science fiction author
-: When technology reaches a level of complexity and sophistication beyond our current understanding,
-  it can seem as mysterious and wondrous as magic to those who encounter it. 
-~~~
+![](https://github.com/MK316/MK-316/blob/main/images/octocat-2-line.png)
 
 ## 🌱 **Goto: [Digital classroom](https://mk316home.streamlit.app/About_My_Digital_Classroom)**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _Bring coding to my classroom_  
