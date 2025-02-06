@@ -15,8 +15,6 @@
 
 ## 🌱 **TEACHING: [Digital classroom](https://mk316home.streamlit.app/About_My_Digital_Classroom)**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _Bring coding to my classroom_  
-[Goto my digital classroom](https://mk316home.streamlit.app/About_My_Digital_Classroom)
-
 
 
 
