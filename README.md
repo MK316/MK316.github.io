@@ -12,7 +12,7 @@ This webpage serves as a hub for my digital classroom, providing access to inter
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _Bring coding to my classroom_  
 
 ### 💦 [TCExam application](https://mk316home.streamlit.app/Apps:_%F0%9F%94%B4_TCExam)
-The TCExam application provides an up-to-date database of teacher certification exams focused on the linguistics section, specifically phonetics and phonology. Users can easily search and review relevant exam content to support their preparation and study.
+The TCExam application provides an up-to-date database of teacher certification exams focused on the linguistics section, specifically **phonetics and phonology**. Users can easily search and review relevant exam content to support their preparation and study.
 
 
 
