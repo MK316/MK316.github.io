@@ -9,7 +9,7 @@ This webpage serves as a hub for my digital classroom, providing access to inter
 #### 💦 [Digital classroom](https://mk316home.streamlit.app/About_My_Digital_Classroom)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _Bring coding to my classroom._ Class materials, customized language learning applications, etc. 
 
-#### 💦 Applications
+#### 💦 Applications (direct links)
 + **[TCExam application](https://mk316home.streamlit.app/Apps:_%F0%9F%94%B4_TCExam)**: The TCExam application provides an up-to-date database of teacher certification exams focused on the linguistics section, specifically **phonetics and phonology**. Users can easily search and review relevant exam content to support their preparation and study.
 + **[Class apps](https://mk316home.streamlit.app/Apps:_%E2%9A%AA_Classroom)**: This suite of classroom tools includes a QR code generator for sharing links and applications, a timer for managing activities, a grouping tool for organizing students using a roster, and a word cloud generator for visualizing key terms. These applications are designed to enhance engagement and efficiency in class.
 
