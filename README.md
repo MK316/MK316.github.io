@@ -8,7 +8,7 @@ This webpage serves as a hub for my digital classroom, providing access to inter
 
 #### 💦 [Digital classroom](https://mk316home.streamlit.app/About_My_Digital_Classroom)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _Bring coding to my classroom._ Class materials, customized language learning applications, etc. 
-##### Spring 2025 (direct links)
+##### 📙 Courses offered in Spring 2025 (direct links)
 |Subject|Level|Meetings|Digital Classroom links|
 |--|--|--|--|
 |English Pronunciation|UG(1)|Tue&Thur|[Goto](https://engpro-class.streamlit.app)|
