@@ -4,7 +4,7 @@
 ### _Learn Python coding for language research and education_  
 ![](https://github.com/MK316/MK-316/raw/main/images/octocat-2-line.png)
 #### 💦 1. [App Gallery Main Home](https://mk316home.streamlit.app/) [https://mk316home.streamlit.app]
-This webpage serves as a hub for my digital classroom, providing access to interactive applications designed for my courses and learner practice. Built with Gradio and Streamlit, it offers tools tailored to enhance English education, phonetics, and digital literacy. Here, students can explore course-specific applications, engage in hands-on practice, and access valuable learning resources.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: This webpage serves as a hub for my digital classroom, providing access to interactive applications designed for my courses and learner practice. Built with Gradio and Streamlit, it offers tools tailored to enhance English education, phonetics, and digital literacy. Here, students can explore course-specific applications, engage in hands-on practice, and access valuable learning resources.
 
 #### 💦 2. [Digital classroom](https://mk316home.streamlit.app/About_My_Digital_Classroom)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _Bring coding to my classroom._ Class materials, customized language learning applications, etc. 
