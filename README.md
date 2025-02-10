@@ -11,7 +11,7 @@ This webpage serves as a hub for my digital classroom, providing access to inter
 ##### Spring 2025 (direct links)
 |Subject|Level|Meetings|Digital Classroom links|
 |--|--|--|--|
-|Engpro|UG(1)|Tue&Thur|[Goto](https://engpro-class.streamlit.app)|
+|English Pronunciation|UG(1)|Tue&Thur|[Goto](https://engpro-class.streamlit.app)|
 |Digital Literacy|UG(2)|Mon&Wed|[Goto](https://dlclass.streamlit.app/)|
 |Phonology|Grad|Thursdays|[Goto](https://acoustics.streamlit.app/)|
 #### 💦 Applications (Selected: direct links)
