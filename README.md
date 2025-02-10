@@ -10,11 +10,11 @@ This webpage serves as a hub for my digital classroom, providing access to inter
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _Bring coding to my classroom._ Class materials, customized language learning applications, etc. 
 ##### 📙 Courses offered in Spring 2025 (direct links)
 
-|Courses|Level|Meetings|Digital Classroom links|
-|--|--|--|--|
-|English Pronunciation|UG(1)|Tue&Thur| ➡️[Goto](https://engpro-class.streamlit.app)|
-|Digital Literacy|UG(2)|Mon&Wed| ➡️[Goto](https://dlclass.streamlit.app/)|
-|Phonology|Grad|Thursdays| ➡️[Goto](https://acoustics.streamlit.app/)|
+|Courses|Level|Meetings|Digital Classroom links|  
+|--|--|--|--|  
+|English Pronunciation|UG(1)|Tue&Thur| ➡️[Goto](https://engpro-class.streamlit.app)|  
+|Digital Literacy|UG(2)|Mon&Wed| ➡️[Goto](https://dlclass.streamlit.app/)|  
+|Phonology|Grad|Thursdays| ➡️[Goto](https://acoustics.streamlit.app/)|  
 
 #### 💦 Applications (Selected: direct links)
 + **[TCExam application](https://mk316home.streamlit.app/Apps:_%F0%9F%94%B4_TCExam)**: The TCExam application provides an up-to-date database of teacher certification exams focused on the linguistics section, specifically **phonetics and phonology**. Users can easily search and review relevant exam content to support their preparation and study.
