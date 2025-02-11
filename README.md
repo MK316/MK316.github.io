@@ -11,7 +11,7 @@
 
 |Courses|Level|Meetings|Digital Classroom links|  
 |--|--|--|--|  
-|English Pronunciation|UG(1)|Tue&Thur| ➡️[Goto](https://engpro-class.streamlit.app)|  
+|English Pronunciation|UG(1)|Tue&Thur| ➡️[Goto](https://engproclassroom.streamlit.app/)|  
 |Digital Literacy|UG(2)|Mon&Wed| ➡️[Goto](https://dlclass.streamlit.app/)|  
 |Phonology|Grad|Thursdays| ➡️[Goto](https://acoustics.streamlit.app/)|  
 
