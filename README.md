@@ -12,9 +12,9 @@
 
 |Courses|Level|Meetings|Digital Classroom links|  
 |--|--|--|--|  
-|English Pronunciation|UG(1)|Tue&Thur| ➡️ [Goto](https://engproclassroom.streamlit.app/)|  
-|Digital Literacy|UG(2)|Mon&Wed| ➡️ [Goto](https://dlclass.streamlit.app/)|  
-|Phonology|Grad|Thursdays| ➡️ [Goto](https://acoustics.streamlit.app/)|  
+|English Pronunciation|UG(1)|Tue&Thur| ➡️ [ENTER](https://engproclassroom.streamlit.app/)|  
+|Digital Literacy|UG(2)|Mon&Wed| ➡️ [ENTER](https://dlclass.streamlit.app/)|  
+|Phonology|Grad|Thursdays| ➡️ [ENTER](https://acoustics.streamlit.app/)|  
 
 #### 💦 3. Research (To be linked soon)
 : _Coding for research_
