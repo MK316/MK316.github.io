@@ -17,6 +17,7 @@
 |Phonology|Grad|Thursdays| ➡️ [ENTER](https://acoustics.streamlit.app/)|  
 
 #### 💦 2. [Apps4U](https://apps4u.streamlit.app/)
+_Since Mar.11, 2025_   
 : App4U provides tailored learning tools for GNU senior English education majors, focusing on phonetics, phonology, and Teacher Certificate exam prep. Regular updates and user feedback help improve interactive resources and study aids for better learning and exam success.
 
 #### 💦 3. Research (To be linked soon)
