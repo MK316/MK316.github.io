@@ -9,7 +9,7 @@
 
 #### 💦 1. [Digital classroom](https://mk316home.streamlit.app/About_My_Digital_Classroom) 🔗  
 : _Bring coding to my classroom._ Customized learning apps
-#### 📒 Courses offered in Spring 2025 ([Access through QR here](https://github.com/MK316/MK316.github.io/blob/main/QRlink.md))
+#### 📒 Spring 2025 ([Access through QR here](https://github.com/MK316/MK316.github.io/blob/main/QRlink.md))
 
 |Courses|Level|Meetings|Digital Classroom links|  
 |--|--|--|--|  
