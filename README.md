@@ -17,9 +17,10 @@
 |Digital Literacy|UG(2)|Mon&Wed| ➡️ [ENTER](https://dlclass.streamlit.app/)|  
 |Phonology|Grad|Thursdays| ➡️ [ENTER](https://acoustics.streamlit.app/)|  
 
-#### 💦 2. [Apps4U](https://apps4u.streamlit.app/)
-_Since Mar.11, 2025_   
-: App4U provides tailored learning tools for GNU senior English education majors, focusing on phonetics, phonology, and Teacher Certificate exam prep.
+#### 💦 2. [Apps4U](https://apps4u.streamlit.app/)  
+
+  
+: App4U provides tailored learning tools for GNU senior English education majors, focusing on phonetics, phonology, and Teacher Certificate exam prep. (_Since Mar.11, 2025_ )
 
 #### 💦 3. Research (To be linked soon)
 : _Coding for research_
