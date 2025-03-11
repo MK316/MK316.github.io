@@ -4,6 +4,7 @@
 ### _Learn Python coding for language research and education_  
 ![](https://github.com/MK316/MK-316/raw/main/images/octocat-2-line.png)
 
+
 : This webpage serves as a hub for my digital classroom, providing access to interactive applications designed for my courses and learner practice. Built with Gradio and Streamlit, it offers tools tailored to enhance English education, phonetics, and digital literacy. 
 
 #### 💦 1. [Digital classroom](https://mk316home.streamlit.app/About_My_Digital_Classroom) 🔗  
@@ -18,7 +19,7 @@
 
 #### 💦 2. [Apps4U](https://apps4u.streamlit.app/)
 _Since Mar.11, 2025_   
-: App4U provides tailored learning tools for GNU senior English education majors, focusing on phonetics, phonology, and Teacher Certificate exam prep. Regular updates and user feedback help improve interactive resources and study aids for better learning and exam success.
+: App4U provides tailored learning tools for GNU senior English education majors, focusing on phonetics, phonology, and Teacher Certificate exam prep.
 
 #### 💦 3. Research (To be linked soon)
 : _Coding for research_
