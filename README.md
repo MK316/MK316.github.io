@@ -27,7 +27,7 @@
 #### 💦 3. [Workshops & Invited talks](https://github.com/MK316/workshops/blob/main/README.md)
 : _Coding for education_
 
-⌛ Upcoming schedule: [Workshop at Chemistry Education]((https://gnu-chemistry.streamlit.app/)) (19~22PM, 2025.3.14)
+⌛ Upcoming schedule: [Workshop at Chemistry Education](https://gnu-chemistry.streamlit.app/) (19~22PM, 2025.3.14)
 
 
 #### 💦 4. Research applications  
