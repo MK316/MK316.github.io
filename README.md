@@ -26,8 +26,8 @@
 
 #### 💦 3. [Scheduled Workshop](https://gnu-chemistry.streamlit.app/)
 : _Coding for education_
-
-+ Workshop at Chemistry Education (19~22PM, 2025.3.14)
++ [Workshops archives](https://github.com/MK316/workshops/blob/main/README.md)
++ Current: Workshop at Chemistry Education (19~22PM, 2025.3.14)
 
 #### 💦 4. Research applications  
 
