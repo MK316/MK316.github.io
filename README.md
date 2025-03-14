@@ -9,6 +9,7 @@
 
 #### 💦 1. [Digital classroom](https://mk316home.streamlit.app/About_My_Digital_Classroom) 🔗  
 : _Bring coding to my classroom._ Customized learning apps
+
 #### 📒 Spring 2025 ([Access through QR here](https://github.com/MK316/MK316.github.io/blob/main/QRlink.md))
 
 |Courses|Level|Meetings|Digital Classroom links|  
@@ -19,9 +20,8 @@
 
 #### 💦 2. [Apps4U](https://apps4u.streamlit.app)
 
-  
-: Apps4U provides tailored learning tools for GNU senior English education majors, focusing on phonetics, phonology, and Teacher Certificate exam prep. (_Since Mar.11, 2025_ )
 
+: Apps4U provides tailored learning tools for GNU senior English education majors, focusing on phonetics, phonology, and Teacher Certificate exam prep. (_Since Mar.11, 2025_ )
 
 
 #### 💦 3. [Workshops & Invited talks](https://github.com/MK316/workshops/blob/main/README.md)
@@ -29,9 +29,11 @@
 
 + [Upcoming](https://gnu-chemistry.streamlit.app/): Workshop at Chemistry Education (19~22PM, 2025.3.14)
 
-#### 💦 4. Research applications  
 
-: _To be linked_
+#### 💦 4. Research applications  
+: _to be linked_
+
+
 ---
 💜🎗️ _Feb 6, 2025 (Last updated)_  
 🚫NJ: _"There is no future for those who forget history."_   
