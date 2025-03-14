@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=MK316&color=blueviolet&label=VISIT+count) _Since May 15, 2022_  
   
+[Link 0314](https://github.com/MK316/MK316.github.io/blob/main/samplecode.md)
 
 ### _Learn Python coding for language research and education_  
 ![](https://github.com/MK316/MK-316/raw/main/images/octocat-2-line.png)
