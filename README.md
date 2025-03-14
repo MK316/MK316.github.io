@@ -24,9 +24,10 @@
 
 🔍 [Web link](https://apps4u.streamlit.app)
 
-#### 💦 3. Research (To be linked soon)
-: _Coding for research_
+#### 💦 3. [Scheduled Workshop](https://gnu-chemistry.streamlit.app/)
+: _Coding for education_
 
++ Workshop at Chemistry Education (19~22PM, 2025.3.14)
 
 
 
