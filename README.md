@@ -36,5 +36,5 @@
 
 
 ---
-💜🎗️ _Feb 6, 2025 (Last updated)_  
+[💜](https://github.com/MK316/APP4U/blob/main/data/Gradio_appcode.ipynb)🎗️ _Feb 6, 2025 (Last updated)_  
 🚫NJ: _"There is no future for those who forget history."_   
