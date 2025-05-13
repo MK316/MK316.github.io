@@ -34,6 +34,9 @@
 #### 💦 4. Research applications  
 : _to be linked_
 
+|Date updated|Keywords|Link|
+|--|--|--|
+|25.05.13| Simple text process for write-ups|[APP link](https://researchapps.streamlit.app/)|
 
 ---
 [💜](https://github.com/MK316/APP4U/blob/main/data/Gradio_appcode.ipynb)🎗️ _Apr 6, 2025 (Last updated)_  
