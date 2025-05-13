@@ -24,7 +24,7 @@
 
 : Apps4U provides tailored learning tools for GNU senior English education majors, focusing on phonetics, phonology, and Teacher Certificate exam prep. (_Since Mar.11, 2025_ )
 
-+ [TCE exam searching engine](https://apps4u.streamlit.app/APP:_TCE_Searching): Teachers' Exam Prep (Searcheable Phonetics & Phonology exam questions, upto 2025)
++ [TCE exam searching engine](https://apps4u.streamlit.app/APP:_TCE_Searching): Teacher Certificate Exam Prep (Searcheable Phonetics & Phonology exam questions, upto 2025)
 
 #### 💦 3. [Workshops & Invited talks](https://github.com/MK316/workshops/blob/main/README.md)
 : _Coding for Teaching_
