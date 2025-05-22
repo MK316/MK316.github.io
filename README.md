@@ -15,9 +15,9 @@
 
 |Courses|Meetings|Digital Classroom links|  
 |--|--|--|  
-|English Pronunciation<br>UG(1)|Tue&Thur| ➡️ [ENTER](https://engproclassroom.streamlit.app/)|  
-|Digital Literacy<br>UG(2)|Mon&Wed| ➡️ [ENTER](https://dlclass.streamlit.app/)|  
-|Phonology<br>Grad|Thursdays| ➡️ [ENTER](https://acoustics.streamlit.app/)|  
+|English Pronunciation<br>UG(1)|Tu&Th| ➡️ [ENTER](https://engproclassroom.streamlit.app/)|  
+|Digital Literacy<br>UG(2)|M&W| ➡️ [ENTER](https://dlclass.streamlit.app/)|  
+|Phonology<br>Grad|Th| ➡️ [ENTER](https://acoustics.streamlit.app/)|  
 
 #### 💦 2. [Apps4U](https://apps4u.streamlit.app)
 
