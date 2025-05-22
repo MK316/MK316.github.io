@@ -13,11 +13,11 @@
 
 #### 📒 Spring 2025 ([Access through QR here](https://github.com/MK316/MK316.github.io/blob/main/QRlink.md))
 
-|Courses|Level|Meetings|Digital Classroom links|  
-|--|--|--|--|  
-|English Pronunciation|UG(1)|Tue&Thur| ➡️ [ENTER](https://engproclassroom.streamlit.app/)|  
-|Digital Literacy|UG(2)|Mon&Wed| ➡️ [ENTER](https://dlclass.streamlit.app/)|  
-|Phonology|Grad|Thursdays| ➡️ [ENTER](https://acoustics.streamlit.app/)|  
+|Courses|Meetings|Digital Classroom links|  
+|--|--|--|  
+|English Pronunciation<br>UG(1)|Tue&Thur| ➡️ [ENTER](https://engproclassroom.streamlit.app/)|  
+|Digital Literacy<br>UG(2)|Mon&Wed| ➡️ [ENTER](https://dlclass.streamlit.app/)|  
+|Phonology<br>Grad|Thursdays| ➡️ [ENTER](https://acoustics.streamlit.app/)|  
 
 #### 💦 2. [Apps4U](https://apps4u.streamlit.app)
 
