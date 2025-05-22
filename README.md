@@ -13,7 +13,7 @@
 
 #### 📒 Spring 2025 ([Access through QR here](https://github.com/MK316/MK316.github.io/blob/main/QRlink.md))
 
-|Courses|Meetings|Digital Classroom links|  
+|Courses|Meetings|APPs|  
 |--|--|--|  
 |English Pronunciation<br>UG(1)|Tu&Th| ➡️ [ENTER](https://engproclassroom.streamlit.app/)|  
 |Digital Literacy<br>UG(2)|M&W| ➡️ [ENTER](https://dlclass.streamlit.app/)|  
