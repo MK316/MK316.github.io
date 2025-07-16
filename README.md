@@ -12,12 +12,12 @@
 
 #### 📒 Upcoming: Fall 2025 (In Preparation)
 
-|Courses|Meetings|APPs|  
-|--|--|--|  
-|English Phonetics<br>UG(2)|Tu&Th| ➡️ [ENTER](https://englishphonetics.streamlit.app/)|  
-|English Phonology<br>UG(3)|T&Th| ➡️ [ENTER](https://englishphonology.streamlit.app/)|  
-|English Linguistics<br>UG(4)|Wed| ➡️ [ENTER](https://englishlinguistics.streamlit.app/)| 
-|Phonology and English Education<br>Grad|Th| ➡️ [ENTER](https://engedu.streamlit.app/)|  
+|Courses|Levels|Meetings|APPs|  
+|--|--|--|--|  
+|English Phonetics|UG(2)|Tu&Th| ➡️ [ENTER](https://englishphonetics.streamlit.app/)|  
+|English Phonology|UG(3)|T&Th| ➡️ [ENTER](https://englishphonology.streamlit.app/)|  
+|English Linguistics|UG(4)|Wed| ➡️ [ENTER](https://englishlinguistics.streamlit.app/)| 
+|Phonology and English Education|Grad|Th| ➡️ [ENTER](https://engedu.streamlit.app/)|  
 
 #### 💦 2. [Apps4U](https://apps4u.streamlit.app)
 
