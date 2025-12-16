@@ -10,7 +10,7 @@
 #### 💦 1. [Digital classroom archives](https://mk316home.streamlit.app/About_My_Digital_Classroom) 🔗  
 : _Bring coding to my classroom._ Customized learning apps
 
-#### 📒 Upcoming: Fall 2025 (In Preparation)
+#### 📒 Current: Fall 2025 Courses
 
 |Courses|Levels|Meetings|APPs|  
 |--|--|--|--|  
