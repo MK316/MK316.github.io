@@ -7,7 +7,7 @@
 
 : This site serves as a hub for my digital classroom, providing access to interactive applications designed for my courses and learner practice. Built with Gradio and Streamlit, it offers tools tailored to enhance English education, phonetics, and digital literacy. 
 
-#### 💦 1. [Digital classroom archives](https://mk316home.streamlit.app/About_My_Digital_Classroom) 🔗  
+#### 💦 1. [Goto Digital classroom archives](https://mk316home.streamlit.app/About_My_Digital_Classroom) 🔗  
 : _Bring coding to my classroom._ Customized learning apps
 
 #### 📒 Current: Spring 2026 Courses (To be updated)
