@@ -29,7 +29,7 @@
 #### 💦 3. [Workshops & Invited talks](https://github.com/MK316/workshops/blob/main/README.md)
 : _Coding for Teaching_
 
-⌛ Most Recent: [Workshop at Chemistry Education](https://gnu-chemistry.streamlit.app/) (19~22PM, 2025.3.14)  
+⌛ Most Recent: Streamlit Workshop (Humanities at GNU; 3PM~5PM, 2026.1.12)  
 ⌛ Archives: [Workshops & Invited talks](https://github.com/MK316/workshops/blob/main/README.md)
 
 
