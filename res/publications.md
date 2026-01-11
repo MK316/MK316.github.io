@@ -3,6 +3,8 @@
 
 |**Articles published (& To Appear)**|📎 pdf|
 |:---|:---|
+| Kim, M. (2025a). Beyond Consumption: Cultivating Digital Tool-Making Confidence Among Pre-Service Secondary English Teachers in Korea. _STEM 26_(3), 39~56.|[link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003236590)|
+| Kim, M. (2025b). Integrating Streamlit into English teacher education: Pedagogical possibilities and practice. _Studies in Foreign Language Education 39_(1), 1~25.|[link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003236406)|
 | Kim, M. & J. Lee (2024). Bridging Digital Skills and Teaching Aspirations: A Study of Prospective English Teachers. _Secondary English Education 17_(6), 23~42.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003147570)|
 | Kim, M. (2024). Efficacy of Explicit Pronunciation Training: Perspectives of Pre-Service English Teachers. _Studies in Foreign Language Education 38_(4), 1~24.|[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003140120)|
 | Jung, W. & M. Kim (2024). Register-Specific Variations in GET-Passives: Comparing Written and Spoken English. _Language and Information Society 53_, 261~288. |[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003143994)|
