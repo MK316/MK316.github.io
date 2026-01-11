@@ -13,9 +13,9 @@
 #### 📒 Current: Spring 2026 Courses (To be updated)
 
 |Courses|Levels|Meetings|APPs|  
-|--|--|--|--|  
-|English Phonetics|UG(2)|Mon&Th| ➡️ [TBU]|  
-|English Pronunciation|UG(1)|T&Th| ➡️ [TBU]|  
+|--|--|--|--|
+|English Pronunciation|UG(1st)|T&Th| ➡️ [TBU]|  
+|English Phonetics|UG(2nd)|Mon&Th| ➡️ [TBU]|  
 |Applied Linguistics|GRAD|Wed| ➡️ [TBU]| 
 
 
