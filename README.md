@@ -12,9 +12,9 @@
 
 #### 📒 Current: Spring 2026 Courses (To be updated)
 
-|Courses|Levels|Meetings|APPs|  
+|Courses|Levels|Meetings|Digital Classroom|  
 |--|--|--|--|
-|English Pronunciation|UG(1st)|T&Th| ➡️ [Digital classroom](https://engproclassroom.streamlit.app/)|  
+|English Pronunciation|UG(1st)|T&Th| ➡️ [Enter](https://engproclassroom.streamlit.app/)|  
 |English Phonetics|UG(2nd)|Mon&Th| ➡️ [TBU]|  
 |Applied Linguistics|GRAD|Wed| ➡️ [TBU]| 
 
