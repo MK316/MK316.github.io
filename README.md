@@ -15,7 +15,7 @@
 |Courses|Levels|Meetings|Digital Classroom|  
 |--|--|--|--|
 |English Pronunciation|UG(1st)|T&Th| ➡️ [Enter](https://engproclassroom.streamlit.app/)|  
-|English Phonetics|UG(2nd)|Mon&Th| ➡️ [TBU]|  
+|English Phonetics|UG(2nd)|Mon&Th| ➡️ [Enter](https://englishphonetics.streamlit.app/)|  
 |Applied Linguistics|GRAD|Wed| ➡️ [TBU]| 
 
 
