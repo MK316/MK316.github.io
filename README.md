@@ -22,7 +22,7 @@
 #### 💦 2. [Apps4U](https://apps4u.streamlit.app)
 
 
-: Apps4U provides tailored learning tools for GNU senior English education majors, focusing on phonetics, phonology, and Teacher Certificate exam prep. (_Since Mar.11, 2025_ )
+: Apps4U provides tailored learning tools for GNU senior English education majors, focusing on linguistics for Teacher Certificate exam prep. (_Since Mar.11, 2025_ )
 
 + [TCE exam searching app](https://apps4u.streamlit.app/APP:_TCE_Searching): Teacher Certificate Exam Prep (Searcheable Phonetics & Phonology exam questions, upto 2025)
 
