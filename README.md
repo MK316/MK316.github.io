@@ -16,7 +16,7 @@
 |--|--|--|--|
 |English Pronunciation|UG(1st)|T&Th| ➡️ [Enter](https://engproclassroom.streamlit.app/)|  
 |English Phonetics|UG(2nd)|Mon&Th| ➡️ [Enter](https://englishphonetics.streamlit.app/)|  
-|Applied Linguistics|GRAD|Wed| ➡️ [TBU]| 
+|Applied Linguistics|GRAD|Wed| ➡️ [Enter](https://applied-linguistics.streamlit.app/)| 
 
 
 #### 💦 2. [Apps4U](https://apps4u.streamlit.app)
