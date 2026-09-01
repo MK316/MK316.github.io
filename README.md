@@ -15,7 +15,7 @@
 |Courses|Levels|Meetings|Digital Classroom|  
 |--|--|--|--|
 |Grad Seminar|GRAD(MA&PhD)|Tuesdays| ➡️ [Enter](https://github.com/MK316/classes/blob/main/Seminar_F26.md/)|  
-|English Phonology|UG(3rd)|Mon&Th| ➡️ [Enter](https://englishphonology.streamlit.app/)|  
+|English Phonology|UG(3rd)|Mon&Thur| ➡️ [Enter](https://englishphonology.streamlit.app/)|  
 |Special Topics|UG(4th)|Mondays| ➡️ [Enter](https://englishlinguistics.streamlit.app/)| 
 
 
