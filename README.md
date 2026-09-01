@@ -10,13 +10,13 @@
 #### 💦 1. [Goto Digital classroom archives](https://mk316home.streamlit.app/About_My_Digital_Classroom) 🔗  
 : Bring _customized learning platforms with web-apps_ to my classroom  
 
-#### 📒 Current: Spring 2026 Courses (To be updated)
+#### 📒 Current: Fall 2026 Courses (To be updated)
 
 |Courses|Levels|Meetings|Digital Classroom|  
 |--|--|--|--|
-|English Pronunciation|UG(1st)|T&Th| ➡️ [Enter](https://engproclassroom.streamlit.app/)|  
-|English Phonetics|UG(2nd)|Mon&Th| ➡️ [Enter](https://englishphonetics.streamlit.app/)|  
-|Applied Linguistics|GRAD|Wed| ➡️ [Enter](https://applied-linguistics.streamlit.app/)| 
+|Grad Seminar|GRAD(MA&PhD)|Tue| ➡️ [Enter](https://github.com/MK316/classes/blob/main/Seminar_F26.md/)|  
+|English Phonology|UG(3rd)|Mon&Th| ➡️ [Enter](https://englishphonology.streamlit.app/)|  
+|Special Topics|UG(4th)|Mon| ➡️ [Enter](https://englishlinguistics.streamlit.app/)| 
 
 
 #### 💦 2. [Apps4U](https://apps4u.streamlit.app)
